@@ -3200,7 +3200,7 @@ footer {
 
 footer .line_idolmaster {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/footer-sc1006cddc0.png) no-repeat 0 -51px;
+	background: url(../img/ui/footer-sc1006cddc0.png) no-repeat 0 -51px;
 	-webkit-background-size: 320px 75px;
 	background-size: 320px 75px;
 	width: 320px;
@@ -3209,7 +3209,7 @@ footer .line_idolmaster {
 
 footer .mypage_under {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/footer-sc1006cddc0.png) no-repeat 0 0;
+	background: url(../img/ui/footer-sc1006cddc0.png) no-repeat 0 0;
 	-webkit-background-size: 320px 75px;
 	background-size: 320px 75px;
 	width: 320px;
