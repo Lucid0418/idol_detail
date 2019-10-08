@@ -627,10 +627,10 @@
 			<% } %>
 			<div class="area-btn-common _base-width">
 				<% if(!trade_prohibition.is_trade_limit) { %>
-				<a href='<%- url_trade.replace("__hash_card_id__", data.hash_card_id) %>' class="btn_normal_line_2 <% if(!is_exist_archive) { %>m-Cnt<% } %>" style="font-size:12px">フリートレード検索</a>
+				<a href='<%- url_trade.replace("__hash_card_id__", data.hash_card_id) %>' class="btn_normal_line_2 <% if(!is_exist_archive) { %>m-Cnt<% } %>" style="font-size:12px">프리 트레이드 검색</a>
 				<% } %>
 				<% if(is_exist_archive) { %>
-				<a href='<%- url_album.replace("__hash_card_id__", data.hash_card_id) %>' class="btn_normal_line_2 <% if(trade_prohibition.is_trade_limit) { %>m-Cnt<% } %>">アルバム</a>
+				<a href='<%- url_album.replace("__hash_card_id__", data.hash_card_id) %>' class="btn_normal_line_2 <% if(trade_prohibition.is_trade_limit) { %>m-Cnt<% } %>">앨범</a>
 				<% } %>
 			</div>
 			<% if (event) { %>
@@ -650,7 +650,7 @@
 			</div>
 			<div class="area-btn-common _base-width m-Btm8">
 				<a href='<%- url_event_memory.replace("__event_id__", event[key].event_id).replace("__category_id__", event[key].category_id) %>' class="btn_normal_line_2 _line_2">이벤트 메모리<br>를 본다</a>
-				<a href='<%- url_other_event.replace("__category_id__", event[key].category_id).replace("__event_id__", event[key].event_id) %>' class="btn_normal_line_2 _line_2">他のイベント登場<br>アイドルを検索する</a>
+				<a href='<%- url_other_event.replace("__category_id__", event[key].category_id).replace("__event_id__", event[key].event_id) %>' class="btn_normal_line_2 _line_2">다른 이벤트 등장<br>아이돌을 검색한다</a>
 			</div>
 			<% }); %>
 			<% } %>
@@ -767,7 +767,7 @@
 				background-size: 608px 506px;
 			}
 		</style>
-		<script type="text/javascript">
+		<script type="text/javascript"> //카드 데이터
 			(function() {
 				var idol = {};
 				idol.detail_list = [{
@@ -1625,6 +1625,8 @@
 						"is_trade_limit": false
 					},
 					"idol_search_param": "keyword=ほうじょうかれん",
+					"premium_sign_idol_base_id": "101",
+					"js_premium_sign": "js/cjs/premium/sign_effect_101.js",
 					"archive": {
 						"normal": "1",
 						"premium": "1"
@@ -1702,6 +1704,8 @@
 						"is_trade_limit": false
 					},
 					"idol_search_param": "keyword=ほうじょうかれん",
+					"premium_sign_idol_base_id": "101",
+					"js_premium_sign": "js/cjs/premium/sign_effect_101.js",
 					"archive": {
 						"normal": "1",
 						"premium": "1"
@@ -2105,6 +2109,8 @@
 						"is_trade_limit": false
 					},
 					"idol_search_param": "keyword=ほうじょうかれん",
+					"premium_sign_idol_base_id": "101",
+					"js_premium_sign": "js/cjs/premium/sign_effect_101.js",
 					"archive": {
 						"normal": "1",
 						"premium": "1"
@@ -2261,6 +2267,8 @@
 						"is_trade_limit": false
 					},
 					"idol_search_param": "keyword=ほうじょうかれん",
+					"premium_sign_idol_base_id": "101",
+					"js_premium_sign": "js/cjs/premium/sign_effect_101.js",
 					"archive": {
 						"normal": "1",
 						"premium": "1"
@@ -2417,6 +2425,8 @@
 						"is_trade_limit": false
 					},
 					"idol_search_param": "keyword=ほうじょうかれん",
+					"premium_sign_idol_base_id": "101",
+					"js_premium_sign": "js/cjs/premium/sign_effect_101.js",
 					"archive": {
 						"normal": "1",
 						"premium": "1"
@@ -2500,6 +2510,8 @@
 						"is_trade_limit": false
 					},
 					"idol_search_param": "keyword=ほうじょうかれん",
+					"premium_sign_idol_base_id": "101",
+					"js_premium_sign": "js/cjs/premium/sign_effect_101.js",
 					"archive": {
 						"normal": "1",
 						"premium": "1"
@@ -2582,6 +2594,8 @@
 						"is_trade_limit": false
 					},
 					"idol_search_param": "keyword=ほうじょうかれん",
+					"premium_sign_idol_base_id": "101",
+					"js_premium_sign": "js/cjs/premium/sign_effect_101.js",
 					"archive": {
 						"normal": "1",
 						"premium": "1"
@@ -2664,6 +2678,8 @@
 						"is_trade_limit": false
 					},
 					"idol_search_param": "keyword=ほうじょうかれん",
+					"premium_sign_idol_base_id": "101",
+					"js_premium_sign": "js/cjs/premium/sign_effect_101.js",
 					"archive": {
 						"normal": "1",
 						"premium": "1"
@@ -2899,6 +2915,8 @@
 						"is_trade_limit": false
 					},
 					"idol_search_param": "keyword=ほうじょうかれん",
+					"premium_sign_idol_base_id": "101",
+					"js_premium_sign": "js/cjs/premium/sign_effect_101.js",
 					"archive": {
 						"normal": "1",
 						"premium": "1"
@@ -3456,6 +3474,8 @@
 						"is_trade_limit": false
 					},
 					"idol_search_param": "keyword=ほうじょうかれん",
+					"premium_sign_idol_base_id": "101",
+					"js_premium_sign": "js/cjs/premium/sign_effect_101.js",
 					"archive": {
 						"normal": "1",
 						"premium": "1"
