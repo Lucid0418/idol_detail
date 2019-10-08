@@ -44,9 +44,9 @@ function is_exists_sound(need_version) {
 }
 
 function se_play(se_name) {
-    if (!is_sounds(se_flg)) {
+    /*if (!is_sounds(se_flg)) {
         return;
-    }
+    }*/
 
     if (access_type() == hybrid) {
         window.sphybrid.sound.play(se_name);
