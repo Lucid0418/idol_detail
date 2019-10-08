@@ -1,0 +1,328 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 368.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"url de",
+				"URL Decode"
+			],
+			[
+				"url",
+				"URL Decode"
+			],
+			[
+				"URL",
+				"URL Decode"
+			],
+			[
+				"beu",
+				"BeautifyRust"
+			],
+			[
+				"deocde",
+				"URL Decode"
+			],
+			[
+				"decode",
+				"URL Decode"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"de",
+				"URL Decode"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/kyobo/Documents/GitHub/idol_detail/index.html",
+		"/C/Users/kyobo/Documents/GitHub/idol_detail/css/idol_gallery.css",
+		"/C/Users/kyobo/Documents/GitHub/idol_detail/css/new_mypage_common.css",
+		"/C/Users/kyobo/Documents/GitHub/idol_detail/js/backbone-min.js",
+		"/C/Users/kyobo/Documents/GitHub/idol_detail/js/bb_loader.min.js",
+		"/C/Users/kyobo/Documents/GitHub/idol_detail/js/boombox.min.js",
+		"/C/Users/kyobo/Documents/GitHub/idol_detail/js/gallery.min.js",
+		"/C/Users/kyobo/Documents/GitHub/idol_detail/js/islider.js",
+		"/C/Users/kyobo/Documents/GitHub/idol_detail/js/underscore-min.js",
+		"/C/Users/kyobo/Documents/GitHub/idol_detail/js/ilibrary.js",
+		"/C/Users/kyobo/Documents/GitHub/idol_detail/js/common_new.js",
+		"/C/Users/kyobo/Documents/GitHub/idol_detail/js/require.js",
+		"/D/kyobo/Pictures/교통카드이용내역/HTML table.txt",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/README.md",
+		"/C/Users/kyobo/Documents/GitHub/idol_detail/js/tweenjs-0.6.2.min.js",
+		"/C/Users/kyobo/Documents/GitHub/idol_detail/js/movieclip-0.7.1.min.js",
+		"/C/Users/kyobo/Documents/GitHub/idol_detail/js/jquery-2.2.2.min.js",
+		"/C/Users/kyobo/Documents/GitHub/idol_detail/js/easeljs-0.8.2.min.js",
+		"/C/Users/kyobo/Documents/GitHub/idol_detail/js/easeljs-0.7.1.min.js",
+		"/C/Users/kyobo/Documents/GitHub/idol_detail/js/createjs-2015.11.26.min.js",
+		"/C/Users/kyobo/Documents/GitHub/idol_detail/js/common.js",
+		"/C/Users/kyobo/Documents/GitHub/idol_detail/js/app_sound.js",
+		"/C/Users/kyobo/Documents/GitHub/idol_detail/css/base.css",
+		"/C/Users/kyobo/Documents/GitHub/노말.html",
+		"/C/Users/kyobo/Documents/GitHub/mbga_ep/etc/2019birthday/101/index.html",
+		"/D/kyobo/Pictures/교통카드이용내역/HTML table.html",
+		"/C/Users/kyobo/Documents/GitHub/petit_demo/모션.html",
+		"/C/Users/kyobo/Documents/GitHub/petit_demo/표정.html",
+		"/C/Users/kyobo/Documents/GitHub/petit_demo/pex-petit-1.2.0.js",
+		"/C/Users/kyobo/AppData/Roaming/Sublime Text 3/Packages/UrlConverter/UrlConverter.sublime-settings",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/detail/1/index.html",
+		"/C/Users/kyobo/Documents/GitHub/petit_demo/표정.js",
+		"/C/Users/kyobo/Documents/GitHub/mbga_ep/etc/2019whiteday/101/index.html",
+		"/C/Users/kyobo/Documents/GitHub/mbga_ep/etc/2019whiteday/101/index_bak.html",
+		"/C/Users/kyobo/Documents/GitHub/mbga_ep/etc/2019valentine/101/index.html",
+		"/C/Users/kyobo/Documents/shortkey_backup_20190227-1114",
+		"/C/Users/kyobo/Documents/GitHub/리프레시 프리셋/모션.html",
+		"/C/Users/kyobo/Documents/GitHub/리프레시 프리셋/표정.js",
+		"/C/Users/kyobo/Documents/GitHub/리프레시 프리셋/표정.html",
+		"/C/Users/kyobo/Documents/GitHub/petit_demo/detail/test/index.html",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/detail/82/index.html",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/12008305/js/refresh_link_list.js",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/detail/53/index.html",
+		"/C/Users/kyobo/Documents/GitHub/mbga_ep/etc/2018xmas/101/index1.html",
+		"/C/Users/kyobo/Documents/GitHub/mbga_ep/etc/2018xmas/101/index2.html",
+		"/C/Users/kyobo/Downloads/톡배 커스텀 1810.1.js",
+		"/C/Users/kyobo/Documents/GitHub/mbga_ep/event/1914/01/index.html",
+		"/C/Users/kyobo/Documents/GitHub/mbga_ep/event/1914/index.html",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/index.html",
+		"/C/Users/kyobo/Documents/GitHub/mbga_ep/event/1914/op/index.html",
+		"/C/Users/kyobo/Documents/GitHub/mbga_ep/event/1914/op/index2.html",
+		"/C/Users/kyobo/Documents/GitHub/mbga_ep/1914/op/index.html",
+		"/C/Users/kyobo/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/kyobo/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/kyobo/Downloads/투어 커스텀 1807.4.js",
+		"/C/Users/kyobo/Downloads/좆얄 커스텀 1807.2.js",
+		"/C/Users/kyobo/Downloads/챠라 커스텀 1809.4.js",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/프덕증자.js",
+		"/C/Users/kyobo/Downloads/#레어 메달 교환.js",
+		"/C/Users/kyobo/Downloads/챠라 커스텀 1806.8.js",
+		"/C/Users/kyobo/Downloads/프로 커스텀 1809.8.js",
+		"/C/Users/kyobo/Downloads/프로 커스텀 1809.7.js",
+		"/C/Users/kyobo/Documents/GitHub/petit_demo/12008305/js/petit_cg/expression/1024.js",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/detail/48/index.html",
+		"/C/Users/kyobo/Downloads/DC잉여랭킹_20171226/DC잉여랭킹.exe.config",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/detail/comingTV/1/index.html",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/detail/50/index.html",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/detail/54/index.html",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/detail/55/index.html",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/detail/52/index.html",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/detail/49/index.html",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/detail/comingTV1/index.html",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/detail/51/index.html",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/12008305/css/rich/new_mypage_common.css",
+		"/C/Users/kyobo/Documents/hosts",
+		"/C/Users/kyobo/Downloads/hosts",
+		"/C/Users/kyobo/Downloads/Shortkeys 프리셋 180623.1.js",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/detail/47/index.html",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/detail/45/index.html",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/detail/44/index.html",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/detail/43/index.html",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/detail/41/index.html",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/detail/40/index.html",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/detail/39/index.html",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/detail/37/index.html",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/detail/38/index.html",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/detail/34/index.html",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/detail/35/index.html",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/idol.md",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/costume.md",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/detail/30/index.html",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/detail/32/index.html",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/detail/29/index.html",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/detail/31/index.html",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/detail/42/index.html",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/detail/21/index.html",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/detail/20/index.html",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/detail/22/index.html",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/detail/27/index.html",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/detail/24/index.html",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/detail/23/index.html",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/detail/16/index.html",
+		"/D/kyobo/Pictures/adguard_user_filter_2.11.81_1005_1423.txt",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/detail/8/index.html",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/detail/11/index.html",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/detail/10/index.html",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/12008305/js/petit_cg/20185.js",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/12008305/js/petit_cg/20156.js",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/12008305/js/petit_cg/20148.js",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/12008305/js/petit_cg/20138.js",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/12008305/js/petit_cg/20129.js",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/12008305/js/petit_cg/20087.js",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/12008305/js/petit_cg/1185.js",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/12008305/js/petit_cg/1156.js",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/12008305/js/petit_cg/1148.js",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/12008305/js/petit_cg/1138.js",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/12008305/js/petit_cg/1129.js",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/12008305/js/petit_cg/1087.js",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/12008305/js/petit_cg/10185.js",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/12008305/js/petit_cg/10156.js",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/12008305/js/petit_cg/10148.js",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/12008305/js/petit_cg/10138.js",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/12008305/js/petit_cg/10129.js",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/12008305/js/petit_cg/10087.js",
+		"/C/Users/kyobo/Documents/GitHub/petit_demo/README.md",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/12008305/pex-petit-1.2.0.js",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/12008305/ilibrary.js",
+		"/C/Users/kyobo/Documents/GitHub/refresh_room/12008305/js/ilibrary.js"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": ".gitattributes.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 165.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
