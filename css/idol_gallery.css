@@ -254,7 +254,7 @@ body#idol_gallery {
 }
 
 .star_cool {
-	background: url(http://125.6.169.35/idolmaster/image_sp/event/common/img_fukidashi_top_cool.png?1487720052) no-repeat;
+	background: url(../img/ui/img_fukidashi_top_cool.png) no-repeat;
 	background-size: 22px;
 	width: 22px;
 	height: 16px;
