@@ -11,6 +11,26 @@
 	<link rel="stylesheet" type="text/css" href="css/new_mypage_common.css" media="all">
 	<link rel="apple-touch-icon-precomposed" href="img/ui/icon_bookmark.png">
 	<link rel="icon" href="img/ui/favicon.ico">
+	<script type = "text/javascript" >
+		if(window.localStorage) {
+			var displaySet = localStorage.getItem('DisplayPositionSet');
+			if(displaySet == 1) {
+				if(navigator.userAgent.indexOf('Android') > 0) {
+					document.write('<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">');
+					document.getElementsByTagName('html')[0].style.zoom = document.documentElement.clientWidth / 320;
+				} else {
+					document.write('<meta name="viewport" content="width=320, user-scalable=no">');
+				}
+				window.addEventListener('resize', function() {
+					if(navigator.userAgent.indexOf('Android') > 0) document.getElementsByTagName('html')[0].style.zoom = document.documentElement.clientWidth / 320;
+				});
+			} else {
+				document.write('<meta name="viewport" content="width=device-width, user-scalable=no">');
+			}
+		} else {
+			document.write('<meta name="viewport" content="width=device-width, user-scalable=no">');
+		}
+	</script>
 	<script src="js/jquery-2.2.2.min.js"></script>
 	<script src="js/underscore-min.js"></script>
 	<script src="js/require.js"></script>
