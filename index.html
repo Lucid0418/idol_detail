@@ -10,73 +10,7 @@
 	<title>모바마스 호죠 카렌 백업 앨범</title>
 	<link rel="stylesheet" type="text/css" href="css/new_mypage_common.css" media="all">
 	<link rel="apple-touch-icon-precomposed" href="img/ui/icon_bookmark.png">
-	<!--<script type="text/javascript">
-		if(window.localStorage) {
-			var displaySet = localStorage.getItem('DisplayPositionSet');
-			if(displaySet == 1) {
-				if(navigator.userAgent.indexOf('Android') > 0) {
-					document.write('<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">');
-					document.getElementsByTagName('html')[0].style.zoom = document.documentElement.clientWidth / 320;
-				} else {
-					document.write('<meta name="viewport" content="width=320, user-scalable=no">');
-				}
-				window.addEventListener('resize', function() {
-					if(navigator.userAgent.indexOf('Android') > 0) document.getElementsByTagName('html')[0].style.zoom = document.documentElement.clientWidth / 320;
-				});
-			} else {
-				document.write('<meta name="viewport" content="width=device-width, user-scalable=no">');
-			}
-		} else {
-			document.write('<meta name="viewport" content="width=device-width, user-scalable=no">');
-		}
-	</script>-->
 	<script src="js/jquery-2.2.2.min.js"></script>
-	<!--<script>
-		(function() {
-			window.viewer_id = 144399907;
-			var _url = "http://125.6.169.35/idolmaster/game_error/report_js_error?l_frm=Idol_gallery_idol_detail_1&rnd=507347876";
-			var _path = location.href;
-			var _spec_obj;
-			var _spec = 'none';
-			var version = 1;
-			// access方法検出
-			_spec_obj = {
-				'isNative': false,
-				'isAndApp': false,
-				'isShellApp': false,
-				'isIosApp': false,
-				'isChromeApp': false
-			};
-			window._spec = _spec_obj;
-			if(_spec.isAndApp) {
-				_spec = 'andapp'
-			} else if(_spec.isIosApp) {
-				_spec = 'iosApp';
-			} else if(_spec.isShellApp) {
-				_spec = 'shellapp';
-			} else {
-				_spec = 'browser?';
-			}
-			var _ua = window.navigator.userAgent.toLowerCase();
-			window.onerror = function(msg, file, line, col, error) {
-				$.ajax({
-					url: _url,
-					type: 'post',
-					data: {
-						'ua': _ua,
-						'viewer_id': window.viewer_id,
-						'path': _path,
-						'line': line,
-						'column': col,
-						'error': error,
-						'spec': _spec,
-						'spec_obj': _spec_obj,
-						'version': version
-					}
-				})
-			};
-		})();
-	</script>-->
 	<script src="js/underscore-min.js"></script>
 	<script src="js/require.js"></script>
 	<script>
@@ -97,13 +31,6 @@
 			window.$ibox = $('.ibox').ibox();
 		});
 	</script>
-	<!--<script>
-		$(document).ready(function() {
-			if(typeof newrelic === 'object' && typeof newrelic.setPageViewName === 'function') {
-				newrelic.setPageViewName('/idolmaster/index.php/idol_gallery/idol_detail/d3e95e1ca3c7b346535ad23e8619ec7e');
-			}
-		});
-	</script>-->
 	<script type='text/javascript' src='js/app_sound.js'></script>
 	<link rel="stylesheet" type="text/css" href="css/base.css" />
 </head>
@@ -763,7 +690,7 @@
 				overflow: hidden;
 				position: absolute;
 				top: 0;
-				background: url('http://125.6.169.35/idolmaster/image_sp/ui/rich/effect/card_effect_01.png') center center;
+				background: url('img/ui/card_effect_01.png') center center;
 				background-size: 608px 506px;
 			}
 		</style>
