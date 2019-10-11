@@ -188,7 +188,7 @@
 			"card_cv": "후치가미 마이"
 		},
 		"comments": {
-			"comment": "ん…あ. 프로듀서じゃん, 何してんの. えっ? 迎えに来てくれたの? …別にﾚｯｽﾝｻﾎﾞったりしないって. じゃ, いこっか? でも, ﾎﾝﾄ忙しいのに…迎えとか大丈夫だよ. …ふふっ, 嬉し. ありがと. ",
+			"comment": "음…아. 프로듀서잖아, 뭐하고 있어? 응? 마중나와 준 거야? …別にﾚｯｽﾝｻﾎﾞったりしないって. じゃ, いこっか? でも, ﾎﾝﾄ忙しいのに…迎えとか大丈夫だよ. …ふふっ, 嬉し. ありがと. ",
 			"comments_my_1": "おかげさまで, もう健康だよ",
 			"comments_my_2": "프로듀서こそ, 休み取ってる?",
 			"comments_my_3": "聞いてよ, 昨日凛と奈緒がさ…",
@@ -3205,37 +3205,22 @@
 	idol.images = {
 		"bg": {
 			"1": {
-				"cu": "img/ui/bg_idol_reality_1_cu.jpg",
-				"co": "img/ui/bg_idol_reality_1_co.jpg",
-				"pa": "img/ui/bg_idol_reality_1_pa.jpg",
-				"tr": "img/ui/bg_idol_reality_f_pa.jpg"
+				"co": "img/ui/bg_idol_reality_1_co.jpg"
 			},
 			"2": {
-				"cu": "img/ui/bg_idol_reality_2_cu.jpg",
-				"co": "img/ui/bg_idol_reality_2_co.jpg",
-				"pa": "img/ui/bg_idol_reality_2_pa.jpg"
+				"co": "img/ui/bg_idol_reality_2_co.jpg"
 			},
 			"3": {
-				"cu": "img/ui/bg_idol_reality_3_cu.jpg",
-				"co": "img/ui/bg_idol_reality_3_co.jpg",
-				"pa": "img/ui/bg_idol_reality_3_pa.jpg",
-				"tr": "img/ui/bg_idol_reality_f2_pa.jpg"
+				"co": "img/ui/bg_idol_reality_3_co.jpg"
 			},
 			"4": {
-				"cu": "img/ui/bg_idol_reality_4_cu.jpg",
-				"co": "img/ui/bg_idol_reality_4_co.jpg",
-				"pa": "img/ui/bg_idol_reality_4_pa.jpg"
+				"co": "img/ui/bg_idol_reality_4_co.jpg"
 			},
 			"5": {
-				"cu": "img/ui/bg_sr_cute.jpg",
-				"co": "img/ui/bg_sr_cool.jpg",
-				"pa": "img/ui/bg_sr_passion.jpg",
-				"tr": "img/ui/bg_sr_trainer.jpg"
+				"co": "img/ui/bg_sr_cool.jpg"
 			},
 			"6": {
-				"cu": "img/ui/bg_sr_cute.jpg",
-				"co": "img/ui/bg_sr_cool.jpg",
-				"pa": "img/ui/bg_sr_passion.jpg"
+				"co": "img/ui/bg_sr_cool.jpg"
 			}
 		},
 		"l": [
