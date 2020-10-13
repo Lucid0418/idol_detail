@@ -3359,7 +3359,7 @@
             "default_attack": "8740",
             "default_defense": "6540",
             "hash_card_id": "29f6687479f7e7ead423d615fb9dfbed",
-            "alias_name": "루미너스 스타",
+            "alias_name": "루미너스 스타(2020)",
             "real_name": "호죠 카렌"
         },
         "profile": {
@@ -3439,7 +3439,7 @@
             "default_defense": "7848",
             "skill_effect_2": "ｸｰﾙのﾌﾛﾝﾄﾒﾝﾊﾞｰ及びﾊﾞｯｸﾒﾝﾊﾞｰ上位5人の攻 小ｱｯﾌﾟ",
             "hash_card_id": "6a76dd71e7a32e904a56c1495c3c8701",
-            "alias_name": "루미너스 스타",
+            "alias_name": "루미너스 스타(2020)",
             "real_name": "호죠 카렌+"
         },
         "profile": {
