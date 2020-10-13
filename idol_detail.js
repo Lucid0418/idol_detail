@@ -3260,7 +3260,7 @@
         },
         "idol_search_param": "keyword=ほうじょうかれん",
         "premium_sign_idol_base_id": "2462001",
-        "js_premium_sign": "http://sp.pf-img-a.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/js/cjs/2462001_sign_effect",
+        "js_premium_sign": "js/cjs/premium/sign_effect_2462001.js",
         "archive": {
             "normal": "1",
             "premium": "1"
@@ -3340,7 +3340,7 @@
         },
         "idol_search_param": "keyword=ほうじょうかれん",
         "premium_sign_idol_base_id": "2562002",
-        "js_premium_sign": "http://sp.pf-img-a.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/js/cjs/2562002_sign_effect",
+        "js_premium_sign": "js/cjs/premium/sign_effect_2562002.js",
         "archive": {
             "normal": "1",
             "premium": "1"
