@@ -1,4 +1,4 @@
-| Num | ID | Name | Hash |
+| No | ID | Name | Hash |
 | -- | -- | --| -- |
 | 0 | 2200901 | 호죠 카렌 | d3e95e1ca3c7b346535ad23e8619ec7e |
 | 1 | 2300902 | 호죠 카렌+ | 341cefa6c1f43b09054cabc7f0b0c93b |
