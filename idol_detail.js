@@ -3031,7 +3031,7 @@
 		"is_max_love": true
 	}, {
         "data": {
-            "card_name": "[煌めきのひととき]北条加蓮",
+            "card_name": "[반짝임의 한때]호죠 카렌",
             "rarity": "5",
             "cost": "26",
             "attribute": "cool",
@@ -3041,12 +3041,12 @@
             "default_attack": "8480",
             "default_defense": "6500",
             "hash_card_id": "30bc6c8b937726fbf1102925ad443dd6",
-            "alias_name": "煌めきのひととき",
-            "real_name": "北条加蓮"
+            "alias_name": "반짝임의 한때",
+            "real_name": "호죠 카렌"
         },
         "profile": {
             "card_id": "2460901",
-            "card_name": "[煌めきのひととき]北条加蓮",
+            "card_name": "[반짝임의 한때]호죠 카렌",
             "card_kana": "ほうじょうかれん",
             "card_age": "16",
             "card_from": "東京",
@@ -3063,36 +3063,36 @@
             "card_cv": "渕上舞"
         },
         "comments": {
-            "comment": "あｰ､もう…そんなに見つめちゃﾀﾞﾒだよ､ﾙｼﾄﾞさん｡今日はお忍びで来てるんだから｡遊園地にｱｲﾄﾞﾙの北条加蓮が来てるってﾊﾞﾚたら､たまのｵﾌを満喫できないでしょ? ふふっ",
+            "comment": "あｰ､もう…そんなに見つめちゃﾀﾞﾒだよ､○○さん｡今日はお忍びで来てるんだから｡遊園地にｱｲﾄﾞﾙの호죠 카렌が来てるってﾊﾞﾚたら､たまのｵﾌを満喫できないでしょ? ふふっ",
             "comments_my_1": "その瞳に映していてね…♪",
             "comments_my_2": "今の時間､絶対忘れないよ",
             "comments_my_3": "子どもっぽいこと､したいんだ",
-            "comments_my_4": "ﾙｼﾄﾞさん､疲れちゃった? しかたないなｰ｡じゃ､休憩!",
+            "comments_my_4": "○○さん､疲れちゃった? しかたないなｰ｡じゃ､休憩!",
             "comments_my_max": "ﾎﾟｯﾌﾟｺｰﾝは一番大きいのを買おうよ! それで､二人で食べるの",
             "comments_work_1": "ここでの出会いは､運命かもね",
             "comments_work_2": "みんなの声､すっごく楽しそう!",
             "comments_work_3": "…やばっ､見つかっちゃった?",
             "comments_work_4": "遊園地って､今も昔も特別な場所｡私には夢の場所だったから",
-            "comments_work_max": "はしゃいでいいって言ったのは､ﾙｼﾄﾞさんだからね?",
+            "comments_work_max": "はしゃいでいいって言ったのは､○○さんだからね?",
             "comments_work_love_up": "やってみたかったんだ､お忍びﾃﾞｰﾄ♪ｱｲﾄﾞﾙって感じするし!",
             "comments_live": "次はどれに乗ろっか♪",
-            "comments_love_max": "ｼﾞｪｯﾄｺｰｽﾀｰに乗り終わったら､観覧車にも乗りたいな♪ﾙｼﾄﾞさんが降参しても､止まってあげない｡遊びつくそうね!"
+            "comments_love_max": "ｼﾞｪｯﾄｺｰｽﾀｰに乗り終わったら､観覧車にも乗りたいな♪○○さんが降参しても､止まってあげない｡遊びつくそうね!"
         },
         "voice": {
-            "comment": "http://idolmaster.edgesuite.net/idolmaster/sound/2460901/3c863038a4d7a694ba2d8f1ceb02e204.mp4",
-            "comments_my_1": "http://idolmaster.edgesuite.net/idolmaster/sound/2460901/7f14d7778595951882ad5ec88d8463db.mp4",
-            "comments_my_2": "http://idolmaster.edgesuite.net/idolmaster/sound/2460901/d5e9b4c1c444de25fef6714249ad6499.mp4",
-            "comments_my_3": "http://idolmaster.edgesuite.net/idolmaster/sound/2460901/caa44f188fb4fc762c3ddcf7736356ab.mp4",
-            "comments_my_4": "http://idolmaster.edgesuite.net/idolmaster/sound/2460901/643ba0550e52904914247f11ec83a40b.mp4",
-            "comments_my_max": "http://idolmaster.edgesuite.net/idolmaster/sound/2460901/3ff5568e9ae7d0791759579ff88fd5a0.mp4",
-            "comments_work_1": "http://idolmaster.edgesuite.net/idolmaster/sound/2460901/dd8911d1d3a24e9150267f2d07e6d53f.mp4",
-            "comments_work_2": "http://idolmaster.edgesuite.net/idolmaster/sound/2460901/4c3b6b3e9a9f5762fe963b9ebbf79141.mp4",
-            "comments_work_3": "http://idolmaster.edgesuite.net/idolmaster/sound/2460901/3ad1582c9ff042f72ecec7d518b6d0e7.mp4",
-            "comments_work_4": "http://idolmaster.edgesuite.net/idolmaster/sound/2460901/7a51499eb01a938b124cae6d0824e051.mp4",
-            "comments_work_max": "http://idolmaster.edgesuite.net/idolmaster/sound/2460901/5c9d1e419d81416df40ba611546865b5.mp4",
-            "comments_work_love_up": "http://idolmaster.edgesuite.net/idolmaster/sound/2460901/d1aa6ee18414a259ae61deba2832f255.mp4",
-            "comments_live": "http://idolmaster.edgesuite.net/idolmaster/sound/2460901/a48cbd1156ac9d6bd3f8fabe94b5a8e9.mp4",
-            "comments_love_max": "http://idolmaster.edgesuite.net/idolmaster/sound/2460901/36199e79b504c2ccda43984c940f9ed0.mp4"
+            "comment": "voice/2460901/3c863038a4d7a694ba2d8f1ceb02e204.mp4",
+            "comments_my_1": "voice/2460901/7f14d7778595951882ad5ec88d8463db.mp4",
+            "comments_my_2": "voice/2460901/d5e9b4c1c444de25fef6714249ad6499.mp4",
+            "comments_my_3": "voice/2460901/caa44f188fb4fc762c3ddcf7736356ab.mp4",
+            "comments_my_4": "voice/2460901/643ba0550e52904914247f11ec83a40b.mp4",
+            "comments_my_max": "voice/2460901/3ff5568e9ae7d0791759579ff88fd5a0.mp4",
+            "comments_work_1": "voice/2460901/dd8911d1d3a24e9150267f2d07e6d53f.mp4",
+            "comments_work_2": "voice/2460901/4c3b6b3e9a9f5762fe963b9ebbf79141.mp4",
+            "comments_work_3": "voice/2460901/3ad1582c9ff042f72ecec7d518b6d0e7.mp4",
+            "comments_work_4": "voice/2460901/7a51499eb01a938b124cae6d0824e051.mp4",
+            "comments_work_max": "voice/2460901/5c9d1e419d81416df40ba611546865b5.mp4",
+            "comments_work_love_up": "voice/2460901/d1aa6ee18414a259ae61deba2832f255.mp4",
+            "comments_live": "voice/2460901/a48cbd1156ac9d6bd3f8fabe94b5a8e9.mp4",
+            "comments_love_max": "voice/2460901/36199e79b504c2ccda43984c940f9ed0.mp4"
         },
         "event": null,
         "release": "",
@@ -3110,7 +3110,7 @@
         "is_max_love": true
     }, {
         "data": {
-            "card_name": "[煌めきのひととき]北条加蓮+",
+            "card_name": "[반짝임의 한때]호죠 카렌+",
             "rarity": "6",
             "cost": "26",
             "attribute": "cool",
@@ -3121,12 +3121,12 @@
             "default_defense": "7800",
             "skill_effect_2": "ｷｭｰﾄ･ﾊﾟｯｼｮﾝのﾌﾛﾝﾄﾒﾝﾊﾞｰ及びﾊﾞｯｸﾒﾝﾊﾞｰ上位3人の攻 超絶ｱｯﾌﾟ",
             "hash_card_id": "0baa4b63a6c0edb2f666eed9b8e237cc",
-            "alias_name": "煌めきのひととき",
-            "real_name": "北条加蓮+"
+            "alias_name": "반짝임의 한때",
+            "real_name": "호죠 카렌+"
         },
         "profile": {
             "card_id": "2560902",
-            "card_name": "[煌めきのひととき]北条加蓮+",
+            "card_name": "[반짝임의 한때]호죠 카렌+",
             "card_kana": "ほうじょうかれん",
             "card_age": "16",
             "card_from": "東京",
@@ -3148,7 +3148,7 @@
             "comments_my_2": "今の時間､絶対忘れないよ",
             "comments_my_3": "零れる程の､たくさんの光だね",
             "comments_my_4": "みんなの声､ちゃんと届いてるよ｡この胸に､しっかりしまうね!",
-            "comments_my_max": "みんなと､ﾙｼﾄﾞさんと歩んできた道はまだ続くんだ",
+            "comments_my_max": "みんなと､○○さんと歩んできた道はまだ続くんだ",
             "comments_work_1": "ここでの出会いは､運命かもね",
             "comments_work_2": "みんなの声､すっごく楽しそう!",
             "comments_work_3": "歌詞ひとつひとつを､大切に…",
@@ -3156,7 +3156,7 @@
             "comments_work_max": "あなたと過ごせる､この時間が…かけがえのない宝物だよ",
             "comments_work_love_up": "どうか聴いてて｡これが､あなたが信じてくれた私の歌だよ",
             "comments_live": "泣いても､いいよね…?",
-            "comments_love_max": "あと､どれくらいかな? 私はまだ､もっと…ずっと､舞台に立っていたい｡ﾙｼﾄﾞさんがくれる光の中で歌い続けたいんだ"
+            "comments_love_max": "あと､どれくらいかな? 私はまだ､もっと…ずっと､舞台に立っていたい｡○○さんがくれる光の中で歌い続けたいんだ"
         },
         "voice": {
             "comment": "http://idolmaster.edgesuite.net/idolmaster/sound/2560902/521489e2e555cf878502f0c3105fa225.mp4",
@@ -3190,7 +3190,7 @@
         "is_max_love": true
     }, {
         "data": {
-            "card_name": "[ｼﾝﾃﾞﾚﾗｶﾞｰﾙ]北条加蓮",
+            "card_name": "[신데렐라 걸]호죠 카렌",
             "rarity": "5",
             "cost": "26",
             "attribute": "cool",
@@ -3200,12 +3200,12 @@
             "default_attack": "7740",
             "default_defense": "7740",
             "hash_card_id": "d56f88bc11b49b2bda99c446a28b701f",
-            "alias_name": "ｼﾝﾃﾞﾚﾗｶﾞｰﾙ",
-            "real_name": "北条加蓮"
+            "alias_name": "신데렐라 걸",
+            "real_name": "호죠 카렌"
         },
         "profile": {
             "card_id": "2462001",
-            "card_name": "[シンデレラガール]北条加蓮",
+            "card_name": "[シンデレラガール]호죠 카렌",
             "card_kana": "ほうじょうかれん",
             "card_age": "16",
             "card_from": "東京",
@@ -3227,15 +3227,15 @@
             "comments_my_2": "私の宝物…絶対離さないよ♪",
             "comments_my_3": "毎日きらめいて､ﾜｸﾜｸしてる♪",
             "comments_my_4": "希望があるから､人は生きていけるのかな…? なんてねっ",
-            "comments_my_max": "ﾙｼﾄﾞさんと一緒に現場に行く､この時間…好きなんだ",
+            "comments_my_max": "○○さんと一緒に現場に行く､この時間…好きなんだ",
             "comments_work_1": "目に映るもの全部…ｷﾗｷﾗしてる",
             "comments_work_2": "私って､こんなに笑えたんだね",
             "comments_work_3": "支えてくれる人がいるもんね",
             "comments_work_4": "背中を預けられるって､いいね｡それが大切な人なら､なおさら",
-            "comments_work_max": "早く行こ! ﾙｼﾄﾞさんと見たいもの､いっぱいあるんだ",
-            "comments_work_love_up": "ﾙｼﾄﾞさんの隣って､肩の力が抜けるんだよね｡不思議",
+            "comments_work_max": "早く行こ! ○○さんと見たいもの､いっぱいあるんだ",
+            "comments_work_love_up": "○○さんの隣って､肩の力が抜けるんだよね｡不思議",
             "comments_live": "背中､あったかいかも",
-            "comments_love_max": "ねぇ…知ってた? ﾙｼﾄﾞさんに出逢ったあの日から､私の時間は色鮮やかに変わって…確かに進み始めたんだよ"
+            "comments_love_max": "ねぇ…知ってた? ○○さんに出逢ったあの日から､私の時間は色鮮やかに変わって…確かに進み始めたんだよ"
         },
         "voice": {
             "comment": "http://idolmaster.edgesuite.net/idolmaster/sound/2462001/96541506459ed9f6d91f308cac8e0301.mp4",
@@ -3269,7 +3269,7 @@
         "is_max_love": true
     }, {
         "data": {
-            "card_name": "[ｼﾝﾃﾞﾚﾗｶﾞｰﾙ]北条加蓮+",
+            "card_name": "[신데렐라 걸]호죠 카렌+",
             "rarity": "6",
             "cost": "26",
             "attribute": "cool",
@@ -3280,12 +3280,12 @@
             "default_defense": "9288",
             "skill_effect_2": "全ﾀｲﾌﾟのﾌﾛﾝﾄﾒﾝﾊﾞｰ及びﾊﾞｯｸﾒﾝﾊﾞｰ上位5人の攻守 小ｱｯﾌﾟ",
             "hash_card_id": "3cea4fa7b1da7808909460fb620f97c6",
-            "alias_name": "ｼﾝﾃﾞﾚﾗｶﾞｰﾙ",
-            "real_name": "北条加蓮+"
+            "alias_name": "신데렐라 걸",
+            "real_name": "호죠 카렌+"
         },
         "profile": {
             "card_id": "2562002",
-            "card_name": "[シンデレラガール]北条加蓮+",
+            "card_name": "[シンデレラガール]호죠 카렌+",
             "card_kana": "ほうじょうかれん",
             "card_age": "16",
             "card_from": "東京",
@@ -3307,15 +3307,15 @@
             "comments_my_2": "私の宝物…絶対離さないよ♪",
             "comments_my_3": "涙よりも笑顔が溢れちゃうんだ",
             "comments_my_4": "私がｱｲﾄﾞﾙとか､はじめは半信半疑だったよ｡でも今は…幸せ♪",
-            "comments_my_max": "誰よりも､貴方が誇って｡北条加蓮は…貴方が育てたｱｲﾄﾞﾙだよ",
+            "comments_my_max": "誰よりも､貴方が誇って｡호죠 카렌は…貴方が育てたｱｲﾄﾞﾙだよ",
             "comments_work_1": "目に映るもの全部…ｷﾗｷﾗしてる",
             "comments_work_2": "私って､こんなに笑えたんだね",
             "comments_work_3": "ね? 私を選んで良かったでしょ",
             "comments_work_4": "昔の自分に伝えたいな｡信じること…やめないでよかったって",
-            "comments_work_max": "私も選んだんだよ｡ﾙｼﾄﾞさんと一緒に歩いてくことを",
+            "comments_work_max": "私も選んだんだよ｡○○さんと一緒に歩いてくことを",
             "comments_work_love_up": "この靴って重いんだ…｡心がｷﾞｭって詰まってる感じ♪",
             "comments_live": "受け取ったのは…想いの形",
-            "comments_love_max": "こんなｽﾄｰﾘｰ､誰か予想してたかな? ﾙｼﾄﾞさんは､わかってた? ふふっ､私も信じてた｡貴方だから､信じられたんだ"
+            "comments_love_max": "こんなｽﾄｰﾘｰ､誰か予想してたかな? ○○さんは､わかってた? ふふっ､私も信じてた｡貴方だから､信じられたんだ"
         },
         "voice": {
             "comment": "http://idolmaster.edgesuite.net/idolmaster/sound/2562002/fe3c64a1a78bd4e18cbcd9a6ce358f91.mp4",
@@ -3349,7 +3349,7 @@
         "is_max_love": true
     }, {
         "data": {
-            "card_name": "[ﾙﾐﾅｽｽﾀｰ]北条加蓮",
+            "card_name": "[루미너스 스타]호죠 카렌(2020)",
             "rarity": "5",
             "cost": "26",
             "attribute": "cool",
@@ -3359,12 +3359,12 @@
             "default_attack": "8740",
             "default_defense": "6540",
             "hash_card_id": "29f6687479f7e7ead423d615fb9dfbed",
-            "alias_name": "ﾙﾐﾅｽｽﾀｰ",
-            "real_name": "北条加蓮"
+            "alias_name": "루미너스 스타",
+            "real_name": "호죠 카렌"
         },
         "profile": {
             "card_id": "2463301",
-            "card_name": "[ルミナススター]北条加蓮",
+            "card_name": "[루미너스 스타]호죠 카렌(2020)",
             "card_kana": "ほうじょうかれん",
             "card_age": "16",
             "card_from": "東京",
@@ -3386,15 +3386,15 @@
             "comments_my_2": "うん､私もﾄﾞｷﾄﾞｷしてるんだ",
             "comments_my_3": "ｵｽｽﾒのｼｰﾝは…全部でしょ♪",
             "comments_my_4": "見てるだけ? ﾊｲﾀｯﾁもしようよ｡…ふふっ､手､あったかいね♪",
-            "comments_my_max": "ﾙｼﾄﾞさんに支えられた場面も､たくさんあるんだ",
+            "comments_my_max": "○○さんに支えられた場面も､たくさんあるんだ",
             "comments_work_1": "新しい挑戦､見ていてほしいな",
             "comments_work_2": "支えられて､ここまで来たんだ",
             "comments_work_3": "みんなの笑顔､眩しすぎだって",
             "comments_work_4": "映画で伝えたいのは､夢を遠ざけないで､前に進んでってこと",
-            "comments_work_max": "ﾙｼﾄﾞさんの瞳にも映して｡あなたと描いた私の軌跡を",
+            "comments_work_max": "○○さんの瞳にも映して｡あなたと描いた私の軌跡を",
             "comments_work_love_up": "応援ありがとう｡これからも､ずっとずっと…くれるよね♪",
             "comments_live": "もうすぐ上映ｽﾀｰﾄだよ",
-            "comments_love_max": "私は特別強いわけじゃない…ひとりだったら､夢は夢のままだったよ｡ﾌｧﾝとﾙｼﾄﾞさんがいたから､ｱｲﾄﾞﾙになれたんだ"
+            "comments_love_max": "私は特別強いわけじゃない…ひとりだったら､夢は夢のままだったよ｡ﾌｧﾝと○○さんがいたから､ｱｲﾄﾞﾙになれたんだ"
         },
         "voice": {
             "comment": "http://idolmaster.edgesuite.net/idolmaster/sound/2463301/b4979c1043867bc64dc7801a74b35ed2.mp4",
@@ -3428,7 +3428,7 @@
         "is_max_love": true
     }, {
         "data": {
-            "card_name": "[ﾙﾐﾅｽｽﾀｰ]北条加蓮+",
+            "card_name": "[루미너스 스타]호죠 카렌+(2020)",
             "rarity": "6",
             "cost": "26",
             "attribute": "cool",
@@ -3439,12 +3439,12 @@
             "default_defense": "7848",
             "skill_effect_2": "ｸｰﾙのﾌﾛﾝﾄﾒﾝﾊﾞｰ及びﾊﾞｯｸﾒﾝﾊﾞｰ上位5人の攻 小ｱｯﾌﾟ",
             "hash_card_id": "6a76dd71e7a32e904a56c1495c3c8701",
-            "alias_name": "ﾙﾐﾅｽｽﾀｰ",
-            "real_name": "北条加蓮+"
+            "alias_name": "루미너스 스타",
+            "real_name": "호죠 카렌+"
         },
         "profile": {
             "card_id": "2563302",
-            "card_name": "[ルミナススター]北条加蓮+",
+            "card_name": "[루미너스 스타]호죠 카렌+(2020)",
             "card_kana": "ほうじょうかれん",
             "card_age": "16",
             "card_from": "東京",
@@ -3466,15 +3466,15 @@
             "comments_my_2": "うん､私もﾄﾞｷﾄﾞｷしてるんだ",
             "comments_my_3": "新しいｽﾀｰﾄを､一緒に切ろう!",
             "comments_my_4": "何気なかった日々が､どんどん色づいていくんだ｡私らしく",
-            "comments_my_max": "過去は捨てない｡背負ってﾙｼﾄﾞさんと未来へ進むよ",
+            "comments_my_max": "過去は捨てない｡背負って○○さんと未来へ進むよ",
             "comments_work_1": "新しい挑戦､見ていてほしいな",
             "comments_work_2": "支えられて､ここまで来たんだ",
             "comments_work_3": "憧れの先には､未来があるよ!",
             "comments_work_4": "思いっきりｼﾞｬﾝﾌﾟっ! ふふっ､楽しい! 色んなﾎﾟｰｽﾞを撮ってね",
-            "comments_work_max": "ﾙｼﾄﾞさんと見たいｷﾗｷﾗの未来…全部､叶えていこうっ",
+            "comments_work_max": "○○さんと見たいｷﾗｷﾗの未来…全部､叶えていこうっ",
             "comments_work_love_up": "眩しくても受け止めるよ｡あなたが用意した､私の舞台だもん",
             "comments_live": "宝石よりも輝く笑顔で!",
-            "comments_love_max": "ﾙｼﾄﾞさんは知ってるよね｡私って負けず嫌いで欲張りなんだ｡だから…あなたと一緒に､もっともっと輝きたいっ!"
+            "comments_love_max": "○○さんは知ってるよね｡私って負けず嫌いで欲張りなんだ｡だから…あなたと一緒に､もっともっと輝きたいっ!"
         },
         "voice": {
             "comment": "http://idolmaster.edgesuite.net/idolmaster/sound/2563302/9c2b93402ef60958d54803bfe6a58f7d.mp4",
@@ -3738,8 +3738,14 @@
 			"img/card/sign_b/ea67a1c2e4dd0b154208e29fcc77c080.jpg",
 			"img/card/sign_b/3b93a24a002e6f451cadf802e7819d99.jpg",
 			"img/card/sign_b/da96ac937de70d9c503f51505ed76751.jpg",
-			"img/card/sign_b/4558933d186756f44b25231017bb5b60.jpg"
-		],
+			"img/card/sign_b/4558933d186756f44b25231017bb5b60.jpg",
+			"img/card/sign_b/30bc6c8b937726fbf1102925ad443dd6.jpg",
+			"img/card/sign_b/0baa4b63a6c0edb2f666eed9b8e237cc.jpg",
+			"img/card/sign_b/d56f88bc11b49b2bda99c446a28b701f.jpg",
+			"img/card/sign_b/3cea4fa7b1da7808909460fb620f97c6.jpg",
+			"img/card/sign_b/29f6687479f7e7ead423d615fb9dfbed.jpg",
+			"img/card/sign_b/6a76dd71e7a32e904a56c1495c3c8701.jpg"
+			],
 		"l_premium": {
 			"6": "img/card/sign_p/855d33d77752c725474da494a0e9e239.jpg",
 			"7": "img/card/sign_p/7d8203e3cc992b16c5308358601375ea.jpg",
@@ -3772,7 +3778,13 @@
 			"34": "img/card/sign_p/ea67a1c2e4dd0b154208e29fcc77c080.jpg",
 			"35": "img/card/sign_p/3b93a24a002e6f451cadf802e7819d99.jpg",
 			"36": "img/card/sign_p/da96ac937de70d9c503f51505ed76751.jpg",
-			"37": "img/card/sign_p/4558933d186756f44b25231017bb5b60.jpg"
+			"37": "img/card/sign_p/4558933d186756f44b25231017bb5b60.jpg",
+			"38": "img/card/sign_p/30bc6c8b937726fbf1102925ad443dd6.jpg",
+			"39": "img/card/sign_p/0baa4b63a6c0edb2f666eed9b8e237cc.jpg",
+			"40": "img/card/sign_p/d56f88bc11b49b2bda99c446a28b701f.jpg",
+			"41": "img/card/sign_p/3cea4fa7b1da7808909460fb620f97c6.jpg",
+			"42": "img/card/sign_p/29f6687479f7e7ead423d615fb9dfbed.jpg",
+			"43": "img/card/sign_p/6a76dd71e7a32e904a56c1495c3c8701.jpg"
 		},
 		"l_nosign": [
 			"",
@@ -3812,7 +3824,14 @@
 			"img/card/nosign/ea67a1c2e4dd0b154208e29fcc77c080.jpg",
 			"img/card/nosign/3b93a24a002e6f451cadf802e7819d99.jpg",
 			"img/card/nosign/da96ac937de70d9c503f51505ed76751.jpg",
-			"img/card/nosign/4558933d186756f44b25231017bb5b60.jpg"],
+			"img/card/nosign/4558933d186756f44b25231017bb5b60.jpg",
+			"img/card/nosign/30bc6c8b937726fbf1102925ad443dd6.jpg",
+			"img/card/nosign/0baa4b63a6c0edb2f666eed9b8e237cc.jpg",
+			"img/card/nosign/d56f88bc11b49b2bda99c446a28b701f.jpg",
+			"img/card/nosign/3cea4fa7b1da7808909460fb620f97c6.jpg",
+			"img/card/nosign/29f6687479f7e7ead423d615fb9dfbed.jpg",
+			"img/card/nosign/6a76dd71e7a32e904a56c1495c3c8701.jpg"
+			],
 		"l_nosign_p": {
 			"6": "img/card/nosign_p/855d33d77752c725474da494a0e9e239.jpg",
 			"7": "img/card/nosign_p/7d8203e3cc992b16c5308358601375ea.jpg",
@@ -3845,7 +3864,13 @@
 			"34": "img/card/nosign_p/ea67a1c2e4dd0b154208e29fcc77c080.jpg",
 			"35": "img/card/nosign_p/3b93a24a002e6f451cadf802e7819d99.jpg",
 			"36": "img/card/nosign_p/da96ac937de70d9c503f51505ed76751.jpg",
-			"37": "img/card/nosign_p/4558933d186756f44b25231017bb5b60.jpg"
+			"37": "img/card/nosign_p/4558933d186756f44b25231017bb5b60.jpg",
+			"38": "img/card/nosign_p/30bc6c8b937726fbf1102925ad443dd6.jpg",
+			"39": "img/card/nosign_p/0baa4b63a6c0edb2f666eed9b8e237cc.jpg",
+			"40": "img/card/nosign_p/d56f88bc11b49b2bda99c446a28b701f.jpg",
+			"41": "img/card/nosign_p/3cea4fa7b1da7808909460fb620f97c6.jpg",
+			"42": "img/card/nosign_p/29f6687479f7e7ead423d615fb9dfbed.jpg",
+			"43": "img/card/nosign_p/6a76dd71e7a32e904a56c1495c3c8701.jpg"
 		},
 		"l_noframe": [
 			null,
@@ -3885,12 +3910,112 @@
 			"img/card/noframe/ea67a1c2e4dd0b154208e29fcc77c080.jpg",
 			"img/card/noframe/3b93a24a002e6f451cadf802e7819d99.jpg",
 			"img/card/noframe/da96ac937de70d9c503f51505ed76751.jpg",
-			"img/card/noframe/4558933d186756f44b25231017bb5b60.jpg"
-		],
-		"mask_l": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
-		"mask_l2": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
-		"mask_l_p": [],
-		"mask_l2_p": [],
+			"img/card/noframe/4558933d186756f44b25231017bb5b60.jpg",
+			"img/card/noframe/30bc6c8b937726fbf1102925ad443dd6.jpg",
+			"img/card/noframe/0baa4b63a6c0edb2f666eed9b8e237cc.jpg",
+			"img/card/noframe/d56f88bc11b49b2bda99c446a28b701f.jpg",
+			"img/card/noframe/3cea4fa7b1da7808909460fb620f97c6.jpg",
+			"img/card/noframe/29f6687479f7e7ead423d615fb9dfbed.jpg",
+			"img/card/noframe/6a76dd71e7a32e904a56c1495c3c8701.jpg"
+			],
+		"mask_l": {
+		    "0": "",
+		    "1": "",
+		    "2": "",
+		    "3": "",
+		    "4": "",
+		    "5": "",
+		    "6": "",
+		    "7": "",
+		    "8": "",
+		    "9": "",
+		    "10": "",
+		    "11": "",
+		    "12": "",
+		    "13": "",
+		    "14": "",
+		    "15": "",
+		    "16": "",
+		    "17": "",
+		    "18": "",
+		    "19": "",
+		    "20": "",
+		    "21": "",
+		    "22": "",
+		    "23": "",
+		    "24": "",
+		    "25": "",
+		    "26": "",
+		    "27": "",
+		    "28": "",
+		    "29": "",
+		    "30": "",
+		    "31": "",
+		    "32": "",
+		    "33": "",
+		    "34": "",
+		    "35": "",
+		    "36": "",
+		    "37": "",
+		    "38": "",
+		    "39": "",
+		    "40": "img/card/mask_l/d56f88bc11b49b2bda99c446a28b701f.png",
+		    "42": "",
+		    "43": ""
+		},
+		"mask_l2": {
+		    "0": "",
+		    "1": "",
+		    "2": "",
+		    "3": "",
+		    "4": "",
+		    "5": "",
+		    "6": "",
+		    "7": "",
+		    "8": "",
+		    "9": "",
+		    "10": "",
+		    "11": "",
+		    "12": "",
+		    "13": "",
+		    "14": "",
+		    "15": "",
+		    "16": "",
+		    "17": "",
+		    "18": "",
+		    "19": "",
+		    "20": "",
+		    "21": "",
+		    "22": "",
+		    "23": "",
+		    "24": "",
+		    "25": "",
+		    "26": "",
+		    "27": "",
+		    "28": "",
+		    "29": "",
+		    "30": "",
+		    "31": "",
+		    "32": "",
+		    "33": "",
+		    "34": "",
+		    "35": "",
+		    "36": "",
+		    "37": "",
+		    "38": "",
+		    "39": "",
+		    "40": "img/card/mask_l2/d56f88bc11b49b2bda99c446a28b701f.png",
+		    "42": "",
+		    "43": ""
+		},
+		"mask_l_p": {
+		    "40": "img/card/mask_l_p/d56f88bc11b49b2bda99c446a28b701f.png",
+		    "41": "img/card/mask_l_p/3cea4fa7b1da7808909460fb620f97c6.png"
+		},
+		"mask_l2_p": {
+		    "40": "img/card/mask_l2_p/d56f88bc11b49b2bda99c446a28b701f.png",
+		    "41": "img/card/mask_l2_p/3cea4fa7b1da7808909460fb620f97c6.png"
+		},
 		"xs": [
 			"img/card/xs/d3e95e1ca3c7b346535ad23e8619ec7e.jpg",
 			"img/card/xs/341cefa6c1f43b09054cabc7f0b0c93b.jpg",
@@ -3929,8 +4054,14 @@
 			"img/card/xs/ea67a1c2e4dd0b154208e29fcc77c080.jpg",
 			"img/card/xs/3b93a24a002e6f451cadf802e7819d99.jpg",
 			"img/card/xs/da96ac937de70d9c503f51505ed76751.jpg",
-			"img/card/xs/4558933d186756f44b25231017bb5b60.jpg"
-		],
+			"img/card/xs/4558933d186756f44b25231017bb5b60.jpg",
+			"img/card/xs/30bc6c8b937726fbf1102925ad443dd6.jpg",
+			"img/card/xs/0baa4b63a6c0edb2f666eed9b8e237cc.jpg",
+			"img/card/xs/d56f88bc11b49b2bda99c446a28b701f.jpg",
+			"img/card/xs/3cea4fa7b1da7808909460fb620f97c6.jpg",
+			"img/card/xs/29f6687479f7e7ead423d615fb9dfbed.jpg",
+			"img/card/xs/6a76dd71e7a32e904a56c1495c3c8701.jpg"
+			],
 		"m2": [
 			"img/card/m2/d3e95e1ca3c7b346535ad23e8619ec7e.jpg",
 			"img/card/m2/341cefa6c1f43b09054cabc7f0b0c93b.jpg",
@@ -3969,8 +4100,14 @@
 			"img/card/m2/ea67a1c2e4dd0b154208e29fcc77c080.jpg",
 			"img/card/m2/3b93a24a002e6f451cadf802e7819d99.jpg",
 			"img/card/m2/da96ac937de70d9c503f51505ed76751.jpg",
-			"img/card/m2/4558933d186756f44b25231017bb5b60.jpg"
-		],
+			"img/card/m2/4558933d186756f44b25231017bb5b60.jpg",
+			"img/card/m2/30bc6c8b937726fbf1102925ad443dd6.jpg",
+			"img/card/m2/0baa4b63a6c0edb2f666eed9b8e237cc.jpg",
+			"img/card/m2/d56f88bc11b49b2bda99c446a28b701f.jpg",
+			"img/card/m2/3cea4fa7b1da7808909460fb620f97c6.jpg",
+			"img/card/m2/29f6687479f7e7ead423d615fb9dfbed.jpg",
+			"img/card/m2/6a76dd71e7a32e904a56c1495c3c8701.jpg"
+			],
 		"quest": [
 			"img/card/quest/d3e95e1ca3c7b346535ad23e8619ec7e.png",
 			"img/card/quest/341cefa6c1f43b09054cabc7f0b0c93b.png",
@@ -4009,8 +4146,14 @@
 			"img/card/quest/ea67a1c2e4dd0b154208e29fcc77c080.jpg",
 			"img/card/quest/3b93a24a002e6f451cadf802e7819d99.jpg",
 			"img/card/quest/da96ac937de70d9c503f51505ed76751.jpg",
-			"img/card/quest/4558933d186756f44b25231017bb5b60.jpg"
-		]
+			"img/card/quest/4558933d186756f44b25231017bb5b60.jpg",
+			"img/card/quest/30bc6c8b937726fbf1102925ad443dd6.jpg",
+			"img/card/quest/0baa4b63a6c0edb2f666eed9b8e237cc.jpg",
+			"img/card/quest/d56f88bc11b49b2bda99c446a28b701f.jpg",
+			"img/card/quest/3cea4fa7b1da7808909460fb620f97c6.jpg",
+			"img/card/quest/29f6687479f7e7ead423d615fb9dfbed.jpg",
+			"img/card/quest/6a76dd71e7a32e904a56c1495c3c8701.jpg"
+			]
 	};
 	idol.ios_app_flg = false;
 	idol.apple_review = null;
