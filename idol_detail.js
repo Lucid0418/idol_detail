@@ -3508,6 +3508,24 @@
         "is_max_love": true
     }];
 	idol.idol_story_list = [{
+		"story_id": "420",
+        "story_title": "루미너스 스타(2020) 호죠 카렌",
+        "voice_enable": ["1", "1"],
+        "flash_path": ["http://sp.pf.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/idol_story/movie_play/420/1/idol_gallery--idol_detail--__hash_card_id__--2?l_frm=Idol_gallery_idol_detail_1&rnd=117959544", "http://sp.pf.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/idol_story/movie_play/420/2/idol_gallery--idol_detail--__hash_card_id__--2?l_frm=Idol_gallery_idol_detail_1&rnd=605998102"],
+        "voice_url": ["http://sp.pf.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/idol_story/sound_play/420/1/idol_gallery/__hash_card_id__?l_frm=Idol_gallery_idol_detail_1&rnd=383469564", "http://sp.pf.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/idol_story/sound_play/420/2/idol_gallery/__hash_card_id__?l_frm=Idol_gallery_idol_detail_1&rnd=350709384"],
+        "open_flag": ["1", "1"],
+        "icon": ["http://125.6.169.35/idolmaster/image_sp/ui/episode/base/101.jpg?v=20170522145110", "http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_movie_420_2.jpg?v=20201009144705"],
+        "movie_name_voice": ["http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_moviename_cool_early.png?v=20170222083837", "http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_moviename_cool_late.png?v=20170222083837"]
+    }, {
+        "story_id": "412",
+        "story_title": "신데렐라 걸 호죠 카렌",
+        "voice_enable": ["1", "1"],
+        "flash_path": ["http://sp.pf.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/idol_story/movie_play/412/1/idol_gallery--idol_detail--__hash_card_id__--2?l_frm=Idol_gallery_idol_detail_1&rnd=819010908", "http://sp.pf.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/idol_story/movie_play/412/2/idol_gallery--idol_detail--__hash_card_id__--2?l_frm=Idol_gallery_idol_detail_1&rnd=381525609"],
+        "voice_url": ["http://sp.pf.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/idol_story/sound_play/412/1/idol_gallery/__hash_card_id__?l_frm=Idol_gallery_idol_detail_1&rnd=618439825", "http://sp.pf.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/idol_story/sound_play/412/2/idol_gallery/__hash_card_id__?l_frm=Idol_gallery_idol_detail_1&rnd=488424516"],
+        "open_flag": ["1", "1"],
+        "icon": ["http://125.6.169.35/idolmaster/image_sp/ui/episode/base/101.jpg?v=20170522145110", "http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_movie_412_2.jpg?v=20200709144611"],
+        "movie_name_voice": ["http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_moviename_cool_early.png?v=20170222083837", "http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_moviename_cool_late.png?v=20170222083837"]
+    }, {
 		"story_id": "376",
 		"story_title": "루미너스 스타 호죠 카렌",
 		"voice_enable": ["1", "1"],
