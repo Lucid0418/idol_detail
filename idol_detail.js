@@ -1498,7 +1498,7 @@
 		},
 		"idol_search_param": "keyword=ほうじょうかれん",
 		"premium_sign_idol_base_id": "101",
-		"js_premium_sign": "js/cjs/premium/sign_effect_101.js",
+		"js_premium_sign": "js/cjs/premium/sign_effect_2419701.js",
 		"archive": {
 			"normal": "1",
 			"premium": "1"
@@ -2705,7 +2705,7 @@
 		},
 		"idol_search_param": "keyword=ほうじょうかれん",
 		"premium_sign_idol_base_id": "101",
-		"js_premium_sign": "js/cjs/premium/sign_effect_101.js",
+		"js_premium_sign": "js/cjs/premium/sign_effect_2552202.js",
 		"archive": {
 			"normal": "1",
 			"premium": "1"
