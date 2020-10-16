@@ -3222,7 +3222,7 @@
 				"card_cv": "후치가미 마이"
 	    },
 	    "comments": {
-	      "comment": "빨리 빨리! 두고 간다? 너무 들떴나? 후훗♪ 일하러 가는 것뿐인데… 그저 그것만",//"早く早く! 置いてっちゃうよｰ? って､ちょっと浮かれすぎ? ふふっ♪お仕事に行くだけなのに…ただそれだけのことが､嬉しくて｡ｱｲﾄﾞﾙのお仕事を全力で頑張れることが､幸せなんだ♪",
+	      "comment": "빨리 빨리! 두고 간다? 너무 들떴나? 후훗♪ 일하러 가는 것뿐인데… 그저 그것뿐인 일이 기뻐서. 아이돌 일을 전력을 다해 열심히 할 수 있다는 사실이 행복해♪",//"早く早く! 置いてっちゃうよｰ? って､ちょっと浮かれすぎ? ふふっ♪お仕事に行くだけなのに…ただそれだけのことが､嬉しくて｡ｱｲﾄﾞﾙのお仕事を全力で頑張れることが､幸せなんだ♪",
 	      "comments_my_1": "지금 굉장히 안심돼",//"今､すっごく安心してるんだ",
 	      "comments_my_2": "내 보물…절대 안 놓칠 거야♪",//"私の宝物…絶対離さないよ♪",
 	      "comments_my_3": "매일이 반짝거려서 두근두근해♪",//"毎日きらめいて､ﾜｸﾜｸしてる♪",
@@ -3509,7 +3509,7 @@
 	  }];
 	idol.idol_story_list = [{
 		"story_id": "420",
-    "story_title": "루미너스 스타(2020) 호죠 카렌",
+    "story_title": "루미너스 스타(2020)",
     "voice_enable": ["1", "1"],
     "flash_path": ["http://sp.pf.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/idol_story/movie_play/420/1/idol_gallery--idol_detail--__hash_card_id__--2?l_frm=Idol_gallery_idol_detail_1&rnd=117959544", "http://sp.pf.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/idol_story/movie_play/420/2/idol_gallery--idol_detail--__hash_card_id__--2?l_frm=Idol_gallery_idol_detail_1&rnd=605998102"],
     "voice_url": ["http://sp.pf.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/idol_story/sound_play/420/1/idol_gallery/__hash_card_id__?l_frm=Idol_gallery_idol_detail_1&rnd=383469564", "http://sp.pf.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/idol_story/sound_play/420/2/idol_gallery/__hash_card_id__?l_frm=Idol_gallery_idol_detail_1&rnd=350709384"],
@@ -3518,7 +3518,7 @@
     "movie_name_voice": ["http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_moviename_cool_early.png?v=20170222083837", "http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_moviename_cool_late.png?v=20170222083837"]
   }, {
     "story_id": "412",
-    "story_title": "신데렐라 걸 호죠 카렌",
+    "story_title": "신데렐라 걸",
     "voice_enable": ["1", "1"],
     "flash_path": ["http://sp.pf.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/idol_story/movie_play/412/1/idol_gallery--idol_detail--__hash_card_id__--2?l_frm=Idol_gallery_idol_detail_1&rnd=819010908", "http://sp.pf.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/idol_story/movie_play/412/2/idol_gallery--idol_detail--__hash_card_id__--2?l_frm=Idol_gallery_idol_detail_1&rnd=381525609"],
     "voice_url": ["http://sp.pf.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/idol_story/sound_play/412/1/idol_gallery/__hash_card_id__?l_frm=Idol_gallery_idol_detail_1&rnd=618439825", "http://sp.pf.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/idol_story/sound_play/412/2/idol_gallery/__hash_card_id__?l_frm=Idol_gallery_idol_detail_1&rnd=488424516"],
@@ -3527,7 +3527,7 @@
     "movie_name_voice": ["http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_moviename_cool_early.png?v=20170222083837", "http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_moviename_cool_late.png?v=20170222083837"]
   }, {
 		"story_id": "376",
-		"story_title": "루미너스 스타 호죠 카렌",
+		"story_title": "루미너스 스타",
 		"voice_enable": ["1", "1"],
 		"flash_path": ["http://125.6.169.35/idolmaster/idol_story/movie_play/376/1/idol_gallery--idol_detail--__hash_card_id__--2?l_frm=Idol_gallery_idol_detail_1&rnd=601515961", "http://125.6.169.35/idolmaster/idol_story/movie_play/376/2/idol_gallery--idol_detail--__hash_card_id__--2?l_frm=Idol_gallery_idol_detail_1&rnd=721510963"],
 		"voice_url": ["http://125.6.169.35/idolmaster/idol_story/sound_play/376/1/idol_gallery/__hash_card_id__?l_frm=Idol_gallery_idol_detail_1&rnd=617427719", "http://125.6.169.35/idolmaster/idol_story/sound_play/376/2/idol_gallery/__hash_card_id__?l_frm=Idol_gallery_idol_detail_1&rnd=738148798"],
