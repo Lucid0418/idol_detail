@@ -3522,12 +3522,12 @@
 		],
 	    "open_flag": ["1", "1"],
 	    "icon": [
-	    	"http://125.6.169.35/idolmaster/image_sp/ui/episode/base/101.jpg?v=20170522145110",
-	    	"http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_movie_420_2.jpg?v=20201009144705"
+	    	"img/ui/episode/101.jpg",
+	    	"img/ui/episode/epi_button_movie_420_2.jpg"
 		],
 	    "movie_name_voice": [
-	    	"http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_moviename_cool_early.png?v=20170222083837",
-	    	"http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_moviename_cool_late.png?v=20170222083837"
+	    	"img/ui/episode/epi_button_moviename_cool_early.png",
+	    	"img/ui/episode/epi_button_moviename_cool_late.png"
 		]
 	}, {
 	    "story_id": "412",
@@ -3543,12 +3543,12 @@
     	],
 	    "open_flag": ["1", "1"],
 	    "icon": [
-		    "http://125.6.169.35/idolmaster/image_sp/ui/episode/base/101.jpg?v=20170522145110",
-		    "http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_movie_412_2.jpg?v=20200709144611"
+		    "img/ui/episode/101.jpg",
+		    "img/ui/episode/epi_button_movie_412_2.jpg"
 	    ],
 	    "movie_name_voice": [
-	    	"http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_moviename_cool_early.png?v=20170222083837",
-	    	"http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_moviename_cool_late.png?v=20170222083837"
+	    	"img/ui/episode/epi_button_moviename_cool_early.png",
+	    	"img/ui/episode/epi_button_moviename_cool_late.png"
     	]
 	}, {
 		"story_id": "376",
@@ -3564,12 +3564,12 @@
 		],
 		"open_flag": ["1", "1"],
 		"icon": [
-			"http://125.6.169.35/idolmaster/image_sp/ui/episode/base/101.jpg",
-			"http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_movie_376_2.jpg"
+			"img/ui/episode/101.jpg",
+			"img/ui/episode/epi_button_movie_376_2.jpg"
 		],
 		"movie_name_voice": [
-			"http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_moviename_cool_early.png",
-			"http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_moviename_cool_late.png"
+			"img/ui/episode/epi_button_moviename_cool_early.png",
+			"img/ui/episode/epi_button_moviename_cool_late.png"
 		]
 	}, {
 		"story_id": "353",
@@ -3591,12 +3591,12 @@
 			"3": "1"
 		},
 		"icon": {
-			"0": "http://125.6.169.35/idolmaster/image_sp/ui/episode/base/101.jpg",
-			"3": "http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_movie_353_4.jpg"
+			"0": "img/ui/episode/101.jpg",
+			"3": "img/ui/episode/epi_button_movie_353_4.jpg"
 		},
 		"movie_name_voice": {
-			"0": "http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_moviename_cool_early.png",
-			"3": "http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_moviename_cool_late.png"
+			"0": "img/ui/episode/epi_button_moviename_cool_early.png",
+			"3": "img/ui/episode/epi_button_moviename_cool_late.png"
 		}
 	}, {
 		"story_id": "266",
@@ -3618,12 +3618,12 @@
 			"3": "1"
 		},
 		"icon": {
-			"0": "http://125.6.169.35/idolmaster/image_sp/ui/episode/base/101.jpg",
-			"3": "http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_movie_266_4.jpg?v=20190524145749"
+			"0": "img/ui/episode/101.jpg",
+			"3": "img/ui/episode/epi_button_movie_266_4.jpg"
 		},
 		"movie_name_voice": {
-			"0": "http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_moviename_cool_early.png",
-			"3": "http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_moviename_cool_late.png"
+			"0": "img/ui/episode/epi_button_moviename_cool_early.png",
+			"3": "img/ui/episode/epi_button_moviename_cool_late.png"
 		}
 	}, {
 		"story_id": "217",
@@ -3639,12 +3639,12 @@
 		],
 		"open_flag": ["1", "1"],
 		"icon": [
-			"http://125.6.169.35/idolmaster/image_sp/ui/episode/base/101.jpg",
-			"http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_movie_217_2.jpg"
+			"img/ui/episode/101.jpg",
+			"img/ui/episode/epi_button_movie_217_2.jpg"
 		],
 		"movie_name_voice": [
-			"http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_moviename_cool_early.png",
-			"http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_moviename_cool_late.png"
+			"img/ui/episode/epi_button_moviename_cool_early.png",
+			"img/ui/episode/epi_button_moviename_cool_late.png"
 		]
 	}, {
 		"story_id": "186",
@@ -3660,12 +3660,12 @@
 		],
 		"open_flag": ["1", "1"],
 		"icon": [
-			"http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_idol_101.jpg",
-			"http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_movie_186_2.jpg"
+			"img/ui/episode/epi_button_idol_101.jpg",
+			"img/ui/episode/epi_button_movie_186_2.jpg"
 		],
 		"movie_name_voice": [
-			"http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_moviename_cool_early.png",
-			"http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_moviename_cool_late.png"
+			"img/ui/episode/epi_button_moviename_cool_early.png",
+			"img/ui/episode/epi_button_moviename_cool_late.png"
 		]
 	}, {
 		"story_id": "156",
@@ -3687,12 +3687,12 @@
 			"4": "1"
 		},
 		"icon": {
-			"1": "http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_movie_karen.jpg",
-			"4": "http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_movie_156_5.jpg"
+			"1": "img/ui/episode/epi_button_movie_karen.jpg",
+			"4": "img/ui/episode/epi_button_movie_156_5.jpg"
 		},
 		"movie_name_voice": {
-			"1": "http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_moviename_cool_early.png",
-			"4": "http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_moviename_cool_late.png"
+			"1": "img/ui/episode/epi_button_moviename_cool_early.png",
+			"4": "img/ui/episode/epi_button_moviename_cool_late.png"
 		}
 	}, {
 		"story_id": "103",
@@ -3708,12 +3708,12 @@
 		],
 		"open_flag": ["1", "1"],
 		"icon": [
-			"http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_movie_033_1.jpg",
-			"http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_movie_103_2.jpg"
+			"img/ui/episode/epi_button_movie_karen.jpg",
+			"img/ui/episode/epi_button_movie_103_2.jpg"
 		],
 		"movie_name_voice": [
-			"http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_moviename_cool_early.png",
-			"http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_moviename_cool_late.png"
+			"img/ui/episode/epi_button_moviename_cool_early.png",
+			"img/ui/episode/epi_button_moviename_cool_late.png"
 		]
 	}, {
 		"story_id": "62",
@@ -3735,12 +3735,12 @@
 			"5": "1"
 		},
 		"icon": {
-			"2": "http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_movie_062_3.jpg",
-			"5": "http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_movie_062_6.jpg"
+			"2": "img/ui/episode/epi_button_movie_karen.jpg",
+			"5": "img/ui/episode/epi_button_movie_062_6.jpg"
 		},
 		"movie_name_voice": {
-			"2": "http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_moviename_cool_early.png",
-			"5": "http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_moviename_cool_late.png"
+			"2": "img/ui/episode/epi_button_moviename_cool_early.png",
+			"5": "img/ui/episode/epi_button_moviename_cool_late.png"
 		}
 	}, {
 		"story_id": "33",
@@ -3762,12 +3762,12 @@
 			"3": "1"
 		},
 		"icon": {
-			"0": "http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_movie_033_1.jpg",
-			"3": "http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_movie_033_4.jpg"
+			"0": "img/ui/episode/epi_button_movie_karen.jpg",
+			"3": "img/ui/episode/epi_button_movie_033_4.jpg"
 		},
 		"movie_name_voice": {
-			"0": "http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_moviename_cool_early.png",
-			"3": "http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_moviename_cool_late.png"
+			"0": "img/ui/episode/epi_button_moviename_cool_early.png",
+			"3": "img/ui/episode/epi_button_moviename_cool_late.png"
 		}
 	}];
 	idol.images = {
