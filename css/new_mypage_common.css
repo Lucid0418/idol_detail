@@ -171,7 +171,7 @@
 
 .attribute_co_voice_mark_02 {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/common_new/voice_icon-sd61960035f.png) no-repeat 0 -369px;
+	background: url(../img/ui/voice_icon-sd61960035f.png) no-repeat 0 -369px;
 	-webkit-background-size: 40px 737px;
 	background-size: 40px 737px;
 	width: 40px;
@@ -180,7 +180,7 @@
 
 .attribute_co_voice_mark_02._hover {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/common_new/voice_icon-sd61960035f.png) no-repeat 0 -246px;
+	background: url(../img/ui/voice_icon-sd61960035f.png) no-repeat 0 -246px;
 	-webkit-background-size: 40px 737px;
 	background-size: 40px 737px;
 	width: 40px;
@@ -189,7 +189,7 @@
 
 .attribute_co_voice_mark_02._playing {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/common_new/voice_icon-sd61960035f.png) no-repeat 0 -205px;
+	background: url(../img/ui/voice_icon-sd61960035f.png) no-repeat 0 -205px;
 	-webkit-background-size: 40px 737px;
 	background-size: 40px 737px;
 	width: 40px;
@@ -198,7 +198,7 @@
 
 .attribute_co_voice_mark_02._playing._hover {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/common_new/voice_icon-sd61960035f.png) no-repeat 0 -41px;
+	background: url(../img/ui/voice_icon-sd61960035f.png) no-repeat 0 -41px;
 	-webkit-background-size: 40px 737px;
 	background-size: 40px 737px;
 	width: 40px;
@@ -207,7 +207,7 @@
 
 .attribute_co_voice_mark_03 {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/common_new/voice_icon-sd61960035f.png) no-repeat 0 -492px;
+	background: url(../img/ui/voice_icon-sd61960035f.png) no-repeat 0 -492px;
 	-webkit-background-size: 40px 737px;
 	background-size: 40px 737px;
 	width: 40px;
@@ -216,7 +216,7 @@
 
 .attribute_co_voice_mark_03._hover {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/common_new/voice_icon-sd61960035f.png) no-repeat 0 -533px;
+	background: url(../img/ui/voice_icon-sd61960035f.png) no-repeat 0 -533px;
 	-webkit-background-size: 40px 737px;
 	background-size: 40px 737px;
 	width: 40px;
@@ -225,7 +225,7 @@
 
 .attribute_co_voice_mark_04 {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/common_new/voice_icon-sd61960035f.png) no-repeat 0 -205px;
+	background: url(../img/ui/voice_icon-sd61960035f.png) no-repeat 0 -205px;
 	-webkit-background-size: 40px 737px;
 	background-size: 40px 737px;
 	width: 40px;
@@ -234,7 +234,7 @@
 
 .attribute_co_voice_mark_04._hover {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/common_new/voice_icon-sd61960035f.png) no-repeat 0 -41px;
+	background: url(../img/ui/voice_icon-sd61960035f.png) no-repeat 0 -41px;
 	-webkit-background-size: 40px 737px;
 	background-size: 40px 737px;
 	width: 40px;
@@ -243,7 +243,7 @@
 
 .attribute_cu_voice_mark_02 {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/common_new/voice_icon-sd61960035f.png) no-repeat 0 -328px;
+	background: url(../img/ui/voice_icon-sd61960035f.png) no-repeat 0 -328px;
 	-webkit-background-size: 40px 737px;
 	background-size: 40px 737px;
 	width: 40px;
@@ -252,7 +252,7 @@
 
 .attribute_cu_voice_mark_02._hover {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/common_new/voice_icon-sd61960035f.png) no-repeat 0 -451px;
+	background: url(../img/ui/voice_icon-sd61960035f.png) no-repeat 0 -451px;
 	-webkit-background-size: 40px 737px;
 	background-size: 40px 737px;
 	width: 40px;
@@ -261,7 +261,7 @@
 
 .attribute_cu_voice_mark_02._playing {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/common_new/voice_icon-sd61960035f.png) no-repeat 0 0;
+	background: url(../img/ui/voice_icon-sd61960035f.png) no-repeat 0 0;
 	-webkit-background-size: 40px 737px;
 	background-size: 40px 737px;
 	width: 40px;
@@ -270,7 +270,7 @@
 
 .attribute_cu_voice_mark_02._playing._hover {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/common_new/voice_icon-sd61960035f.png) no-repeat 0 -164px;
+	background: url(../img/ui/voice_icon-sd61960035f.png) no-repeat 0 -164px;
 	-webkit-background-size: 40px 737px;
 	background-size: 40px 737px;
 	width: 40px;
@@ -279,7 +279,7 @@
 
 .attribute_cu_voice_mark_03 {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/common_new/voice_icon-sd61960035f.png) no-repeat 0 -574px;
+	background: url(../img/ui/voice_icon-sd61960035f.png) no-repeat 0 -574px;
 	-webkit-background-size: 40px 737px;
 	background-size: 40px 737px;
 	width: 40px;
@@ -288,7 +288,7 @@
 
 .attribute_cu_voice_mark_03._hover {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/common_new/voice_icon-sd61960035f.png) no-repeat 0 -615px;
+	background: url(../img/ui/voice_icon-sd61960035f.png) no-repeat 0 -615px;
 	-webkit-background-size: 40px 737px;
 	background-size: 40px 737px;
 	width: 40px;
@@ -297,7 +297,7 @@
 
 .attribute_cu_voice_mark_04 {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/common_new/voice_icon-sd61960035f.png) no-repeat 0 0;
+	background: url(../img/ui/voice_icon-sd61960035f.png) no-repeat 0 0;
 	-webkit-background-size: 40px 737px;
 	background-size: 40px 737px;
 	width: 40px;
@@ -306,7 +306,7 @@
 
 .attribute_cu_voice_mark_04._hover {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/common_new/voice_icon-sd61960035f.png) no-repeat 0 -164px;
+	background: url(../img/ui/voice_icon-sd61960035f.png) no-repeat 0 -164px;
 	-webkit-background-size: 40px 737px;
 	background-size: 40px 737px;
 	width: 40px;
@@ -315,7 +315,7 @@
 
 .attribute_pa_voice_mark_02 {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/common_new/voice_icon-sd61960035f.png) no-repeat 0 -287px;
+	background: url(../img/ui/voice_icon-sd61960035f.png) no-repeat 0 -287px;
 	-webkit-background-size: 40px 737px;
 	background-size: 40px 737px;
 	width: 40px;
@@ -324,7 +324,7 @@
 
 .attribute_pa_voice_mark_02._hover {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/common_new/voice_icon-sd61960035f.png) no-repeat 0 -410px;
+	background: url(../img/ui/voice_icon-sd61960035f.png) no-repeat 0 -410px;
 	-webkit-background-size: 40px 737px;
 	background-size: 40px 737px;
 	width: 40px;
@@ -333,7 +333,7 @@
 
 .attribute_pa_voice_mark_02._playing {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/common_new/voice_icon-sd61960035f.png) no-repeat 0 -123px;
+	background: url(../img/ui/voice_icon-sd61960035f.png) no-repeat 0 -123px;
 	-webkit-background-size: 40px 737px;
 	background-size: 40px 737px;
 	width: 40px;
@@ -342,7 +342,7 @@
 
 .attribute_pa_voice_mark_02._playing._hover {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/common_new/voice_icon-sd61960035f.png) no-repeat 0 -82px;
+	background: url(../img/ui/voice_icon-sd61960035f.png) no-repeat 0 -82px;
 	-webkit-background-size: 40px 737px;
 	background-size: 40px 737px;
 	width: 40px;
@@ -351,7 +351,7 @@
 
 .attribute_pa_voice_mark_03 {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/common_new/voice_icon-sd61960035f.png) no-repeat 0 -656px;
+	background: url(../img/ui/voice_icon-sd61960035f.png) no-repeat 0 -656px;
 	-webkit-background-size: 40px 737px;
 	background-size: 40px 737px;
 	width: 40px;
@@ -360,7 +360,7 @@
 
 .attribute_pa_voice_mark_03._hover {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/common_new/voice_icon-sd61960035f.png) no-repeat 0 -697px;
+	background: url(../img/ui/voice_icon-sd61960035f.png) no-repeat 0 -697px;
 	-webkit-background-size: 40px 737px;
 	background-size: 40px 737px;
 	width: 40px;
@@ -369,7 +369,7 @@
 
 .attribute_pa_voice_mark_04 {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/common_new/voice_icon-sd61960035f.png) no-repeat 0 -123px;
+	background: url(../img/ui/voice_icon-sd61960035f.png) no-repeat 0 -123px;
 	-webkit-background-size: 40px 737px;
 	background-size: 40px 737px;
 	width: 40px;
@@ -378,7 +378,7 @@
 
 .attribute_pa_voice_mark_04._hover {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/common_new/voice_icon-sd61960035f.png) no-repeat 0 -82px;
+	background: url(../img/ui/voice_icon-sd61960035f.png) no-repeat 0 -82px;
 	-webkit-background-size: 40px 737px;
 	background-size: 40px 737px;
 	width: 40px;
@@ -1126,7 +1126,7 @@ section {
 	line-height: 44px;
 	text-align: left;
 	text-shadow: 0px 0px 3px #1d1d1d, 0px 0px 3px #1d1d1d, 0px 0px 3px #1d1d1d, 0px 0px 3px #1d1d1d, 0px 0px 3px #1d1d1d, 0px 0px 3px #1d1d1d, 0px 0px 3px #1d1d1d, 0px 0px 3px #1d1d1d, 0px 0px 3px #1d1d1d, 0px 0px 3px #1d1d1d, 0px 0px 3px #1d1d1d, 0px 0px 3px #1d1d1d;
-	background-image: url(http://125.6.169.35/idolmaster/image_sp/ui/common/detail/detail_accordion_list.png);
+	background-image: url(../img/ui/detail_accordion_list.png);
 	background-size: 304px
 }
 
@@ -1185,11 +1185,11 @@ section {
 }
 
 .selectArea.type_02 .selectArea_accordion:nth-of-type(1) .selectArea_accordion_title {
-	background-image: url(http://125.6.169.35/idolmaster/image_sp/ui/common/detail/detail_accordion_list_top.png)
+	background-image: url(../img/ui/detail_accordion_list_top.png)
 }
 
 .selectArea.type_02 .selectArea_accordion:nth-of-type(1)._opened .selectArea_accordion_title {
-	background-image: url(http://125.6.169.35/idolmaster/image_sp/ui/common/detail/detail_accordion_list_top_gray.png)
+	background-image: url(../img/ui/detail_accordion_list_top_gray.png)
 }
 
 .selectArea.type_02 .selectArea_accordion:nth-last-of-type(1) {
@@ -1197,7 +1197,7 @@ section {
 }
 
 .selectArea.type_02 .selectArea_accordion:nth-last-of-type(1) .selectArea_accordion_title {
-	background-image: url(http://125.6.169.35/idolmaster/image_sp/ui/common/detail/detail_accordion_list_bottom.png)
+	background-image: url(../img/ui/detail_accordion_list_bottom.png)
 }
 
 .selectArea.type_02 .selectArea_accordion:nth-last-of-type(1)._opened .selectArea_accordion_title {
@@ -1262,7 +1262,7 @@ section {
 }
 
 .area-popup_common._navi {
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/common/popup_navi/bg.png) #1d1d1d;
+	background: url(../img/ui/bg.png) #1d1d1d;
 	background-size: 8px 8px
 }
 
@@ -1272,7 +1272,7 @@ section {
 
 .area-popup_common._navi .area-popup_header:before {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/common/popup_navi-s42af5fbb7c.png) no-repeat 0 -108px;
+	background: url(../img/ui/popup_navi-s42af5fbb7c.png) no-repeat 0 -108px;
 	-webkit-background-size: 304px 243px;
 	background-size: 304px 243px;
 	width: 35px;
@@ -1288,7 +1288,7 @@ section {
 
 .area-popup_common._navi .area-popup_header:after {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/common/popup_navi-s42af5fbb7c.png) no-repeat 0 -136px;
+	background: url(../img/ui/popup_navi-s42af5fbb7c.png) no-repeat 0 -136px;
 	-webkit-background-size: 304px 243px;
 	background-size: 304px 243px;
 	width: 35px;
@@ -1308,7 +1308,7 @@ section {
 
 .area-popup_common._navi .area-popup_header .area-popup_title:after {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/common/popup_navi-s42af5fbb7c.png) no-repeat 0 -229px;
+	background: url(../img/ui/popup_navi-s42af5fbb7c.png) no-repeat 0 -229px;
 	-webkit-background-size: 304px 243px;
 	background-size: 304px 243px;
 	width: 299px;
@@ -1317,7 +1317,7 @@ section {
 
 .area-popup_common._navi:before {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/common/popup_navi-s42af5fbb7c.png) no-repeat 0 -87px;
+	background: url(../img/ui/popup_navi-s42af5fbb7c.png) no-repeat 0 -87px;
 	-webkit-background-size: 304px 243px;
 	background-size: 304px 243px;
 	width: 304px;
@@ -1327,7 +1327,7 @@ section {
 
 .area-popup_common._navi:after {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/common/popup_navi-s42af5fbb7c.png) no-repeat 0 -66px;
+	background: url(../img/ui/popup_navi-s42af5fbb7c.png) no-repeat 0 -66px;
 	-webkit-background-size: 304px 243px;
 	background-size: 304px 243px;
 	width: 304px;
@@ -1340,7 +1340,7 @@ section {
 
 .area-popup_common._navi .ibox_close {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/common/popup_navi-s42af5fbb7c.png) no-repeat 0 0;
+	background: url(../img/ui/popup_navi-s42af5fbb7c.png) no-repeat 0 0;
 	-webkit-background-size: 304px 243px;
 	background-size: 304px 243px;
 	width: 30px;
@@ -1349,7 +1349,7 @@ section {
 
 .area-popup_common._navi .ibox_close._hover {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/common/popup_navi-s42af5fbb7c.png) no-repeat 0 -33px;
+	background: url(../img/ui/popup_navi-s42af5fbb7c.png) no-repeat 0 -33px;
 	-webkit-background-size: 304px 243px;
 	background-size: 304px 243px;
 	width: 30px;
@@ -1393,7 +1393,7 @@ section {
 	right: 8px;
 	bottom: 4px;
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/common/popup_navi-s42af5fbb7c.png) no-repeat 0 -164px;
+	background: url(../img/ui/popup_navi-s42af5fbb7c.png) no-repeat 0 -164px;
 	-webkit-background-size: 304px 243px;
 	background-size: 304px 243px;
 	width: 60px;
@@ -1402,7 +1402,7 @@ section {
 
 .common_line_solid {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/common/frame-sbb949863bf.png) no-repeat 0 -112px;
+	background: url(../img/ui/frame-sbb949863bf.png) no-repeat 0 -112px;
 	-webkit-background-size: 304px 115px;
 	background-size: 304px 115px;
 	width: 299px;
@@ -1447,7 +1447,7 @@ section {
 	content: '';
 	display: block;
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/common/frame-sbb949863bf.png) no-repeat 0 -42px;
+	background: url(../img/ui/frame-sbb949863bf.png) no-repeat 0 -42px;
 	-webkit-background-size: 304px 115px;
 	background-size: 304px 115px;
 	width: 35px;
@@ -1465,7 +1465,7 @@ section {
 	content: '';
 	display: block;
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/common/frame-sbb949863bf.png) no-repeat 0 -70px;
+	background: url(../img/ui/frame-sbb949863bf.png) no-repeat 0 -70px;
 	-webkit-background-size: 304px 115px;
 	background-size: 304px 115px;
 	width: 35px;
@@ -1491,7 +1491,7 @@ section {
 	content: '';
 	display: block;
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/common/frame-sbb949863bf.png) no-repeat 0 -106px;
+	background: url(../img/ui/frame-sbb949863bf.png) no-repeat 0 -106px;
 	-webkit-background-size: 304px 115px;
 	background-size: 304px 115px;
 	width: 299px;
@@ -1526,7 +1526,7 @@ section {
 	left: -8px;
 	padding-top: 8px;
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/common/frame-sbb949863bf.png) no-repeat 0 -112px;
+	background: url(../img/ui/frame-sbb949863bf.png) no-repeat 0 -112px;
 	-webkit-background-size: 304px 115px;
 	background-size: 304px 115px;
 	width: 299px;
@@ -1548,7 +1548,7 @@ section {
 .area-frame_common .area-frame_bg_image {
 	width: 304px;
 	height: 100%;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/common/frame/body.png) repeat-y;
+	background: url(../img/ui/body.png) repeat-y;
 	background-size: 304px 1px;
 	position: absolute;
 	top: 0px;
@@ -1558,7 +1558,7 @@ section {
 .area-frame_common:before {
 	content: '';
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/common/frame-sbb949863bf.png) no-repeat 0 -21px;
+	background: url(../img/ui/frame-sbb949863bf.png) no-repeat 0 -21px;
 	-webkit-background-size: 304px 115px;
 	background-size: 304px 115px;
 	width: 304px;
@@ -1574,7 +1574,7 @@ section {
 .area-frame_common:after {
 	content: '';
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/common/frame-sbb949863bf.png) no-repeat 0 0;
+	background: url(../img/ui/frame-sbb949863bf.png) no-repeat 0 0;
 	-webkit-background-size: 304px 115px;
 	background-size: 304px 115px;
 	width: 304px;
@@ -1676,7 +1676,7 @@ section {
 
 .area-frame_common .area-frame_line_dot {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/common/frame-sbb949863bf.png) no-repeat 0 -98px;
+	background: url(../img/ui/frame-sbb949863bf.png) no-repeat 0 -98px;
 	-webkit-background-size: 304px 115px;
 	background-size: 304px 115px;
 	width: 282px;
@@ -1819,7 +1819,7 @@ section {
 	left: -8px;
 	padding-top: 8px;
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/common/frame-sbb949863bf.png) no-repeat 0 -112px;
+	background: url(../img/ui/frame-sbb949863bf.png) no-repeat 0 -112px;
 	-webkit-background-size: 304px 115px;
 	background-size: 304px 115px;
 	width: 299px;
@@ -2023,7 +2023,7 @@ section {
 	content: '';
 	display: block;
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/common/lightbox-s36533adce9.png) no-repeat 0 -108px;
+	background: url(../img/ui/lightbox-s36533adce9.png) no-repeat 0 -108px;
 	-webkit-background-size: 304px 177px;
 	background-size: 304px 177px;
 	width: 35px;
@@ -2041,7 +2041,7 @@ section {
 	content: '';
 	display: block;
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/common/lightbox-s36533adce9.png) no-repeat 0 -136px;
+	background: url(../img/ui/lightbox-s36533adce9.png) no-repeat 0 -136px;
 	-webkit-background-size: 304px 177px;
 	background-size: 304px 177px;
 	width: 35px;
@@ -2067,7 +2067,7 @@ section {
 	content: '';
 	display: block;
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/common/lightbox-s36533adce9.png) no-repeat 0 -172px;
+	background: url(../img/ui/lightbox-s36533adce9.png) no-repeat 0 -172px;
 	-webkit-background-size: 304px 177px;
 	background-size: 304px 177px;
 	width: 299px;
@@ -2102,7 +2102,7 @@ section {
 	left: -8px;
 	padding-top: 8px;
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/common/frame-sbb949863bf.png) no-repeat 0 -112px;
+	background: url(../img/ui/frame-sbb949863bf.png) no-repeat 0 -112px;
 	-webkit-background-size: 304px 115px;
 	background-size: 304px 115px;
 	width: 299px;
@@ -2124,7 +2124,7 @@ section {
 .area-popup_common .area-popup_bg_image {
 	width: 304px;
 	height: 100%;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/common/lightbox/body.png) repeat-y;
+	background: url(../img/ui/body.png) repeat-y;
 	background-size: 304px 1px;
 	position: absolute;
 	top: 0px;
@@ -2134,7 +2134,7 @@ section {
 .area-popup_common:before {
 	content: '';
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/common/lightbox-s36533adce9.png) no-repeat 0 -87px;
+	background: url(../img/ui/lightbox-s36533adce9.png) no-repeat 0 -87px;
 	-webkit-background-size: 304px 177px;
 	background-size: 304px 177px;
 	width: 304px;
@@ -2150,7 +2150,7 @@ section {
 .area-popup_common:after {
 	content: '';
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/common/lightbox-s36533adce9.png) no-repeat 0 -66px;
+	background: url(../img/ui/lightbox-s36533adce9.png) no-repeat 0 -66px;
 	-webkit-background-size: 304px 177px;
 	background-size: 304px 177px;
 	width: 304px;
@@ -2252,7 +2252,7 @@ section {
 
 .area-popup_common .area-popup_line_dot {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/common/lightbox-s36533adce9.png) no-repeat 0 -164px;
+	background: url(../img/ui/lightbox-s36533adce9.png) no-repeat 0 -164px;
 	-webkit-background-size: 304px 177px;
 	background-size: 304px 177px;
 	width: 282px;
@@ -2272,7 +2272,7 @@ section {
 
 .popup-common_btn_close {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/common/lightbox-s36533adce9.png) no-repeat 0 0;
+	background: url(../img/ui/lightbox-s36533adce9.png) no-repeat 0 0;
 	-webkit-background-size: 304px 177px;
 	background-size: 304px 177px;
 	width: 30px;
@@ -2285,7 +2285,7 @@ section {
 
 .popup-common_btn_close._hover {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/common/lightbox-s36533adce9.png) no-repeat 0 -33px;
+	background: url(../img/ui/lightbox-s36533adce9.png) no-repeat 0 -33px;
 	-webkit-background-size: 304px 177px;
 	background-size: 304px 177px;
 	width: 30px;
@@ -2433,7 +2433,7 @@ section {
 .area_menu_header_6btn .btn_menu_header_change,
 .headerPopupMenu .btn_menu_header_change {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -955px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -955px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 50px;
@@ -2443,7 +2443,7 @@ section {
 .area_menu_header_6btn .btn_menu_header_change._hover,
 .headerPopupMenu .btn_menu_header_change._hover {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -902px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -902px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 50px;
@@ -2453,7 +2453,7 @@ section {
 .area_menu_header_6btn .btn_menu_header_deck,
 .headerPopupMenu .btn_menu_header_deck {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -134px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -134px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 64px;
@@ -2463,7 +2463,7 @@ section {
 .area_menu_header_6btn .btn_menu_header_deck._hover,
 .headerPopupMenu .btn_menu_header_deck._hover {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -335px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -335px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 64px;
@@ -2473,7 +2473,7 @@ section {
 .area_menu_header_6btn .btn_menu_header_favorite,
 .headerPopupMenu .btn_menu_header_favorite {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -2555px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -2555px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 50px;
@@ -2483,7 +2483,7 @@ section {
 .area_menu_header_6btn .btn_menu_header_favorite._hover,
 .headerPopupMenu .btn_menu_header_favorite._hover {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -2290px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -2290px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 50px;
@@ -2493,7 +2493,7 @@ section {
 .area_menu_header_6btn .btn_menu_header_gamecenter,
 .headerPopupMenu .btn_menu_header_gamecenter {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -1401px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -1401px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 50px;
@@ -2503,7 +2503,7 @@ section {
 .area_menu_header_6btn .btn_menu_header_gamecenter._hover,
 .headerPopupMenu .btn_menu_header_gamecenter._hover {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -1307px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -1307px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 50px;
@@ -2513,7 +2513,7 @@ section {
 .area_menu_header_6btn .btn_menu_header_help,
 .headerPopupMenu .btn_menu_header_help {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -1707px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -1707px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 50px;
@@ -2523,7 +2523,7 @@ section {
 .area_menu_header_6btn .btn_menu_header_help._hover,
 .headerPopupMenu .btn_menu_header_help._hover {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -2131px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -2131px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 50px;
@@ -2533,7 +2533,7 @@ section {
 .area_menu_header_6btn .btn_menu_header_idollist,
 .headerPopupMenu .btn_menu_header_idollist {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -2767px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -2767px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 50px;
@@ -2543,7 +2543,7 @@ section {
 .area_menu_header_6btn .btn_menu_header_idollist._hover,
 .headerPopupMenu .btn_menu_header_idollist._hover {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -1813px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -1813px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 50px;
@@ -2553,7 +2553,7 @@ section {
 .area_menu_header_6btn .btn_menu_header_item,
 .headerPopupMenu .btn_menu_header_item {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -2714px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -2714px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 50px;
@@ -2563,7 +2563,7 @@ section {
 .area_menu_header_6btn .btn_menu_header_item._hover,
 .headerPopupMenu .btn_menu_header_item._hover {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -2608px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -2608px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 50px;
@@ -2573,7 +2573,7 @@ section {
 .area_menu_header_6btn .btn_menu_header_lesson,
 .headerPopupMenu .btn_menu_header_lesson {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -67px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -67px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 64px;
@@ -2583,7 +2583,7 @@ section {
 .area_menu_header_6btn .btn_menu_header_lesson._hover,
 .headerPopupMenu .btn_menu_header_lesson._hover {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -268px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -268px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 64px;
@@ -2593,7 +2593,7 @@ section {
 .area_menu_header_6btn .btn_menu_header_livebattle,
 .headerPopupMenu .btn_menu_header_livebattle {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -201px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -201px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 64px;
@@ -2603,7 +2603,7 @@ section {
 .area_menu_header_6btn .btn_menu_header_livebattle._hover,
 .headerPopupMenu .btn_menu_header_livebattle._hover {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -402px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -402px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 64px;
@@ -2613,7 +2613,7 @@ section {
 .area_menu_header_6btn .btn_menu_header_memory,
 .headerPopupMenu .btn_menu_header_memory {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -1972px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -1972px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 50px;
@@ -2623,7 +2623,7 @@ section {
 .area_menu_header_6btn .btn_menu_header_memory._hover,
 .headerPopupMenu .btn_menu_header_memory._hover {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -1454px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -1454px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 50px;
@@ -2633,7 +2633,7 @@ section {
 .area_menu_header_6btn .btn_menu_header_pra,
 .headerPopupMenu .btn_menu_header_pra {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -1654px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -1654px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 50px;
@@ -2643,7 +2643,7 @@ section {
 .area_menu_header_6btn .btn_menu_header_pra._hover,
 .headerPopupMenu .btn_menu_header_pra._hover {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -1560px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -1560px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 50px;
@@ -2653,7 +2653,7 @@ section {
 .area_menu_header_6btn .btn_menu_header_present,
 .headerPopupMenu .btn_menu_header_present {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -2184px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -2184px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 50px;
@@ -2663,7 +2663,7 @@ section {
 .area_menu_header_6btn .btn_menu_header_present._hover,
 .headerPopupMenu .btn_menu_header_present._hover {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -2025px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -2025px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 50px;
@@ -2673,7 +2673,7 @@ section {
 .area_menu_header_6btn .btn_menu_header_production,
 .headerPopupMenu .btn_menu_header_production {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -2873px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -2873px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 50px;
@@ -2683,7 +2683,7 @@ section {
 .area_menu_header_6btn .btn_menu_header_production._hover,
 .headerPopupMenu .btn_menu_header_production._hover {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -2502px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -2502px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 50px;
@@ -2693,7 +2693,7 @@ section {
 .area_menu_header_6btn .btn_menu_header_profile,
 .headerPopupMenu .btn_menu_header_profile {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -2820px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -2820px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 50px;
@@ -2703,7 +2703,7 @@ section {
 .area_menu_header_6btn .btn_menu_header_profile._hover,
 .headerPopupMenu .btn_menu_header_profile._hover {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -2396px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -2396px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 50px;
@@ -2713,7 +2713,7 @@ section {
 .area_menu_header_6btn .btn_menu_header_setting,
 .headerPopupMenu .btn_menu_header_setting {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -1254px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -1254px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 50px;
@@ -2723,7 +2723,7 @@ section {
 .area_menu_header_6btn .btn_menu_header_setting._hover,
 .headerPopupMenu .btn_menu_header_setting._hover {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -1507px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -1507px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 50px;
@@ -2733,7 +2733,7 @@ section {
 .area_menu_header_6btn .btn_menu_header_shop,
 .headerPopupMenu .btn_menu_header_shop {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -2449px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -2449px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 50px;
@@ -2743,7 +2743,7 @@ section {
 .area_menu_header_6btn .btn_menu_header_shop._hover,
 .headerPopupMenu .btn_menu_header_shop._hover {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -2237px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -2237px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 50px;
@@ -2753,7 +2753,7 @@ section {
 .area_menu_header_6btn .btn_menu_header_sound,
 .headerPopupMenu .btn_menu_header_sound {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -1919px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -1919px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 50px;
@@ -2763,7 +2763,7 @@ section {
 .area_menu_header_6btn .btn_menu_header_sound._hover,
 .headerPopupMenu .btn_menu_header_sound._hover {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -1760px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -1760px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 50px;
@@ -2773,7 +2773,7 @@ section {
 .area_menu_header_6btn .btn_menu_header_top,
 .headerPopupMenu .btn_menu_header_top {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -1866px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -1866px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 50px;
@@ -2783,7 +2783,7 @@ section {
 .area_menu_header_6btn .btn_menu_header_top._hover,
 .headerPopupMenu .btn_menu_header_top._hover {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -2343px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -2343px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 50px;
@@ -2793,7 +2793,7 @@ section {
 .area_menu_header_6btn .btn_menu_header_trainer,
 .headerPopupMenu .btn_menu_header_trainer {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -2661px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -2661px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 50px;
@@ -2803,7 +2803,7 @@ section {
 .area_menu_header_6btn .btn_menu_header_trainer._hover,
 .headerPopupMenu .btn_menu_header_trainer._hover {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -2078px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -2078px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 50px;
@@ -2813,7 +2813,7 @@ section {
 .area_menu_header_6btn .btn_menu_header_work,
 .headerPopupMenu .btn_menu_header_work {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 0;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 0;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 64px;
@@ -2823,7 +2823,7 @@ section {
 .area_menu_header_6btn .btn_menu_header_work._hover,
 .headerPopupMenu .btn_menu_header_work._hover {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -469px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -469px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 64px;
@@ -2833,7 +2833,7 @@ section {
 .area_menu_header_6btn .head_menu_01,
 .headerPopupMenu .head_menu_01 {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -597px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -597px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 48px;
@@ -2843,7 +2843,7 @@ section {
 .area_menu_header_6btn .head_menu_01._hover,
 .headerPopupMenu .head_menu_01._hover {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -536px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -536px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 48px;
@@ -2853,7 +2853,7 @@ section {
 .area_menu_header_6btn .head_menu_02,
 .headerPopupMenu .head_menu_02 {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -1360px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -1360px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 56px;
@@ -2863,7 +2863,7 @@ section {
 .area_menu_header_6btn .head_menu_02._hover,
 .headerPopupMenu .head_menu_02._hover {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -1613px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -1613px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 56px;
@@ -2873,7 +2873,7 @@ section {
 .area_menu_header_6btn .head_menu_03,
 .headerPopupMenu .head_menu_03 {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -1008px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -1008px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 56px;
@@ -2883,7 +2883,7 @@ section {
 .area_menu_header_6btn .head_menu_03._hover,
 .headerPopupMenu .head_menu_03._hover {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -1131px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -1131px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 56px;
@@ -2893,7 +2893,7 @@ section {
 .area_menu_header_6btn .head_menu_04,
 .headerPopupMenu .head_menu_04 {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -1090px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -1090px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 56px;
@@ -2903,7 +2903,7 @@ section {
 .area_menu_header_6btn .head_menu_04._hover,
 .headerPopupMenu .head_menu_04._hover {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -1213px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -1213px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 56px;
@@ -2913,7 +2913,7 @@ section {
 .area_menu_header_6btn .head_menu_05,
 .headerPopupMenu .head_menu_05 {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -1049px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -1049px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 56px;
@@ -2923,7 +2923,7 @@ section {
 .area_menu_header_6btn .head_menu_05._hover,
 .headerPopupMenu .head_menu_05._hover {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -1172px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -1172px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 56px;
@@ -2933,7 +2933,7 @@ section {
 .area_menu_header_6btn .head_menu_06,
 .headerPopupMenu .head_menu_06 {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -658px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -658px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 48px;
@@ -2943,7 +2943,7 @@ section {
 .area_menu_header_6btn .head_menu_06._hover,
 .headerPopupMenu .head_menu_06._hover {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -780px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -780px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 48px;
@@ -2953,7 +2953,7 @@ section {
 .area_menu_header_6btn .head_menu_07,
 .headerPopupMenu .head_menu_07 {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -719px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -719px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 48px;
@@ -2963,7 +2963,7 @@ section {
 .area_menu_header_6btn .head_menu_07._hover,
 .headerPopupMenu .head_menu_07._hover {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -841px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -841px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 48px;
@@ -3079,7 +3079,7 @@ section {
 
 .btn_new_work_menu {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -658px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -658px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 48px;
@@ -3092,7 +3092,7 @@ section {
 
 .btn_new_work_menu._close {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -719px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -719px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 48px;
@@ -3101,7 +3101,7 @@ section {
 
 .btn_new_work_menu._hover {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/sprite/header_new/btn_menu-s041b8457ab.png) no-repeat 0 -780px;
+	background: url(../img/ui/btn_menu-s041b8457ab.png) no-repeat 0 -780px;
 	-webkit-background-size: 64px 2925px;
 	background-size: 64px 2925px;
 	width: 48px;
@@ -16503,6 +16503,218 @@ body#mypage #user_status .etcMenu .js_butten_yuzyopt_hover .value {
 }
 
 .idolStatus .data_list .title {
+    width: 34px;
+    padding: 0 2px;
+    margin-right: 3px;
+    -webkit-border-top-left-radius: 7px;
+    -webkit-border-bottom-left-radius: 7px
+}
+
+.idolStatus .data_list .title.lv {
+    display: block;
+    background: url(../img/ui/status-s617c5e41e5.png) no-repeat -2282px 0;
+    -webkit-background-size: 3746px 40px;
+    background-size: 3746px 40px;
+    width: 40px;
+    height: 15px;
+    background-color: #2692d2;
+    height: auto;
+    width: 34px
+}
+
+.idolStatus .data_list .title.cost {
+    display: block;
+    background: url(../img/ui/status-s617c5e41e5.png) no-repeat -2366px 0;
+    -webkit-background-size: 3746px 40px;
+    background-size: 3746px 40px;
+    width: 40px;
+    height: 15px;
+    background-color: #2692d2;
+    height: auto;
+    width: 34px
+}
+
+.idolStatus .data_list .title.grow {
+    display: block;
+    background: url(../img/ui/status-s617c5e41e5.png) no-repeat -2450px 0;
+    -webkit-background-size: 3746px 40px;
+    background-size: 3746px 40px;
+    width: 40px;
+    height: 15px;
+    background-color: #2692d2;
+    height: auto;
+    width: 34px
+}
+
+.idolStatus .data_list .title.att {
+    display: block;
+    background: url(../img/ui/status-s617c5e41e5.png) no-repeat -2534px 0;
+    -webkit-background-size: 3746px 40px;
+    background-size: 3746px 40px;
+    width: 40px;
+    height: 15px;
+    background-color: #db4f6a;
+    height: auto;
+    width: 34px
+}
+
+.idolStatus .data_list .title.m-att {
+    display: block;
+    background: url(../img/ui/status-s617c5e41e5.png) no-repeat -2618px 0;
+    -webkit-background-size: 3746px 40px;
+    background-size: 3746px 40px;
+    width: 40px;
+    height: 15px;
+    background-color: #db4f6a;
+    height: auto;
+    width: 34px
+}
+
+.idolStatus .data_list .title.def {
+    display: block;
+    background: url(../img/ui/status-s617c5e41e5.png) no-repeat -2702px 0;
+    -webkit-background-size: 3746px 40px;
+    background-size: 3746px 40px;
+    width: 40px;
+    height: 15px;
+    background-color: #db4f6a;
+    height: auto;
+    width: 34px
+}
+
+.idolStatus .data_list .title.m-def {
+    display: block;
+    background: url(../img/ui/status-s617c5e41e5.png) no-repeat -2786px 0;
+    -webkit-background-size: 3746px 40px;
+    background-size: 3746px 40px;
+    width: 40px;
+    height: 15px;
+    background-color: #db4f6a;
+    height: auto;
+    width: 34px
+}
+
+.idolStatus .data_list .title.love {
+    display: block;
+    background: url(../img/ui/status-s617c5e41e5.png) no-repeat -2870px 0;
+    -webkit-background-size: 3746px 40px;
+    background-size: 3746px 40px;
+    width: 40px;
+    height: 15px;
+    background-color: #db4f6a;
+    height: auto;
+    width: 34px
+}
+
+.idolStatus .data_list .title.skl {
+    display: block;
+    background: url(../img/ui/status-s617c5e41e5.png) no-repeat -2954px 0;
+    -webkit-background-size: 3746px 40px;
+    background-size: 3746px 40px;
+    width: 40px;
+    height: 15px;
+    background-color: #e68a25;
+    height: auto;
+    width: 34px
+}
+
+.idolStatus .data_list .title.skl_lv {
+    display: block;
+    background: url(../img/ui/status-s617c5e41e5.png) no-repeat -3038px 0;
+    -webkit-background-size: 3746px 40px;
+    background-size: 3746px 40px;
+    width: 40px;
+    height: 15px;
+    background-color: #e68a25;
+    height: auto;
+    width: 34px
+}
+
+.idolStatus .data_list .title.skl_ef {
+    display: block;
+    background: url(../img/ui/status-s617c5e41e5.png) no-repeat -3122px 0;
+    -webkit-background-size: 3746px 40px;
+    background-size: 3746px 40px;
+    width: 40px;
+    height: 15px;
+    background-color: #e68a25;
+    height: auto;
+    width: 34px
+}
+
+.idolStatus .data_list .title.total {
+    display: block;
+    background: url(../img/ui/status-s617c5e41e5.png) no-repeat -3206px 0;
+    -webkit-background-size: 3746px 40px;
+    background-size: 3746px 40px;
+    width: 40px;
+    height: 15px;
+    background-color: #db4f6a;
+    height: auto;
+    width: 34px
+}
+
+.idolStatus .data_list .title.num {
+    display: block;
+    background: url(../img/ui/status-s617c5e41e5.png) no-repeat -3290px 0;
+    -webkit-background-size: 3746px 40px;
+    background-size: 3746px 40px;
+    width: 40px;
+    height: 15px;
+    background-color: #666666;
+    height: auto;
+    width: 34px
+}
+
+.idolStatus .data_list .title.price {
+    display: block;
+    background: url(../img/ui/status-s617c5e41e5.png) no-repeat -3374px 0;
+    -webkit-background-size: 3746px 40px;
+    background-size: 3746px 40px;
+    width: 40px;
+    height: 15px;
+    background-color: #666666;
+    height: auto;
+    width: 34px
+}
+
+.idolStatus .data_list .title.want {
+    display: block;
+    background: url(../img/ui/status-s617c5e41e5.png) no-repeat -3419px 0;
+    -webkit-background-size: 3746px 40px;
+    background-size: 3746px 40px;
+    width: 40px;
+    height: 15px;
+    background-color: #666666;
+    height: auto;
+    width: 34px
+}
+
+.idolStatus .data_list .title.medal {
+    display: block;
+    background: url(../img/ui/status-s617c5e41e5.png) no-repeat -3464px 0;
+    -webkit-background-size: 3746px 40px;
+    background-size: 3746px 40px;
+    width: 40px;
+    height: 15px;
+    background-color: #666666;
+    height: auto;
+    width: 34px
+}
+
+.idolStatus .data_list .title.popularity {
+    display: block;
+    background: url(../img/ui/status-s617c5e41e5.png) no-repeat -3509px 0;
+    -webkit-background-size: 3746px 40px;
+    background-size: 3746px 40px;
+    width: 40px;
+    height: 15px;
+    background-color: #db4f6a;
+    height: auto;
+    width: 34px
+}
+/* 구버전 .title
+.idolStatus .data_list .title {
 	width: 34px;
 	padding: 0 2px;
 	margin-right: 3px;
@@ -16713,7 +16925,7 @@ body#mypage #user_status .etcMenu .js_butten_yuzyopt_hover .value {
 	height: auto;
 	width: 34px
 }
-
+*/
 .idolStatus .data_list .pr {
 	width: 54px;
 	padding: 2px 5px;
@@ -17584,19 +17796,19 @@ body#battles .fukidashiWrap .fukidashi img.voiceIdol {
 }
 
 .idolProfile.deck .profile_top {
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/gallery/line_up.png) center top no-repeat;
+	background: url(../img/ui/line_up.png) center top no-repeat;
 	background-size: 314px;
 	height: 12px
 }
 
 .idolProfile.deck .profile_bottom {
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/gallery/line_down.png) center bottom no-repeat;
+	background: url(../img/ui/line_down.png) center bottom no-repeat;
 	background-size: 314px;
 	height: 12px
 }
 
 .idolProfile.deck .profile_content {
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/gallery/line_middle.png) center top repeat-y;
+	background: url(../img/ui/line_middle.png) center top repeat-y;
 	background-size: 314px;
 	padding-bottom: 2px
 }
@@ -20626,7 +20838,7 @@ input[type="submit"].submit_reset_style {
 	top: 50px;
 	position: relative
 }
-
+/*
 .gallery .name_plate_cute {
 	background: url(http://125.6.169.35/idolmaster/image_sp/ui/gallery/name_cute.jpg) no-repeat;
 	background-size: 120px 25px;
@@ -20656,9 +20868,9 @@ input[type="submit"].submit_reset_style {
 	color: #fff;
 	position: relative
 }
-
+*/
 .gallery .name_plate_cool {
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/gallery/name_cool.jpg) no-repeat;
+	background: url(../img/ui/name_cool.jpg) no-repeat;
 	background-size: 120px 25px;
 	width: 120px;
 	height: 25px;
@@ -20686,7 +20898,7 @@ input[type="submit"].submit_reset_style {
 	color: #fff;
 	position: relative
 }
-
+/*
 .gallery .name_plate_passion {
 	background: url(http://125.6.169.35/idolmaster/image_sp/ui/gallery/name_passion.jpg) no-repeat;
 	background-size: 120px 25px;
@@ -20746,7 +20958,7 @@ input[type="submit"].submit_reset_style {
 	color: #fff;
 	position: relative
 }
-
+*//*
 .gallery .normal_cute {
 	background: url(http://125.6.169.35/idolmaster/image_sp/ui/gallery/normal_cute.jpg) no-repeat;
 	background-size: 140px 170px;
@@ -20754,15 +20966,15 @@ input[type="submit"].submit_reset_style {
 	height: 170px;
 	position: relative
 }
-
+*/
 .gallery .normal_cool {
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/gallery/normal_cool.jpg) no-repeat;
+	background: url(../img/ui/normal_cool.jpg) no-repeat;
 	background-size: 140px 170px;
 	width: 140px;
 	height: 170px;
 	position: relative
 }
-
+/*
 .gallery .normal_passion {
 	background: url(http://125.6.169.35/idolmaster/image_sp/ui/gallery/normal_passion.jpg) no-repeat;
 	background-size: 140px 170px;
@@ -20778,7 +20990,7 @@ input[type="submit"].submit_reset_style {
 	height: 170px;
 	position: relative
 }
-
+*//*
 .gallery .rare_cute {
 	background: url(http://125.6.169.35/idolmaster/image_sp/ui/gallery/rare_cute.jpg?1487720323) no-repeat;
 	background-size: 140px 170px;
@@ -20786,15 +20998,15 @@ input[type="submit"].submit_reset_style {
 	height: 170px;
 	position: relative
 }
-
+*/
 .gallery .rare_cool {
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/gallery/rare_cool.jpg?1487720323) no-repeat;
+	background: url(../img/ui/rare_cool.jpg) no-repeat;
 	background-size: 140px 170px;
 	width: 140px;
 	height: 170px;
 	position: relative
 }
-
+/*
 .gallery .rare_passion {
 	background: url(http://125.6.169.35/idolmaster/image_sp/ui/gallery/rare_passion.jpg?1487720323) no-repeat;
 	background-size: 140px 170px;
@@ -20818,15 +21030,15 @@ input[type="submit"].submit_reset_style {
 	height: 170px;
 	position: relative
 }
-
+*/
 .gallery .srare_cool {
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/gallery/srare_cool.jpg?1487720323) no-repeat;
+	background: url(../img/ui/srare_cool.jpg) no-repeat;
 	background-size: 140px 170px;
 	width: 140px;
 	height: 170px;
 	position: relative
 }
-
+/*
 .gallery .srare_passion {
 	background: url(http://125.6.169.35/idolmaster/image_sp/ui/gallery/srare_passion.jpg?1487720323) no-repeat;
 	background-size: 140px 170px;
@@ -20842,7 +21054,7 @@ input[type="submit"].submit_reset_style {
 	height: 170px;
 	position: relative
 }
-
+*/
 .gallery a {
 	-webkit-user-select: none;
 	-webkit-tap-highlight-color: rgba(0, 0, 0, 0)
@@ -20938,14 +21150,14 @@ input[type="submit"].submit_reset_style {
 }
 
 .profile_area .profile_top {
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/gallery/line_up.png) no-repeat;
+	background: url(../img/ui/line_up.png) no-repeat;
 	background-size: 308px 17px;
 	width: 308px;
 	height: 17px
 }
 
 .profile_area .profile_content {
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/gallery/line_middle.png) repeat-y;
+	background: url(../img/ui/line_middle.png) repeat-y;
 	background-size: 308px 4px;
 	width: 308px
 }
@@ -20985,21 +21197,21 @@ input[type="submit"].submit_reset_style {
 	width: 150px;
 	height: 222px
 }
-
+/*
 .profile_area .profile_content .bg_normal_cute {
 	background: url(http://125.6.169.35/idolmaster/image_sp/ui/gallery/bg_normal_cute.jpg) -5px 0 no-repeat;
 	background-size: 155px 245px;
 	position: relative;
 	left: 7px
 }
-
+*/
 .profile_area .profile_content .bg_normal_cool {
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/gallery/bg_normal_cool.jpg) -5px 0 no-repeat;
+	background: url(../img/ui/bg_normal_cool.jpg) -5px 0 no-repeat;
 	background-size: 155px 245px;
 	position: relative;
 	left: 7px
 }
-
+/*
 .profile_area .profile_content .bg_normal_passion {
 	background: url(http://125.6.169.35/idolmaster/image_sp/ui/gallery/bg_normal_passion.jpg) -5px 0 no-repeat;
 	background-size: 155px 245px;
@@ -21020,14 +21232,14 @@ input[type="submit"].submit_reset_style {
 	position: relative;
 	left: 7px
 }
-
+*/
 .profile_area .profile_content .bg_rare_cool {
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/gallery/bg_rare_cool.jpg) -5px 0 no-repeat;
+	background: url(../img/ui/bg_rare_cool.jpg) -5px 0 no-repeat;
 	background-size: 155px 245px;
 	position: relative;
 	left: 7px
 }
-
+/*
 .profile_area .profile_content .bg_rare_passion {
 	background: url(http://125.6.169.35/idolmaster/image_sp/ui/gallery/bg_rare_passion.jpg) -5px 0 no-repeat;
 	background-size: 155px 245px;
@@ -21041,7 +21253,7 @@ input[type="submit"].submit_reset_style {
 	position: relative;
 	left: 7px
 }
-
+*/
 .profile_area .profile_content .bg_srare {
 	position: relative;
 	left: 7px
@@ -21053,7 +21265,7 @@ input[type="submit"].submit_reset_style {
 	width: 150px;
 	left: -9px
 }
-
+/*
 .profile_area .profile_content .detail .detail_top_cute {
 	background: url(http://125.6.169.35/idolmaster/image_sp/ui/gallery/profile_cute_up.png?1487720323) no-repeat;
 	background-size: 150px 10px;
@@ -21092,16 +21304,16 @@ input[type="submit"].submit_reset_style {
 	opacity: 0.7;
 	position: absolute
 }
-
+*/
 .profile_area .profile_content .detail .detail_top_cool {
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/gallery/profile_cool_up.png) no-repeat;
+	background: url(../img/ui/profile_cool_up.png) no-repeat;
 	background-size: 150px 10px;
 	width: 150px;
 	height: 10px
 }
 
 .profile_area .profile_content .detail .detail_content_cool {
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/gallery/profile_cool_middle.png) repeat-y;
+	background: url(../img/ui/profile_cool_middle.png) repeat-y;
 	background-size: 150px 4px;
 	width: 150px;
 	display: -webkit-box;
@@ -21109,14 +21321,14 @@ input[type="submit"].submit_reset_style {
 }
 
 .profile_area .profile_content .detail .detail_bottom_cool {
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/gallery/profile_cool_down.png) no-repeat;
+	background: url(../img/ui/profile_cool_down.png) no-repeat;
 	background-size: 150px 10px;
 	width: 150px;
 	height: 10px
 }
 
 .profile_area .profile_content .detail .detail_line_cool {
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/gallery/profile_cool_line.png) no-repeat;
+	background: url(../img/ui/profile_cool_line.png) no-repeat;
 	background-size: 150px 4px;
 	width: 150px;
 	height: 4px
@@ -21131,7 +21343,7 @@ input[type="submit"].submit_reset_style {
 	opacity: 0.7;
 	position: absolute
 }
-
+/*
 .profile_area .profile_content .detail .detail_top_passion {
 	background: url(http://125.6.169.35/idolmaster/image_sp/ui/gallery/profile_passion_up.png?1487720323) no-repeat;
 	background-size: 150px 10px;
@@ -21209,7 +21421,7 @@ input[type="submit"].submit_reset_style {
 	opacity: 0.7;
 	position: absolute
 }
-
+*//*
 .profile_area .profile_content .icon_kana_cute {
 	background: url(http://125.6.169.35/idolmaster/image_sp/ui/gallery/cute.png) 0 0px no-repeat;
 	background-size: 42px 210px;
@@ -21317,7 +21529,7 @@ input[type="submit"].submit_reset_style {
 	margin-left: 5px;
 	margin-top: -4px
 }
-
+*/
 .profile_area .profile_content .icon_kana_cool {
 	background: url(../img/ui/cool.png) 0 0px no-repeat;
 	background-size: 42px 210px;
@@ -21425,7 +21637,7 @@ input[type="submit"].submit_reset_style {
 	margin-left: 5px;
 	margin-top: -4px
 }
-
+/*
 .profile_area .profile_content .icon_kana_passion {
 	background: url(http://125.6.169.35/idolmaster/image_sp/ui/gallery/passion.png) 0 0px no-repeat;
 	background-size: 42px 210px;
@@ -21641,7 +21853,7 @@ input[type="submit"].submit_reset_style {
 	margin-left: 5px;
 	margin-top: -4px
 }
-
+*/
 .profile_area .profile_content .text_style {
 	text-align: center;
 	width: 100px;
@@ -21661,7 +21873,7 @@ input[type="submit"].submit_reset_style {
 .profile_area .profile_content .comment a {
 	text-decoration: none
 }
-
+/*
 .profile_area .profile_content .comment .comment_cute {
 	background: url(http://125.6.169.35/idolmaster/image_sp/ui/gallery/comment_cute_middle.png) repeat-y;
 	background-size: 285px 4px;
@@ -21687,9 +21899,9 @@ input[type="submit"].submit_reset_style {
 	width: 285px;
 	margin: 0 auto
 }
-
+*/
 .profile_area .profile_content .comment .comment_cool {
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/gallery/comment_cool_middle.png) repeat-y;
+	background: url(../img/ui/comment_cool_middle.png) repeat-y;
 	background-size: 285px 4px;
 	width: 285px;
 	color: #1d1d1d;
@@ -21699,7 +21911,7 @@ input[type="submit"].submit_reset_style {
 }
 
 .profile_area .profile_content .comment .comment_cool_top {
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/gallery/comment_cool_up.png) no-repeat;
+	background: url(../img/ui/comment_cool_up.png) no-repeat;
 	background-size: 285px 17.5px;
 	height: 17.5px;
 	width: 285px;
@@ -21707,13 +21919,13 @@ input[type="submit"].submit_reset_style {
 }
 
 .profile_area .profile_content .comment .comment_cool_bottom {
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/gallery/comment_cool_down.png) no-repeat;
+	background: url(../img/ui/comment_cool_down.png) no-repeat;
 	background-size: 285px 10px;
 	height: 10px;
 	width: 285px;
 	margin: 0 auto
 }
-
+/*
 .profile_area .profile_content .comment .comment_passion {
 	background: url(http://125.6.169.35/idolmaster/image_sp/ui/gallery/comment_passion_middle.png) repeat-y;
 	background-size: 285px 4px;
@@ -21765,7 +21977,7 @@ input[type="submit"].submit_reset_style {
 	width: 285px;
 	margin: 0 auto
 }
-
+*/
 .profile_area .profile_content .comment .comment_text {
 	width: 270px;
 	margin-left: 10px
@@ -21803,14 +22015,14 @@ input[type="submit"].submit_reset_style {
 }
 
 .profile_area .profile_line {
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/gallery/line_dot.png) no-repeat;
+	background: url(../img/ui/line_dot.png) no-repeat;
 	background-size: 308px 4px;
 	width: 308px;
 	height: 4px
 }
 
 .profile_area .profile_bottom {
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/gallery/line_down.png) repeat-y;
+	background: url(../img/ui/line_down.png) repeat-y;
 	background-size: 308px 17px;
 	width: 308px;
 	height: 17px
@@ -21881,7 +22093,7 @@ input[type="submit"].submit_reset_style {
 
 .pager_area .pager_panel_area .btn_pager_first {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/rich/pager-s9840db688a.png?1487720326) no-repeat 0 -122px;
+	background: url(../img/ui/pager-s9840db688a.png) no-repeat 0 -122px;
 	-webkit-background-size: 52px 244px;
 	background-size: 52px 244px;
 	width: 52px;
@@ -21891,7 +22103,7 @@ input[type="submit"].submit_reset_style {
 
 .pager_area .pager_panel_area .btn_pager_first._disabled {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/rich/pager-s9840db688a.png?1487720326) no-repeat 0 -183px;
+	background: url(../img/ui/pager-s9840db688a.png) no-repeat 0 -183px;
 	-webkit-background-size: 52px 244px;
 	background-size: 52px 244px;
 	width: 52px;
@@ -21900,7 +22112,7 @@ input[type="submit"].submit_reset_style {
 
 .pager_area .pager_panel_area .btn_pager_back {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/rich/pager-s9840db688a.png?1487720326) no-repeat 0 -61px;
+	background: url(../img/ui/pager-s9840db688a.png) no-repeat 0 -61px;
 	-webkit-background-size: 52px 244px;
 	background-size: 52px 244px;
 	width: 52px;
@@ -21910,7 +22122,7 @@ input[type="submit"].submit_reset_style {
 
 .pager_area .pager_panel_area .btn_pager_back._disabled {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/rich/pager-s9840db688a.png?1487720326) no-repeat 0 0;
+	background: url(../img/ui/pager-s9840db688a.png) no-repeat 0 0;
 	-webkit-background-size: 52px 244px;
 	background-size: 52px 244px;
 	width: 52px;
@@ -21919,7 +22131,7 @@ input[type="submit"].submit_reset_style {
 
 .pager_area .pager_panel_area .btn_pager_last {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/rich/pager-s9840db688a.png?1487720326) no-repeat 0 -153px;
+	background: url(../img/ui/pager-s9840db688a.png) no-repeat 0 -153px;
 	-webkit-background-size: 52px 244px;
 	background-size: 52px 244px;
 	width: 52px;
@@ -21929,7 +22141,7 @@ input[type="submit"].submit_reset_style {
 
 .pager_area .pager_panel_area .btn_pager_last._disabled {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/rich/pager-s9840db688a.png?1487720326) no-repeat 0 -214px;
+	background: url(../img/ui/pager-s9840db688a.png) no-repeat 0 -214px;
 	-webkit-background-size: 52px 244px;
 	background-size: 52px 244px;
 	width: 52px;
@@ -21938,7 +22150,7 @@ input[type="submit"].submit_reset_style {
 
 .pager_area .pager_panel_area .btn_pager_next {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/rich/pager-s9840db688a.png?1487720326) no-repeat 0 -31px;
+	background: url(../img/ui/pager-s9840db688a.png) no-repeat 0 -31px;
 	-webkit-background-size: 52px 244px;
 	background-size: 52px 244px;
 	width: 52px;
@@ -21948,7 +22160,7 @@ input[type="submit"].submit_reset_style {
 
 .pager_area .pager_panel_area .btn_pager_next._disabled {
 	display: block;
-	background: url(http://125.6.169.35/idolmaster/image_sp/ui/rich/pager-s9840db688a.png?1487720326) no-repeat 0 -92px;
+	background: url(../img/ui/pager-s9840db688a.png) no-repeat 0 -92px;
 	-webkit-background-size: 52px 244px;
 	background-size: 52px 244px;
 	width: 52px;

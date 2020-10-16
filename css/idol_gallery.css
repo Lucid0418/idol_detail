@@ -168,7 +168,7 @@
 }
 
 body#idol_gallery {
-	background-image: url(http://125.6.169.35/idolmaster/image_sp/ui/mypage_new/bg/bg_status_mypage_01.png?1487720324);
+	background-image: url(../img/ui/bg_status_mypage_01.png);
 	background-size: 7px 7px
 }
 
@@ -406,7 +406,7 @@ body#idol_gallery {
 	text-shadow: none;
 	color: #555
 }
-
+/*
 .star_cute {
 	background: url(http://125.6.169.35/idolmaster/image_sp/event/common/img_fukidashi_top_cute.png?1487720052) no-repeat;
 	background-size: 22px;
@@ -868,7 +868,7 @@ body#idol_gallery {
 	text-shadow: none;
 	color: #555
 }
-
+*/
 .icon_birthday {
 	display: block;
 	background: url(../img/ui/gallery-s537d398b12.png) no-repeat 0 -1502px;
