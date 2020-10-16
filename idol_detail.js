@@ -3660,7 +3660,7 @@
 		],
 		"open_flag": ["1", "1"],
 		"icon": [
-			"img/ui/episode/epi_button_idol_101.jpg",
+			"img/ui/episode/101.jpg",
 			"img/ui/episode/epi_button_movie_186_2.jpg"
 		],
 		"movie_name_voice": [
