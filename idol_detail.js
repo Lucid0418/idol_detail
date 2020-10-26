@@ -3506,7 +3506,166 @@
 	    },
 	    "is_exist_archive": true,
 	    "is_max_love": true
-	  }];
+	  }, {
+        "data": {
+            "card_name": "[송 포 라이프]호죠 카렌",
+            "rarity": "5",
+            "cost": "26",
+            "attribute": "cool",
+            "skill_name": "오늘밤만의 노랫소리",
+            "skill_effect": "ｷｭｰﾄ･ｸｰﾙのﾌﾛﾝﾄﾒﾝﾊﾞｰ及びﾊﾞｯｸﾒﾝﾊﾞｰ上位5人の攻守 究極ｱｯﾌﾟ",
+            "grow_idol_flag": "",
+            "default_attack": "7700",
+            "default_defense": "7600",
+            "hash_card_id": "69394649d722e78e0490ef79f731fad1",
+            "alias_name": "송 포 라이프",
+            "real_name": "호죠 카렌"
+        },
+        "profile": {
+            "card_id": "2463501",
+            "card_name": "[ソング・フォー・ライフ]호죠 카렌",
+			"card_kana": "호죠 카렌",
+			"card_age": "16",
+			"card_from": "도쿄",
+			"card_height": "155",
+			"card_weight": "42",
+			"card_bust": "83",
+			"card_waist": "55",
+			"card_hip": "81",
+			"card_birthday": "9월 5일",
+			"card_constellation": "처녀자리",
+			"card_blood": "B",
+			"card_arm": "오른손",
+			"card_hobby": "네일",
+			"card_cv": "후치가미 마이"
+        },
+        "comments": {
+            "comment": "もうっ､唯ってば､入って早々にやんちゃするんだから! ま､これも広い温泉ならではかな｡他に人もいないし､そろそろ反撃しちゃうよ｡私､負けず嫌いだし､何事も楽しむって決めてるし♪",
+            "comments_my_1": "???",
+            "comments_my_2": "???",
+            "comments_my_3": "???",
+            "comments_my_4": "???",
+            "comments_my_max": "???",
+            "comments_work_1": "???",
+            "comments_work_2": "???",
+            "comments_work_3": "???",
+            "comments_work_4": "???",
+            "comments_work_max": "???",
+            "comments_work_love_up": "???",
+            "comments_live": "???",
+            "comments_love_max": "???"
+        },
+        "voice": {
+            "comment": "http://idolmaster.edgesuite.net/idolmaster/sound/2463501/426504d84014cffb3fb7688ea779c04f.mp4",
+            "comments_my_1": null,
+            "comments_my_2": null,
+            "comments_my_3": null,
+            "comments_my_4": null,
+            "comments_my_max": null,
+            "comments_work_1": null,
+            "comments_work_2": null,
+            "comments_work_3": null,
+            "comments_work_4": null,
+            "comments_work_max": null,
+            "comments_work_love_up": null,
+            "comments_live": null,
+            "comments_love_max": null
+        },
+        "event": null,
+        "release": "",
+        "trade_prohibition": {
+            "is_trade_limit": false
+        },
+        "idol_search_param": "keyword=ほうじょうかれん",
+        "premium_sign_idol_base_id": "101",
+	    "js_premium_sign": "js/cjs/premium/sign_effect_101.js",
+        "archive": {
+            "normal": "1",
+            "premium": "1"
+        },
+        "is_exist_archive": true,
+        "is_max_love": true
+    }, {
+        "data": {
+            "card_name": "[송 포 라이프]호죠 카렌+",
+            "rarity": "6",
+            "cost": "26",
+            "attribute": "cool",
+            "skill_name": "오늘밤만의 노랫소리",
+            "skill_effect": "ｷｭｰﾄ･ｸｰﾙのﾌﾛﾝﾄﾒﾝﾊﾞｰ及びﾊﾞｯｸﾒﾝﾊﾞｰ上位5人の攻守 究極ｱｯﾌﾟ",
+            "grow_idol_flag": "",
+            "default_attack": "9240",
+            "default_defense": "9120",
+            "skill_effect_2": "ｷｭｰﾄ･ｸｰﾙのﾌﾛﾝﾄﾒﾝﾊﾞｰ及びﾊﾞｯｸﾒﾝﾊﾞｰ上位5人の攻守 極小ｱｯﾌﾟ",
+            "hash_card_id": "add90fd23adac3c6aad4894fb840e4c9",
+            "alias_name": "송 포 라이프",
+            "real_name": "호죠 카렌+"
+        },
+        "profile": {
+            "card_id": "2563502",
+            "card_name": "[송 포 라이프]호죠 카렌+",
+			"card_kana": "호죠 카렌",
+			"card_age": "16",
+			"card_from": "도쿄",
+			"card_height": "155",
+			"card_weight": "42",
+			"card_bust": "83",
+			"card_waist": "55",
+			"card_hip": "81",
+			"card_birthday": "9월 5일",
+			"card_constellation": "처녀자리",
+			"card_blood": "B",
+			"card_arm": "오른손",
+			"card_hobby": "네일",
+			"card_cv": "후치가미 마이"
+        },
+        "comments": {
+            "comment": "大都会の片隅で､静かに流れるﾋﾟｱﾉの旋律…少女が大人になるのに､ﾋﾟｯﾀﾘな夜だよね｡ほら…一瞬だって､目を離しちゃﾀﾞﾒだよ? じゃないと､私､あっという間に大人になっちゃうから…♪",
+            "comments_my_1": "???",
+            "comments_my_2": "???",
+            "comments_my_3": "???",
+            "comments_my_4": "???",
+            "comments_my_max": "???",
+            "comments_work_1": "???",
+            "comments_work_2": "???",
+            "comments_work_3": "???",
+            "comments_work_4": "???",
+            "comments_work_max": "???",
+            "comments_work_love_up": "???",
+            "comments_live": "???",
+            "comments_love_max": "???"
+        },
+        "voice": {
+            "comment": "http://idolmaster.edgesuite.net/idolmaster/sound/2563502/a643cbfb06f3606d70e689595c224a58.mp4",
+            "comments_my_1": null,
+            "comments_my_2": null,
+            "comments_my_3": null,
+            "comments_my_4": null,
+            "comments_my_max": null,
+            "comments_work_1": null,
+            "comments_work_2": null,
+            "comments_work_3": null,
+            "comments_work_4": null,
+            "comments_work_max": null,
+            "comments_work_love_up": null,
+            "comments_live": null,
+            "comments_love_max": null
+        },
+        "event": null,
+        "release": "",
+        "trade_prohibition": {
+            "is_trade_limit": false
+        },
+        "idol_search_param": "keyword=ほうじょうかれん",
+        "premium_sign_idol_base_id": "101",
+	    "js_premium_sign": null,
+        "archive": {
+            "normal": "1",
+            "premium": "1"
+        },
+        "is_exist_archive": true,
+        "is_max_love": true
+                }];
 
 	idol.idol_story_list = [{
 		"story_id": "420",
@@ -3835,7 +3994,9 @@
 			"img/card/sign_b/d56f88bc11b49b2bda99c446a28b701f.jpg",
 			"img/card/sign_b/3cea4fa7b1da7808909460fb620f97c6.jpg",
 			"img/card/sign_b/29f6687479f7e7ead423d615fb9dfbed.jpg",
-			"img/card/sign_b/6a76dd71e7a32e904a56c1495c3c8701.jpg"
+			"img/card/sign_b/6a76dd71e7a32e904a56c1495c3c8701.jpg",
+			"img/card/sign_b/69394649d722e78e0490ef79f731fad1.jpg",
+			"img/card/sign_b/add90fd23adac3c6aad4894fb840e4c9.jpg"
 			],
 		"l_premium": {
 			"6": "img/card/sign_p/855d33d77752c725474da494a0e9e239.jpg",
@@ -3875,7 +4036,9 @@
 			"40": "img/card/sign_p/d56f88bc11b49b2bda99c446a28b701f.jpg",
 			"41": "img/card/sign_p/3cea4fa7b1da7808909460fb620f97c6.jpg",
 			"42": "img/card/sign_p/29f6687479f7e7ead423d615fb9dfbed.jpg",
-			"43": "img/card/sign_p/6a76dd71e7a32e904a56c1495c3c8701.jpg"
+			"43": "img/card/sign_p/6a76dd71e7a32e904a56c1495c3c8701.jpg",
+			"44": "img/card/sign_p/69394649d722e78e0490ef79f731fad1.jpg",
+			"45": "img/card/sign_p/add90fd23adac3c6aad4894fb840e4c9.jpg"
 		},
 		"l_nosign": [
 			"",
@@ -3921,7 +4084,9 @@
 			"img/card/nosign/d56f88bc11b49b2bda99c446a28b701f.jpg",
 			"img/card/nosign/3cea4fa7b1da7808909460fb620f97c6.jpg",
 			"img/card/nosign/29f6687479f7e7ead423d615fb9dfbed.jpg",
-			"img/card/nosign/6a76dd71e7a32e904a56c1495c3c8701.jpg"
+			"img/card/nosign/6a76dd71e7a32e904a56c1495c3c8701.jpg",
+			"img/card/nosign/69394649d722e78e0490ef79f731fad1.jpg",
+			"img/card/nosign/add90fd23adac3c6aad4894fb840e4c9.jpg"
 			],
 		"l_nosign_p": {
 			"6": "img/card/nosign_p/855d33d77752c725474da494a0e9e239.jpg",
@@ -3961,7 +4126,9 @@
 			"40": "img/card/nosign_p/d56f88bc11b49b2bda99c446a28b701f.jpg",
 			"41": "img/card/nosign_p/3cea4fa7b1da7808909460fb620f97c6.jpg",
 			"42": "img/card/nosign_p/29f6687479f7e7ead423d615fb9dfbed.jpg",
-			"43": "img/card/nosign_p/6a76dd71e7a32e904a56c1495c3c8701.jpg"
+			"43": "img/card/nosign_p/6a76dd71e7a32e904a56c1495c3c8701.jpg",
+			"44": "img/card/nosign_p/69394649d722e78e0490ef79f731fad1.jpg",
+			"45": "img/card/nosign_p/add90fd23adac3c6aad4894fb840e4c9.jpg"
 		},
 		"l_noframe": [
 			null,
@@ -4007,7 +4174,9 @@
 			"img/card/noframe/d56f88bc11b49b2bda99c446a28b701f.jpg",
 			"img/card/noframe/3cea4fa7b1da7808909460fb620f97c6.jpg",
 			"img/card/noframe/29f6687479f7e7ead423d615fb9dfbed.jpg",
-			"img/card/noframe/6a76dd71e7a32e904a56c1495c3c8701.jpg"
+			"img/card/noframe/6a76dd71e7a32e904a56c1495c3c8701.jpg",
+			"img/card/noframe/69394649d722e78e0490ef79f731fad1.jpg",
+			"img/card/noframe/add90fd23adac3c6aad4894fb840e4c9.jpg"
 			],
 		"mask_l": {
 		  "0": "",
@@ -4151,7 +4320,9 @@
 			"img/card/xs/d56f88bc11b49b2bda99c446a28b701f.jpg",
 			"img/card/xs/3cea4fa7b1da7808909460fb620f97c6.jpg",
 			"img/card/xs/29f6687479f7e7ead423d615fb9dfbed.jpg",
-			"img/card/xs/6a76dd71e7a32e904a56c1495c3c8701.jpg"
+			"img/card/xs/6a76dd71e7a32e904a56c1495c3c8701.jpg",
+			"img/card/xs/69394649d722e78e0490ef79f731fad1.jpg",
+			"img/card/xs/add90fd23adac3c6aad4894fb840e4c9.jpg"
 			],
 		"m2": [
 			"img/card/m2/d3e95e1ca3c7b346535ad23e8619ec7e.jpg",
