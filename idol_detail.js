@@ -4520,9 +4520,9 @@ var category_names = {
 	"love_max": "친애도MAX"
 };
 var conditions_names = {
-	"none": "条件無し",
-	"get_idol": "アイドルが所属すると閲覧できます",
-	"love_max": "親愛度をMAXにすると閲覧できます"
+	"none": "조건없음",
+	"get_idol": "아이돌이 소속된 후에 열람 가능합니다.",
+	"love_max": "친애도를 MAX로 만든 후에 열람 가능합니다."
 };
 var comment_tab_start = null;
 var show_premium = true;
