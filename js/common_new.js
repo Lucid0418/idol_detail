@@ -1,7 +1,85 @@
 /*
-	蜷榊燕遨ｺ髢鍋畑
+	名前空間用
 */
 var Commonjs = Commonjs || (function() {
+    function CreateJsCanvas() {};
+    var canvas, stage, exportRoot, anim_container, dom_overlay_container, fnStartAnimation;
+    CreateJsCanvas.prototype.init = function(_canvas, _adobeid, callback, stage) {
+        var self = this;
+        canvas = _canvas;
+        anim_container = document.getElementById("animation_container");
+        dom_overlay_container = document.getElementById("dom_overlay_container");
+        var comp = AdobeAn.getComposition(_adobeid);
+        var lib = comp.getLibrary();
+
+        createjs.MotionGuidePlugin.install();
+        var loader = new createjs.LoadQueue(false);
+        if (lib.properties.manifest.length <= 0) {
+            self.handleComplete({}, comp, _adobeid);
+        } else {
+            loader.addEventListener("fileload", function(evt) {
+                self.handleFileLoad(evt, comp);
+            });
+            loader.addEventListener("complete", function(evt) {
+                self.handleComplete(evt, comp, _adobeid);
+            });
+            var lib = comp.getLibrary();
+            loader.loadManifest(lib.properties.manifest);
+        }
+    };
+
+    CreateJsCanvas.prototype.handleFileLoad = function(evt, comp) {
+        var images = comp.getImages();
+        if (evt && (evt.item.type == "image")) {
+            images[evt.item.id] = evt.result;
+        }
+    };
+
+    CreateJsCanvas.prototype.handleComplete = function(evt, comp, _adobeid) {
+        //This function is always called, irrespective of the content. You can use the variable "stage" after it is created in token create_stage.
+        var lib = comp.getLibrary();
+        var ss = comp.getSpriteSheet();
+        var queue = evt.target;
+        var ssMetadata = lib.ssMetadata;
+        for (i = 0; i < ssMetadata.length; i++) {
+            ss[ssMetadata[i].name] = new createjs.SpriteSheet({
+                "images": [queue.getResult(ssMetadata[i].name)],
+                "frames": ssMetadata[i].frames
+            })
+        }
+        exportRoot = new lib[_adobeid]();
+        stage = new lib.Stage(canvas);
+        //Registers the "tick" event listener.
+        fnStartAnimation = function() {
+            stage.addChild(exportRoot);
+            createjs.Ticker.setFPS(lib.properties.fps);
+            createjs.Ticker.addEventListener("tick", stage);
+        }
+        //Code to support hidpi screens and responsive scaling.
+        if (AdobeAn.makeResponsive) {
+            AdobeAn.makeResponsive(true, 'width', true, 1, [canvas, anim_container, dom_overlay_container]);
+        }
+        AdobeAn.compositionLoaded(lib.properties.id);
+        fnStartAnimation();
+
+    };
+    CreateJsCanvas.prototype.addChild = function(name) {
+        var self = this;
+        if (this.stage == null) {
+            is_instantiate = true;
+            this.stage = new createjs.Stage(this.canvas);
+        }
+        this.exportRoot = new this.lib[name]();
+        this.exportRoot.manifest = manifest;
+        this.stage.addChild(this.exportRoot);
+        return this.exportRoot;
+    }
+    CreateJsCanvas.prototype.stop = function() {
+        createjs.Ticker.setPaused(true);
+        createjs.Ticker.reset();
+    };
+
+
     function Canvas() {}
 
     Canvas.prototype.init = function(canvas_element, manifest, lib, name, fps, callback, tick_flg, stage) {
@@ -67,6 +145,7 @@ var Commonjs = Commonjs || (function() {
         createjs.Ticker.reset();
     }
 
+
     function PopupTemplate(doc, default_param) {
         this.default_param = {
             "title": "default title",
@@ -98,25 +177,27 @@ var Commonjs = Commonjs || (function() {
     PopupTemplate.prototype.doc = function() {
         return '\
 			<div id="<%- _id %>" class="area-popup_common _hd_blue _bd_black">\
-			    <div class="area-popup_wrap t-Cnt">\
-			        <h3 class="area-popup_header">\
-			            <div class="area-popup_title"><%- title %></div>\
-			        </h3>\
-			        <% if(full_display_flg) { %>\
+				<div class="area-popup_wrap t-Cnt">\
+					<h3 class="area-popup_header">\
+						<div class="area-popup_title"><%- title %></div>\
+					</h3>\
+					<% if(full_display_flg) { %>\
 						<%- contents %>\
 					<% } else { %>\
 						<div class="area-popup_contents">\
 							<%- contents %>\
 						</div>\
 					<% } %>\
-			        <div class="area-popup_bg_image"></div>\
-			    </div>\
-			    <% if(closable) { %>\
-			    	<div class="popup-common_btn_close js_popup_close jsOnDesignBtn"></div>\
-			    <% } %>\
+					<div class="area-popup_bg_image"></div>\
+				</div>\
+				<% if(closable) { %>\
+					<div class="popup-common_btn_close js_popup_close jsOnDesignBtn"></div>\
+				<% } %>\
 			</div>\
 		';
     };
+
+
 
     function Popup(id, template) {
         this._id = id || "popup-default";
@@ -187,6 +268,29 @@ var Commonjs = Commonjs || (function() {
 				';
             }
         ),
+        "TYPE_4": new PopupTemplate(
+            function() {
+                return '\
+					<div id="<%- _id %>" class="frame-<%- (is_event) ? "event" : "common" %> _hd_<%- (color) ? color : "" %> m-Cnt">\
+						<div class="_header">\
+							<div class="_title"><%- title %></div>\
+						</div>\
+						<div class="_wrapper">\
+							<% if(full_display_flg) { %>\
+								<%- contents %>\
+							<% } else { %>\
+								<div class="_contents">\
+									<%- contents %>\
+								</div>\
+							<% } %>\
+						</div>\
+						<% if(closable) { %>\
+							<div class="_btn_close js_popup_close jsOnDesignBtn"></div>\
+						<% } %>\
+					</div>\
+				';
+            }
+        ),
     };
     Popup._mask = null;
     Popup._parse_val = function(target) {
@@ -224,7 +328,7 @@ var Commonjs = Commonjs || (function() {
 
     /*
     	param:
-    		template縺ｫ貂｡縺吝､画焚([id|title|contents|...])
+    		templateに渡す変数([id|title|contents|...])
     */
     Popup.prototype.set = function(param) {
         param = $.extend({}, this._template.default_param, param);
@@ -234,6 +338,14 @@ var Commonjs = Commonjs || (function() {
         });
         this._param = param;
         this._closable = param.closable;
+        this._new_layout = param.new_layout;
+
+        this._param.is_event = param.is_event || false;
+        this._param.color = param.color || false;
+
+        if (this._new_layout) {
+            this._template = Popup.enum_template.TYPE_4;
+        }
 
         //set dom
         this._dom = $(
@@ -270,7 +382,7 @@ var Commonjs = Commonjs || (function() {
         });
     }
     Popup.prototype.setClickInteraction = function() {
-        //繝懊ち繝ｳ縺ｮ蜃ｹ縺ｿ
+        //ボタンの凹み
         var onBtnElem = this._dom.find('a,:submit,label');
         onBtnElem.on(window.start, function() {
             $(this).addClass('_hover');
@@ -279,7 +391,7 @@ var Commonjs = Commonjs || (function() {
         }).on('mouseleave', function() {
             $(this).removeClass('_hover');
         });
-        //逕ｻ蜒上�繧ｿ繝ｳ逕ｨ縺ｫ諡｡邵ｮ繧定ｨｭ螳�
+        //画像ボタン用に拡縮を設定
         var on_css = {
             "transform": "scale(0.95,0.95)",
             "-webkit-transform": "scale(0.95,0.95)"
@@ -296,10 +408,10 @@ var Commonjs = Commonjs || (function() {
                 get_target(e).css(off_css)
             }
         }
-        /* 繝�じ繧､繝ｳ繝懊ち繝ｳ蜃ｹ縺ｿ */
+        /* デザインボタン凹み */
         this._dom.find('.jsOnDesignBtn').on(actions);
 
-        /* 蟆�擂逧�↓逕滓�縺輔ｌ繧掬om縺ｫ蟇ｾ縺励※縺ｮ邵ｮ蟆丞�逅� */
+        /* 将来的に生成されるdomに対しての縮小処理 */
         this._dom.find('.jsOnDesignBtn-wrap').on(actions, '.jsOnDesignBtn');
 
         function get_target(e) {
@@ -325,20 +437,24 @@ var Commonjs = Commonjs || (function() {
         Popup._mask.append(this._dom);
         this._dom.show();
 
-        var zoom = $("html").css("zoom");
-        if (this._dom.height() > window_height)
+        var htmlZoom = $("html").css("zoom");
+        var zoom = (htmlZoom >= 2) ? 1 : htmlZoom;
+        if (this._dom.height() * zoom > window_height)
             position_top = $(window).scrollTop() + 20;
         else
             position_top = (window_height - this._dom.height() * zoom) / 2 + $(window).scrollTop();
+
         position_top /= zoom;
         this._dom.css("top", position_top);
         this.dispatchEvent("open");
         return this;
     };
-    Popup.prototype.close = function(e) {
-        var closable;
+    Popup.prototype.close = function(mask_off) {
 
-        if (e && e.currentTarget && e.currentTarget.id == "ibox_mask")
+        var closable;
+        var _mask_off = (mask_off != undefined) ? mask_off : true;
+
+        if (event && event.currentTarget && event.currentTarget.id == "ibox_mask")
             closable = this._closable;
         else
             closable = true;
@@ -347,7 +463,12 @@ var Commonjs = Commonjs || (function() {
             return;
         this._state = Popup.enum_state.CLOSE;
         this._dom.detach();
-        Popup._mask.hide();
+
+        // マスクOFFしない場合はマスク消さない
+        if (_mask_off) {
+            Popup._mask.hide();
+        }
+
         this.dispatchEvent("close");
         se_play('se_009');
         return this;
@@ -402,15 +523,15 @@ var Commonjs = Commonjs || (function() {
         },
         /*
         	param:
-        		maxCnt:譛螟ｧ譁�ｭ玲焚
-        		$textCnt:繧ｫ繧ｦ繝ｳ繧ｿ繝ｼ繧ｪ繝悶ず繧ｧ繧ｯ繝�
-        		$input:蜈･蜉帙ヵ繧ｩ繝ｼ繝�繧ｪ繝悶ず繧ｧ繧ｯ繝�
-        		event_listeners:繧､繝吶Φ繝医Μ繧ｹ繝翫�鄒､
-        			onChange:繧ｭ繝ｼ縺ｮ蜈･蜉帙ｄ繝輔か繝ｼ繧ｫ繧ｹ縺ｮ譛臥┌縺後≠縺｣縺溘→縺�
-        			onEmpty:遨ｺ縺ｫ縺ｪ縺｣縺溘→縺�
-        			onSubmittable:騾∽ｿ｡蜿ｯ閭ｽ縺ｪ譁�ｭ玲焚縺ｮ縺ｨ縺�
-        			onMax:譛螟ｧ譁�ｭ玲焚繧定ｶ�∴縺溘→縺�
-        		is_first_trigger:譁�ｭ玲焚縺ｮ蛻晏屓陦ｨ遉ｺ繝輔Λ繧ｰ
+        		maxCnt:最大文字数
+        		$textCnt:カウンターオブジェクト
+        		$input:入力フォームオブジェクト
+        		event_listeners:イベントリスナー群
+        			onChange:キーの入力やフォーカスの有無があったとき
+        			onEmpty:空になったとき
+        			onSubmittable:送信可能な文字数のとき
+        			onMax:最大文字数を超えたとき
+        		is_first_trigger:文字数の初回表示フラグ
         */
         setTextCounter: function(param) {
             var maxCnt = param.maxCnt;
@@ -456,9 +577,9 @@ var Commonjs = Commonjs || (function() {
         },
         /*
         	param:
-        		$tabs:繧ｿ繝悶が繝悶ず繧ｧ繧ｯ繝�
-        		is_init : 蛻晄悄蛹悶ヵ繝ｩ繧ｰ
-        		func : 繧ｿ繝門�繧頑崛縺域凾縺ｫ蜻ｼ縺ｰ繧後ｋ髢｢謨ｰ
+        		$tabs:タブオブジェクト
+        		is_init : 初期化フラグ
+        		func : タブ切り替え時に呼ばれる関数
         	usage:
         		Commonjs.setTab({
         			$tabs:$(".btn_2"),
@@ -491,15 +612,15 @@ var Commonjs = Commonjs || (function() {
             $tabs.filter(".selected").trigger("click", is_init);
         },
         /*
-        	谿九ｊ譎る俣繧定ｿ斐☆髢｢謨ｰ縲�
+        	残り時間を返す関数。
         	param:
-        		msecond:繝溘Μ遘�
-        		format:蠖｢蠑�
-        		is_short:0縺ｮ譎ょ�遘偵ｒ蜑翫ｋ繝輔Λ繧ｰ
+        		msecond:ミリ秒
+        		format:形式
+        		is_short:0の時分秒を削るフラグ
         */
         getFormatTime: function(msecond, format, is_short) {
             var second = Math.ceil(msecond / 1000);
-            var format = format || "hh譎Ｎm蛻�ss遘�";
+            var format = format || "hh時mm分ss秒";
             var is_short = (is_short === undefined) ? false : is_short;
             var h, m, s;
 
@@ -544,6 +665,31 @@ var Commonjs = Commonjs || (function() {
                     $replace_element.remove();
                 })
             })
+            return canvas;
+        },
+        replacePremiumCardNew: function(param, _height, card_hidden) {
+            var canvas = new CreateJsCanvas();
+            var canvas_w = 640;
+            var canvas_h = _height || 800;
+            var fps = param.fps || 18;
+            var zoom = String(param.width).replace("px", "") / canvas_w;
+            var $target_element = $("<canvas/>")
+                .attr("width", canvas_w)
+                .attr("height", canvas_h)
+                .attr("id", "canvas")
+                .css("zoom", zoom)[0];
+            var idol_base_id = param.idol_base_id;
+            var $replace_element = $(param.replace_element);
+            var manifest = [{
+                src: param.card_image,
+                id: "replace_image_" + idol_base_id
+            }];
+
+            canvas.init($target_element, "_" + idol_base_id + "_sign_effect", {});
+            $replace_element.before($target_element)
+            if (!card_hidden) {
+                $replace_element.remove();
+            }
             return canvas;
         },
         Canvas: Canvas,
@@ -615,10 +761,10 @@ var Commonjs = Commonjs || (function() {
         },
         /*
         	keyname:
-        		繝ｭ繝ｼ繧ｫ繝ｫ繧ｹ繝医Ξ繝ｼ繧ｸ繧呈桃菴懊☆繧九く繝ｼ蜷�
+        		ローカルストレージを操作するキー名
         	param:
-        		菫晏ｭ倥☆繧句､
-        	窶ｻ菫晏ｭ倥☆繧矩圀縺ｫJSON蠖｢蠑上�驕ｿ縺代※縺上□縺輔＞縲ゑｼ井ｻ墓ｧ倅ｸ翫�菫晏ｭ倥〒縺阪∪縺吶′縲∽ｸ頑焔縺丞虚菴懊＠縺ｪ縺�ｫｯ譛ｫ繧ゅ≠繧狗ぜ��
+        		保存する値
+        	※保存する際にJSON形式は避けてください。（仕様上は保存できますが、上手く動作しない端末もある為）
         */
         loadLocalStorage: function(keyname) {
             if (window.localStorage) {
@@ -663,7 +809,7 @@ var Commonjs = Commonjs || (function() {
                         if (title) {
                             $trigger.html(title);
                         } else {
-                            $trigger.html("邨槭ｊ霎ｼ縺ｿ笆ｼ");
+                            $trigger.html("絞り込み▼");
                         }
                         $contents.data("status", "closing");
                         $contents.slideUp(350, function() {
@@ -675,7 +821,7 @@ var Commonjs = Commonjs || (function() {
                     case "closing":
                         break;
                     case "closed":
-                        $trigger.html("髢峨§繧銀夢");
+                        $trigger.html("閉じる▲");
                         $contents.data("status", "opening");
                         $contents.slideDown(350, function() {
                             $contents.data("status", "opened");
@@ -797,6 +943,26 @@ var Commonjs = Commonjs || (function() {
                     }
                 }
             });
-        }
+        },
+        openBrowserByAndapp: function(url) {
+            var popup = new Commonjs.Popup("openBrowserByAndapp");
+            popup.set({
+                "title": "外部サイト移動確認",
+                "contents": '\
+					<div style="margin:8px 12px;font-size:12px">\
+						外部サイトに移動しようとしています。<br>\
+						※ここから先はモバゲーではありません\
+					</div>\
+					<div style="margin:8px 12px;font-size:12px">\
+						外部サイトへ移動しますか？\
+					</div>\
+					<a class="btn_decision_line_2 m-Cnt m-Btm4" style="font-size:12px" id="jsOpenBrowserByAndapp">リンク先へ移動する</a>\
+				'
+            });
+            popup.open();
+            popup.get_contents().find("#jsOpenBrowserByAndapp").on("click", function() {
+                EL_IMAS.shellapp.openUrl(url);
+            })
+        },
     }
 })();
