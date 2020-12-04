@@ -3665,6 +3665,166 @@
         },
         "is_exist_archive": true,
         "is_max_love": true
+    }, {
+        "data": {
+            "card_name": "[애니버서리 프린세스]호죠 카렌",
+            "rarity": "6",
+            "cost": "26",
+            "attribute": "cool",
+            "skill_name": "둘도 없는 지금",
+            "skill_effect": "모든 타입의 프론트멤버 및 백멤버 상위5명의 공격력 궁극업",
+            "grow_idol_flag": "",
+            "default_attack": "22100",
+            "default_defense": "16900",
+            "skill_effect_2": "",
+            "hash_card_id": "ed7d5f13c8d9abb4a9f1661baa73ecd2",
+            "alias_name": "애니버서리 프린세스",
+            "real_name": "호죠 카렌"
+        },
+        "profile": {
+            "card_id": "",
+            "card_name": "[애니버서리 프린세스]호죠 카렌",
+			"card_kana": "호죠 카렌",
+			"card_age": "16",
+			"card_from": "도쿄",
+			"card_height": "155",
+			"card_weight": "42",
+			"card_bust": "83",
+			"card_waist": "55",
+			"card_hip": "81",
+			"card_birthday": "9월 5일",
+			"card_constellation": "처녀자리",
+			"card_blood": "B",
+			"card_arm": "오른손",
+			"card_hobby": "네일",
+			"card_cv": "후치가미 마이"
+        },
+        "comments": {
+		    "comment": "",
+		    "comments_my_1": "",
+		    "comments_my_2": "",
+		    "comments_my_3": "",
+		    "comments_my_4": "",
+		    "comments_my_max": "",
+		    "comments_work_1": "",
+		    "comments_work_2": "",
+		    "comments_work_3": "",
+		    "comments_work_4": "",
+		    "comments_work_max": "",
+		    "comments_work_love_up": "",
+		    "comments_live": "",
+		    "comments_love_max": ""
+		},
+		"voice": {
+		    "comment": "",
+		    "comments_my_1": "",
+		    "comments_my_2": "",
+		    "comments_my_3": "",
+		    "comments_my_4": "",
+		    "comments_my_max": "",
+		    "comments_work_1": "",
+		    "comments_work_2": "",
+		    "comments_work_3": "",
+		    "comments_work_4": "",
+		    "comments_work_max": "",
+		    "comments_work_love_up": "",
+		    "comments_live": "",
+		    "comments_love_max": ""
+		},
+        "event": null,
+        "release": "",
+        "trade_prohibition": {
+            "is_trade_limit": false
+        },
+        "idol_search_param": "keyword=ほうじょうかれん",
+        "premium_sign_idol_base_id": "",
+	    "js_premium_sign": "",
+        "archive": {
+            "normal": "1",
+            "premium": "1"
+        },
+        "is_exist_archive": true,
+        "is_max_love": true
+    }, {
+        "data": {
+            "card_name": "[애니버서리 프린세스]호죠 카렌+",
+            "rarity": "6",
+            "cost": "26",
+            "attribute": "cool",
+            "skill_name": "둘도 없는 지금",
+            "skill_effect": "모든 타입의 프론트멤버 및 백멤버 상위5명의 공격력 궁극업",
+            "grow_idol_flag": "",
+            "default_attack": "26520",
+            "default_defense": "20280",
+            "skill_effect_2": "모든 타입의 프론트멤버 및 백멤버 상위5명의 공격력 조금 업",
+            "hash_card_id": "6f21fc12e42465cbda44034110b58791",
+            "alias_name": "애니버서리 프린세스",
+            "real_name": "호죠 카렌+"
+        },
+        "profile": {
+            "card_id": "",
+            "card_name": "[애니버서리 프린세스]호죠 카렌+",
+			"card_kana": "호죠 카렌",
+			"card_age": "16",
+			"card_from": "도쿄",
+			"card_height": "155",
+			"card_weight": "42",
+			"card_bust": "83",
+			"card_waist": "55",
+			"card_hip": "81",
+			"card_birthday": "9월 5일",
+			"card_constellation": "처녀자리",
+			"card_blood": "B",
+			"card_arm": "오른손",
+			"card_hobby": "네일",
+			"card_cv": "후치가미 마이"
+        },
+        "comments": {
+		    "comment": "",
+		    "comments_my_1": "",
+		    "comments_my_2": "",
+		    "comments_my_3": "",
+		    "comments_my_4": "",
+		    "comments_my_max": "",
+		    "comments_work_1": "",
+		    "comments_work_2": "",
+		    "comments_work_3": "",
+		    "comments_work_4": "",
+		    "comments_work_max": "",
+		    "comments_work_love_up": "",
+		    "comments_live": "",
+		    "comments_love_max": ""
+		},
+		"voice": {
+		    "comment": "",
+		    "comments_my_1": "",
+		    "comments_my_2": "",
+		    "comments_my_3": "",
+		    "comments_my_4": "",
+		    "comments_my_max": "",
+		    "comments_work_1": "",
+		    "comments_work_2": "",
+		    "comments_work_3": "",
+		    "comments_work_4": "",
+		    "comments_work_max": "",
+		    "comments_work_love_up": "",
+		    "comments_live": "",
+		    "comments_love_max": ""
+		},
+        "event": null,
+        "release": "",
+        "trade_prohibition": {
+            "is_trade_limit": false
+        },
+        "idol_search_param": "keyword=ほうじょうかれん",
+        "premium_sign_idol_base_id": "",
+	    "js_premium_sign": "",
+        "archive": {
+            "normal": "1",
+            "premium": "1"
+        },
+        "is_exist_archive": true,
+        "is_max_love": true
     }];
 
 	idol.idol_story_list = [{
@@ -3996,7 +4156,9 @@
 			"img/card/sign_b/29f6687479f7e7ead423d615fb9dfbed.jpg",
 			"img/card/sign_b/6a76dd71e7a32e904a56c1495c3c8701.jpg",
 			"img/card/sign_b/69394649d722e78e0490ef79f731fad1.jpg",
-			"img/card/sign_b/add90fd23adac3c6aad4894fb840e4c9.jpg"
+			"img/card/sign_b/add90fd23adac3c6aad4894fb840e4c9.jpg",
+			"img/card/sign_b/ed7d5f13c8d9abb4a9f1661baa73ecd2.jpg",
+			"img/card/sign_b/6f21fc12e42465cbda44034110b58791.jpg"
 			],
 		"l_premium": {
 			"6": "img/card/sign_p/855d33d77752c725474da494a0e9e239.jpg",
@@ -4038,7 +4200,9 @@
 			"42": "img/card/sign_p/29f6687479f7e7ead423d615fb9dfbed.jpg",
 			"43": "img/card/sign_p/6a76dd71e7a32e904a56c1495c3c8701.jpg",
 			"44": "img/card/sign_p/69394649d722e78e0490ef79f731fad1.jpg",
-			"45": "img/card/sign_p/add90fd23adac3c6aad4894fb840e4c9.jpg"
+			"45": "img/card/sign_p/add90fd23adac3c6aad4894fb840e4c9.jpg",
+			"46": "img/card/sign_p/ed7d5f13c8d9abb4a9f1661baa73ecd2.jpg",
+			"47": "img/card/sign_p/6f21fc12e42465cbda44034110b58791.jpg"
 		},
 		"l_nosign": [
 			"",
@@ -4086,7 +4250,9 @@
 			"img/card/nosign/29f6687479f7e7ead423d615fb9dfbed.jpg",
 			"img/card/nosign/6a76dd71e7a32e904a56c1495c3c8701.jpg",
 			"img/card/nosign/69394649d722e78e0490ef79f731fad1.jpg",
-			"img/card/nosign/add90fd23adac3c6aad4894fb840e4c9.jpg"
+			"img/card/nosign/add90fd23adac3c6aad4894fb840e4c9.jpg",
+			"img/card/nosign/ed7d5f13c8d9abb4a9f1661baa73ecd2.jpg",
+			"img/card/nosign/6f21fc12e42465cbda44034110b58791.jpg"
 			],
 		"l_nosign_p": {
 			"6": "img/card/nosign_p/855d33d77752c725474da494a0e9e239.jpg",
@@ -4128,7 +4294,9 @@
 			"42": "img/card/nosign_p/29f6687479f7e7ead423d615fb9dfbed.jpg",
 			"43": "img/card/nosign_p/6a76dd71e7a32e904a56c1495c3c8701.jpg",
 			"44": "img/card/nosign_p/69394649d722e78e0490ef79f731fad1.jpg",
-			"45": "img/card/nosign_p/add90fd23adac3c6aad4894fb840e4c9.jpg"
+			"45": "img/card/nosign_p/add90fd23adac3c6aad4894fb840e4c9.jpg",
+			"46": "img/card/nosign_p/ed7d5f13c8d9abb4a9f1661baa73ecd2.jpg",
+			"47": "img/card/nosign_p/6f21fc12e42465cbda44034110b58791.jpg"
 		},
 		"l_noframe": [
 			null,
@@ -4176,7 +4344,9 @@
 			"img/card/noframe/29f6687479f7e7ead423d615fb9dfbed.jpg",
 			"img/card/noframe/6a76dd71e7a32e904a56c1495c3c8701.jpg",
 			"img/card/noframe/69394649d722e78e0490ef79f731fad1.jpg",
-			"img/card/noframe/add90fd23adac3c6aad4894fb840e4c9.jpg"
+			"img/card/noframe/add90fd23adac3c6aad4894fb840e4c9.jpg",
+			"img/card/noframe/ed7d5f13c8d9abb4a9f1661baa73ecd2.jpg",
+			"img/card/noframe/6f21fc12e42465cbda44034110b58791.jpg"
 			],
 		"mask_l": {
 		  "0": "",
@@ -4221,7 +4391,11 @@
 		  "39": "",
 		  "40": "img/card/mask_l/d56f88bc11b49b2bda99c446a28b701f.png",
 		  "42": "",
-		  "43": ""
+		  "43": "",
+		  "44": "",
+		  "45": "",
+		  "46": "",
+		  "47": ""
 		},
 		"mask_l2": {
 		  "0": "",
@@ -4266,7 +4440,11 @@
 		  "39": "",
 		  "40": "img/card/mask_l2/d56f88bc11b49b2bda99c446a28b701f.png",
 		  "42": "",
-		  "43": ""
+		  "43": "",
+		  "44": "",
+		  "45": "",
+		  "46": "",
+		  "47": ""
 		},
 		"mask_l_p": {
 		  "40": "img/card/mask_l_p/d56f88bc11b49b2bda99c446a28b701f.png",
@@ -4322,7 +4500,9 @@
 			"img/card/xs/29f6687479f7e7ead423d615fb9dfbed.jpg",
 			"img/card/xs/6a76dd71e7a32e904a56c1495c3c8701.jpg",
 			"img/card/xs/69394649d722e78e0490ef79f731fad1.jpg",
-			"img/card/xs/add90fd23adac3c6aad4894fb840e4c9.jpg"
+			"img/card/xs/add90fd23adac3c6aad4894fb840e4c9.jpg",
+			"img/card/xs/ed7d5f13c8d9abb4a9f1661baa73ecd2.jpg",
+			"img/card/xs/6f21fc12e42465cbda44034110b58791.jpg"
 			],
 		"m2": [
 			"img/card/m2/d3e95e1ca3c7b346535ad23e8619ec7e.jpg",
