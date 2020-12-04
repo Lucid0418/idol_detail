@@ -46,5 +46,5 @@
 | 43 | ![](img/card/xs/6a76dd71e7a32e904a56c1495c3c8701.jpg) | 2563302 | 루미너스 스타+(2020) | 6a76dd71e7a32e904a56c1495c3c8701 |
 | 44 | ![](img/card/xs/69394649d722e78e0490ef79f731fad1.jpg) | 2463501 | 송 포 라이프 | 69394649d722e78e0490ef79f731fad1 |
 | 45 | ![](img/card/xs/add90fd23adac3c6aad4894fb840e4c9.jpg) | 2563502 | 송 포 라이프+ | add90fd23adac3c6aad4894fb840e4c9 |
-| 44 | ![](img/card/xs/ed7d5f13c8d9abb4a9f1661baa73ecd2.jpg) | | 애니버서리 프린세스 | ed7d5f13c8d9abb4a9f1661baa73ecd2 |
-| 45 | ![](img/card/xs/6f21fc12e42465cbda44034110b58791.jpg) | | 애니버서리 프린세스+ | 6f21fc12e42465cbda44034110b58791 |
+| 46 | ![](img/card/xs/ed7d5f13c8d9abb4a9f1661baa73ecd2.jpg) | | 애니버서리 프린세스 | ed7d5f13c8d9abb4a9f1661baa73ecd2 |
+| 47 | ![](img/card/xs/6f21fc12e42465cbda44034110b58791.jpg) | | 애니버서리 프린세스+ | 6f21fc12e42465cbda44034110b58791 |
