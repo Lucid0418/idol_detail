@@ -3898,11 +3898,11 @@
 			"3": "1"
 		},
 		"flash_path": {
-			"0": "http://125.6.169.35/idolmaster/idol_story/movie_play/353/1/idol_gallery--idol_detail--__hash_card_id__--2?l_frm=Idol_gallery_idol_detail_1&rnd=157956828",
+			"0": "https://lucid0418.github.io/idol_detail/story/353/0",
 			"3": "http://125.6.169.35/idolmaster/idol_story/movie_play/353/4/idol_gallery--idol_detail--__hash_card_id__--2?l_frm=Idol_gallery_idol_detail_1&rnd=142547262"
 		},
 		"voice_url": {
-			"0": "http://125.6.169.35/idolmaster/idol_story/sound_play/353/1/idol_gallery/__hash_card_id__?l_frm=Idol_gallery_idol_detail_1&rnd=705802806",
+			"0": "https://lucid0418.github.io/idol_detail/story/353/0?voice=1",
 			"3": "http://125.6.169.35/idolmaster/idol_story/sound_play/353/4/idol_gallery/__hash_card_id__?l_frm=Idol_gallery_idol_detail_1&rnd=781555277"
 		},
 		"open_flag": {
