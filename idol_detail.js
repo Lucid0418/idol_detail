@@ -689,7 +689,7 @@
 			"403": {
 				"event_id": 403,
 				"category_id": "10020",
-				"event_name": "アイドルプロデュース the 1st Anniversary"
+				"event_name": "아이돌 프로듀스 the 1st Anniversary"
 			}
 		},
 		"release": "",
@@ -3828,16 +3828,58 @@
     }];
 
 	idol.idol_story_list = [{
+		"story_id": "428",
+		"story_title": "아이돌 프로듀스 the 9th Anniversary",
+		"voice_enable": ["1", "1"],
+		"flash_path": [
+			"http://125.6.169.35/idolmaster/idol_story/movie_play/428/1/idol_gallery--idol_detail--__hash_card_id__--2?l_frm=Idol_gallery_idol_detail_1&rnd=885320253",
+			"http://125.6.169.35/idolmaster/idol_story/movie_play/428/2/idol_gallery--idol_detail--__hash_card_id__--2?l_frm=Idol_gallery_idol_detail_1&rnd=205438126"
+		],
+		"voice_url": [
+			"http://125.6.169.35/idolmaster/idol_story/sound_play/428/1/idol_gallery/__hash_card_id__?l_frm=Idol_gallery_idol_detail_1&rnd=300062389",
+			"http://125.6.169.35/idolmaster/idol_story/sound_play/428/2/idol_gallery/__hash_card_id__?l_frm=Idol_gallery_idol_detail_1&rnd=233592722"
+		],
+		"open_flag": ["1", "1"],
+		"icon": [
+			"img/ui/episode/epi_button_movie_428_1.jpg",
+			"img/ui/episode/epi_button_movie_428_2.jpg"
+		],
+		"movie_name_voice": [
+			"img/ui/episode/epi_button_moviename_cool_special.png",
+			"img/ui/episode/epi_button_moviename_cool_special_2.png"
+		]
+	}, {
+		"story_id": "424",
+		"story_title": "아이돌 프로듀스 the 9th Anniversary",
+		"voice_enable": ["1", "1"],
+		"flash_path": [
+			"http://125.6.169.35/idolmaster/idol_story/movie_play/424/1/idol_gallery--idol_detail--__hash_card_id__--2?l_frm=Idol_gallery_idol_detail_1&rnd=179344546",
+			"http://125.6.169.35/idolmaster/idol_story/movie_play/424/2/idol_gallery--idol_detail--__hash_card_id__--2?l_frm=Idol_gallery_idol_detail_1&rnd=96561520"
+		],
+		"voice_url": [
+			"http://125.6.169.35/idolmaster/idol_story/sound_play/424/1/idol_gallery/__hash_card_id__?l_frm=Idol_gallery_idol_detail_1&rnd=161282377",
+			"http://125.6.169.35/idolmaster/idol_story/sound_play/424/2/idol_gallery/__hash_card_id__?l_frm=Idol_gallery_idol_detail_1&rnd=626571817"
+		],
+		"open_flag": ["1", "1"],
+		"icon": [
+			"img/ui/episode/epi_button_movie_424_1.jpg",
+			"img/ui/episode/epi_button_movie_424_2_gray.jpg"
+		],
+		"movie_name_voice": [
+			"img/ui/episode/epi_button_moviename_cool_early.png",
+			"img/ui/episode/epi_button_moviename_cool_late_gray.png"
+		]
+	}, {
 		"story_id": "420",
 	    "story_title": "루미너스 스타(2020)",
 	    "voice_enable": ["1", "1"],
 	    "flash_path": [
-		    "http://sp.pf.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/idol_story/movie_play/420/1/idol_gallery--idol_detail--__hash_card_id__--2?l_frm=Idol_gallery_idol_detail_1&rnd=117959544",
-		    "http://sp.pf.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/idol_story/movie_play/420/2/idol_gallery--idol_detail--__hash_card_id__--2?l_frm=Idol_gallery_idol_detail_1&rnd=605998102"
+		    "http://125.6.169.35/idolmaster/idol_story/movie_play/420/1/idol_gallery--idol_detail--__hash_card_id__--2?l_frm=Idol_gallery_idol_detail_1&rnd=117959544",
+		    "http://125.6.169.35/idolmaster/idol_story/movie_play/420/2/idol_gallery--idol_detail--__hash_card_id__--2?l_frm=Idol_gallery_idol_detail_1&rnd=605998102"
 	     ],
 	    "voice_url": [
-	    	"http://sp.pf.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/idol_story/sound_play/420/1/idol_gallery/__hash_card_id__?l_frm=Idol_gallery_idol_detail_1&rnd=383469564",
-	    	"http://sp.pf.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/idol_story/sound_play/420/2/idol_gallery/__hash_card_id__?l_frm=Idol_gallery_idol_detail_1&rnd=350709384"
+	    	"http://125.6.169.35/idolmaster/idol_story/sound_play/420/1/idol_gallery/__hash_card_id__?l_frm=Idol_gallery_idol_detail_1&rnd=383469564",
+	    	"http://125.6.169.35/idolmaster/idol_story/sound_play/420/2/idol_gallery/__hash_card_id__?l_frm=Idol_gallery_idol_detail_1&rnd=350709384"
 		],
 	    "open_flag": ["1", "1"],
 	    "icon": [
@@ -3853,12 +3895,12 @@
 	    "story_title": "신데렐라 걸",
 	    "voice_enable": ["1", "1"],
 	    "flash_path": [
-	    	"http://sp.pf.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/idol_story/movie_play/412/1/idol_gallery--idol_detail--__hash_card_id__--2?l_frm=Idol_gallery_idol_detail_1&rnd=819010908",
-	    	"http://sp.pf.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/idol_story/movie_play/412/2/idol_gallery--idol_detail--__hash_card_id__--2?l_frm=Idol_gallery_idol_detail_1&rnd=381525609"
+	    	"http://125.6.169.35/idolmaster/idol_story/movie_play/412/1/idol_gallery--idol_detail--__hash_card_id__--2?l_frm=Idol_gallery_idol_detail_1&rnd=819010908",
+	    	"http://125.6.169.35/idolmaster/idol_story/movie_play/412/2/idol_gallery--idol_detail--__hash_card_id__--2?l_frm=Idol_gallery_idol_detail_1&rnd=381525609"
     	],
 	    "voice_url": [
-	    	"http://sp.pf.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/idol_story/sound_play/412/1/idol_gallery/__hash_card_id__?l_frm=Idol_gallery_idol_detail_1&rnd=618439825",
-	    	"http://sp.pf.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/idol_story/sound_play/412/2/idol_gallery/__hash_card_id__?l_frm=Idol_gallery_idol_detail_1&rnd=488424516"
+	    	"http://125.6.169.35/idolmaster/idol_story/sound_play/412/1/idol_gallery/__hash_card_id__?l_frm=Idol_gallery_idol_detail_1&rnd=618439825",
+	    	"http://125.6.169.35/idolmaster/idol_story/sound_play/412/2/idol_gallery/__hash_card_id__?l_frm=Idol_gallery_idol_detail_1&rnd=488424516"
     	],
 	    "open_flag": ["1", "1"],
 	    "icon": [
