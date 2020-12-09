@@ -4601,7 +4601,13 @@
 	idol.apple_review = null;
 	window.idol = idol;
 })();
+var today = new Date();
+var month = today.getMonth()+1;
+var date = today.getDate();
 var birthday_flag = false;
+if(month==9 && date==4) {
+	var birthday_flag = true;
+}
 var select_card_index = "0";
 var selected_num = null;
 var url_trade = 'http://125.6.169.35/idolmaster/auction/search_top/0/__hash_card_id__?l_frm=Idol_gallery_idol_detail_1&rnd=762495699';
