@@ -3863,11 +3863,11 @@
 		"open_flag": ["1", "1"],
 		"icon": [
 			"img/ui/episode/epi_button_movie_424_1.jpg",
-			"img/ui/episode/epi_button_movie_424_2_gray.jpg"
+			"img/ui/episode/epi_button_movie_424_2.jpg"
 		],
 		"movie_name_voice": [
 			"img/ui/episode/epi_button_moviename_cool_early.png",
-			"img/ui/episode/epi_button_moviename_cool_late_gray.png"
+			"img/ui/episode/epi_button_moviename_cool_late.png"
 		]
 	}, {
 		"story_id": "420",
@@ -3940,11 +3940,11 @@
 			"3": "1"
 		},
 		"flash_path": {
-			"0": "https://lucid0418.github.io/idol_detail/story/353/0",
+			"0": "https://lucid0418.github.io/mbga_ep/episode/51078468",
 			"3": "http://125.6.169.35/idolmaster/idol_story/movie_play/353/4/idol_gallery--idol_detail--__hash_card_id__--2?l_frm=Idol_gallery_idol_detail_1&rnd=142547262"
 		},
 		"voice_url": {
-			"0": "https://lucid0418.github.io/idol_detail/story/353/0?voice=1",
+			"0": "http://125.6.169.35/idolmaster/idol_story/sound_play/353/1/idol_gallery/__hash_card_id__?l_frm=Idol_gallery_idol_detail_1&rnd=624869423",
 			"3": "http://125.6.169.35/idolmaster/idol_story/sound_play/353/4/idol_gallery/__hash_card_id__?l_frm=Idol_gallery_idol_detail_1&rnd=781555277"
 		},
 		"open_flag": {
