@@ -3666,24 +3666,23 @@
         "is_exist_archive": true,
         "is_max_love": true
     }, {
-        "data": {
-            "card_name": "[애니버서리 프린세스]호죠 카렌",
-            "rarity": "6",
-            "cost": "26",
-            "attribute": "cool",
-            "skill_name": "둘도 없는 지금",
-            "skill_effect": "모든 타입의 프론트멤버 및 백멤버 상위5명의 공격력 궁극업",
-            "grow_idol_flag": "",
-            "default_attack": "22100",
-            "default_defense": "16900",
-            "skill_effect_2": "",
-            "hash_card_id": "ed7d5f13c8d9abb4a9f1661baa73ecd2",
-            "alias_name": "애니버서리 프린세스",
-            "real_name": "호죠 카렌"
-        },
-        "profile": {
-            "card_id": "",
-            "card_name": "[애니버서리 프린세스]호죠 카렌",
+		"data": {
+			"card_name": "[애니버서리 프린세스]호죠 카렌",
+			"rarity": "5",
+			"cost": "26",
+			"attribute": "cool",
+			"skill_name": "둘도 없는 지금",
+			"skill_effect": "모든 타입의 프론트멤버 및 백멤버 5명의 공격력 궁극업",
+			"grow_idol_flag": "",
+			"default_attack": "8840",
+			"default_defense": "6760",
+			"hash_card_id": "ed7d5f13c8d9abb4a9f1661baa73ecd2",
+			"alias_name": "애니버서리 프린세스",
+			"real_name": "호죠 카렌"
+		},
+		"profile": {
+			"card_id": "2463901",
+			"card_name": "[애니버서리 프린세스]호죠 카렌",
 			"card_kana": "호죠 카렌",
 			"card_age": "16",
 			"card_from": "도쿄",
@@ -3698,72 +3697,72 @@
 			"card_arm": "오른손",
 			"card_hobby": "네일",
 			"card_cv": "후치가미 마이"
-        },
-        "comments": {
-		    "comment": "",
-		    "comments_my_1": "",
-		    "comments_my_2": "",
-		    "comments_my_3": "",
-		    "comments_my_4": "",
-		    "comments_my_max": "",
-		    "comments_work_1": "",
-		    "comments_work_2": "",
-		    "comments_work_3": "",
-		    "comments_work_4": "",
-		    "comments_work_max": "",
-		    "comments_work_love_up": "",
-		    "comments_live": "",
-		    "comments_love_max": ""
+		},
+		"comments": {
+			"comment": "今日も明日もその先も､一番煌めく『今』を生きていたいんだ｡だって､限界なんてどこにもない｡私は…ｱｲﾄﾞﾙ호죠 카렌として､○○さんと歩んでるんだから｡これからも､ずっとね",
+			"comments_my_1": "この光は､色褪せないよ｡絶対に",
+			"comments_my_2": "ちゃんと､私を見ててね",
+			"comments_my_3": "大切に扱って｡輝きは永遠だよ?",
+			"comments_my_4": "曇ってもそっと磨いて…そうやって､ずっとそばで輝かせてね",
+			"comments_my_max": "綺麗だよ…って､○○さんの一言が､私を輝かせるの",
+			"comments_work_1": "最高の『今』､見せたいんだ",
+			"comments_work_2": "どんな私も､全部大事な私だよ",
+			"comments_work_3": "誰かの憧れに､なれてるかな",
+			"comments_work_4": "期待に応えるだけじゃ足りないよ｡予想を超えていきたいから",
+			"comments_work_max": "○○さんが磨き上げた私…一番近くで見てほしいな",
+			"comments_work_love_up": "私自身の煌めきで､貴方の心を奪うよ｡それが､호죠 카렌だから",
+			"comments_live": "もっと､深く見つめて…",
+			"comments_love_max": "この私は､今だけの輝き｡瞬きの間に､光はもっと増していくんだから｡○○さん､一瞬だって目を離したらﾀﾞﾒだよ"
 		},
 		"voice": {
-		    "comment": "",
-		    "comments_my_1": "",
-		    "comments_my_2": "",
-		    "comments_my_3": "",
-		    "comments_my_4": "",
-		    "comments_my_max": "",
-		    "comments_work_1": "",
-		    "comments_work_2": "",
-		    "comments_work_3": "",
-		    "comments_work_4": "",
-		    "comments_work_max": "",
-		    "comments_work_love_up": "",
-		    "comments_live": "",
-		    "comments_love_max": ""
+			"comment": "voice/2463901/552213f46609cb7a43932cae1f68acfb.mp4",
+			"comments_my_1": "voice/2463901/eeb813a35ab15f91c3ad0354601d51ec.mp4",
+			"comments_my_2": "voice/2463901/42c3772af44f07e532189576104c0797.mp4",
+			"comments_my_3": "voice/2463901/e29ce9f5aedb95d0168406c5b779d742.mp4",
+			"comments_my_4": "voice/2463901/53c99ac51a7709a7e55fa2c4729b7d7a.mp4",
+			"comments_my_max": "voice/2463901/4de7cf90f2eec37fda37da51f8664ab5.mp4",
+			"comments_work_1": "voice/2463901/3a94be11cdb715ded2dd7784869aa5d9.mp4",
+			"comments_work_2": "voice/2463901/b966f15c0e242dd8a4070a786cdb83be.mp4",
+			"comments_work_3": "voice/2463901/52665ffac59bb0b086cd75dcc1abd4fa.mp4",
+			"comments_work_4": "voice/2463901/e2928914565624e69e89469ae2694be3.mp4",
+			"comments_work_max": "voice/2463901/cebc67af063b968a3633fd510d1559e4.mp4",
+			"comments_work_love_up": "voice/2463901/ea6146137e89c1cf097a4a4a9f35e84c.mp4",
+			"comments_live": "voice/2463901/1d2ad87c18cd9562681d8bbdcbd5c94d.mp4",
+			"comments_love_max": "voice/2463901/8b32c193265bdb29ec3ed09fb6333099.mp4"
 		},
-        "event": null,
-        "release": "",
-        "trade_prohibition": {
-            "is_trade_limit": false
-        },
-        "idol_search_param": "keyword=ほうじょうかれん",
-        "premium_sign_idol_base_id": "",
-	    "js_premium_sign": "",
-        "archive": {
-            "normal": "1",
-            "premium": "1"
-        },
-        "is_exist_archive": true,
-        "is_max_love": true
-    }, {
-        "data": {
-            "card_name": "[애니버서리 프린세스]호죠 카렌+",
-            "rarity": "6",
-            "cost": "26",
-            "attribute": "cool",
-            "skill_name": "둘도 없는 지금",
-            "skill_effect": "모든 타입의 프론트멤버 및 백멤버 상위5명의 공격력 궁극업",
-            "grow_idol_flag": "",
-            "default_attack": "26520",
-            "default_defense": "20280",
-            "skill_effect_2": "모든 타입의 프론트멤버 및 백멤버 상위5명의 공격력 조금 업",
-            "hash_card_id": "6f21fc12e42465cbda44034110b58791",
-            "alias_name": "애니버서리 프린세스",
-            "real_name": "호죠 카렌+"
-        },
-        "profile": {
-            "card_id": "",
-            "card_name": "[애니버서리 프린세스]호죠 카렌+",
+		"event": null,
+		"release": "",
+		"trade_prohibition": {
+			"is_trade_limit": false
+		},
+		"idol_search_param": "keyword=ほうじょうかれん",
+		"premium_sign_idol_base_id": "101",
+		"js_premium_sign": "js/cjs/premium/sign_effect_101.js",
+		"archive": {
+			"normal": "1",
+			"premium": "1"
+		},
+		"is_exist_archive": true,
+		"is_max_love": true
+	}, {
+		"data": {
+			"card_name": "[애니버서리 프린세스]호죠 카렌+",
+			"rarity": "6",
+			"cost": "26",
+			"attribute": "cool",
+			"skill_name": "둘도 없는 지금",
+			"skill_effect": "모든 타입의 프론트멤버 및 백멤버 상위 5명의 공격력 궁극업",
+			"grow_idol_flag": "",
+			"default_attack": "10608",
+			"default_defense": "8112",
+			"skill_effect_2": "모든 타입의 프론트멤버 및 백멤버 상위 5명의 공격력 조금 업",
+			"hash_card_id": "6f21fc12e42465cbda44034110b58791",
+			"alias_name": "애니버서리 프린세스",
+			"real_name": "호죠 카렌+"
+		},
+		"profile": {
+			"card_id": "2563902",
+			"card_name": "[애니버서리 프린세스]호죠 카렌+",
 			"card_kana": "호죠 카렌",
 			"card_age": "16",
 			"card_from": "도쿄",
@@ -3778,54 +3777,54 @@
 			"card_arm": "오른손",
 			"card_hobby": "네일",
 			"card_cv": "후치가미 마이"
-        },
-        "comments": {
-		    "comment": "",
-		    "comments_my_1": "",
-		    "comments_my_2": "",
-		    "comments_my_3": "",
-		    "comments_my_4": "",
-		    "comments_my_max": "",
-		    "comments_work_1": "",
-		    "comments_work_2": "",
-		    "comments_work_3": "",
-		    "comments_work_4": "",
-		    "comments_work_max": "",
-		    "comments_work_love_up": "",
-		    "comments_live": "",
-		    "comments_love_max": ""
+		},
+		"comments": {
+			"comment": "諦めなければ､夢は叶うんだ｡だけどそれは､いつだって支えてくれるみんながいてくれたから｡本当にありがとう｡私…今､最高に輝いてるって､胸を張って言えるよ! この先も一緒だからね!",
+			"comments_my_1": "この光は､色褪せないよ｡絶対に",
+			"comments_my_2": "ちゃんと､私を見ててね",
+			"comments_my_3": "自然と零れちゃうんだ｡笑顔!",
+			"comments_my_4": "この眩しさは､私の生きてきた証｡全部ぜｰんぶ､受け止めるよ!",
+			"comments_my_max": "一緒なら出来る｡○○さんと私を繋ぐ大事な言葉だよ!",
+			"comments_work_1": "最高の『今』､見せたいんだ",
+			"comments_work_2": "どんな私も､全部大事な私だよ",
+			"comments_work_3": "ここが､私らしくいられる場所!",
+			"comments_work_4": "夢を見ることに慣れたらね､もっと自分を好きになったんだ♪",
+			"comments_work_max": "○○さんと立つ場所が出発点! また未来を始めようね",
+			"comments_work_love_up": "○○さん! 私､ちゃんとｱｲﾄﾞﾙ出来てる…よねっ♪",
+			"comments_live": "笑顔で…特大のﾋﾟｰｽ♪",
+			"comments_love_max": "○○さんと出逢ってｱｲﾄﾞﾙになれたから､気付けたよ｡私の歩む道は､これからも煌めきと可能性に満ち溢れてるって!"
 		},
 		"voice": {
-		    "comment": "",
-		    "comments_my_1": "",
-		    "comments_my_2": "",
-		    "comments_my_3": "",
-		    "comments_my_4": "",
-		    "comments_my_max": "",
-		    "comments_work_1": "",
-		    "comments_work_2": "",
-		    "comments_work_3": "",
-		    "comments_work_4": "",
-		    "comments_work_max": "",
-		    "comments_work_love_up": "",
-		    "comments_live": "",
-		    "comments_love_max": ""
+			"comment": "voice/2563902/05755f8c5c6c58aa103cbc40d9dfb534.mp4",
+			"comments_my_1": "voice/2563902/abcb211506fc85219e5d7ce6ee94341e.mp4",
+			"comments_my_2": "voice/2563902/fa473a2c5a68555343bfc20c3a3b2bb0.mp4",
+			"comments_my_3": "voice/2563902/92eda46511eb3819153d356c5261ce3b.mp4",
+			"comments_my_4": "voice/2563902/1d4af33474ee263094e5779e236b7380.mp4",
+			"comments_my_max": "voice/2563902/a21f405b9be0d5981da48394b558a028.mp4",
+			"comments_work_1": "voice/2563902/a8ba89ecf39eea9b085ccc8a4ba7aa77.mp4",
+			"comments_work_2": "voice/2563902/904b0a30529952e19e60d6b81b438b44.mp4",
+			"comments_work_3": "voice/2563902/453af06b8921822859a0967e0197edbc.mp4",
+			"comments_work_4": "voice/2563902/5f34008a9b15d7757824dcaa103ef831.mp4",
+			"comments_work_max": "voice/2563902/fbf205a2f62e9891c9da1a05a2547919.mp4",
+			"comments_work_love_up": "voice/2563902/293f06ecd352fd28868b4c2de1a782f9.mp4",
+			"comments_live": "voice/2563902/b205b3884c614d71a3aef74cea96a429.mp4",
+			"comments_love_max": "voice/2563902/9e456897b129de93de3de2e00cb563de.mp4"
 		},
-        "event": null,
-        "release": "",
-        "trade_prohibition": {
-            "is_trade_limit": false
-        },
-        "idol_search_param": "keyword=ほうじょうかれん",
-        "premium_sign_idol_base_id": "",
-	    "js_premium_sign": "",
-        "archive": {
-            "normal": "1",
-            "premium": "1"
-        },
-        "is_exist_archive": true,
-        "is_max_love": true
-    }];
+		"event": null,
+		"release": "",
+		"trade_prohibition": {
+			"is_trade_limit": false
+		},
+		"idol_search_param": "keyword=ほうじょうかれん",
+		"premium_sign_idol_base_id": "101",
+		"js_premium_sign": "js/cjs/premium/sign_effect_101.js",
+		"archive": {
+			"normal": "1",
+			"premium": "1"
+		},
+		"is_exist_archive": true,
+		"is_max_love": true
+	}];
 
 	idol.idol_story_list = [{
 		"story_id": "428",
