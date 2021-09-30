@@ -1,4 +1,31 @@
 idol.idol_story_list = [{
+    "story_id": "457",
+    "story_title": "魅せられちゃった? 人と妖の幻想奇譚",
+    "voice_enable": {
+        "1": "1",
+        "3": "1"
+    },
+    "flash_path": {
+        "1": "http://sp.pf.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/idol_story/movie_play/457/2/idol_gallery--idol_detail--__hash_card_id__--2?l_frm=Idol_gallery_idol_detail_1&rnd=145451481",
+        "3": "http://sp.pf.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/idol_story/movie_play/457/4/idol_gallery--idol_detail--__hash_card_id__--2?l_frm=Idol_gallery_idol_detail_1&rnd=955376052"
+    },
+    "voice_url": {
+        "1": "http://sp.pf.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/idol_story/sound_play/457/2/idol_gallery/__hash_card_id__?l_frm=Idol_gallery_idol_detail_1&rnd=108017933",
+        "3": "http://sp.pf.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/idol_story/sound_play/457/4/idol_gallery/__hash_card_id__?l_frm=Idol_gallery_idol_detail_1&rnd=118470132"
+    },
+    "open_flag": {
+        "1": "1",
+        "3": "1"
+    },
+    "icon": {
+        "1": "http://sp.pf-img-a.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/image_sp/ui/episode/base/101.jpg?v=20101001000000",
+        "3": "http://sp.pf-img-a.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_movie_457_4.jpg?v=20210930144649"
+    },
+    "movie_name_voice": {
+        "1": "http://sp.pf-img-a.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_moviename_cool_early.png?v=20101001000000",
+        "3": "http://sp.pf-img-a.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_moviename_cool_late.png?v=20101001000000"
+    }
+}, {
 	"story_id": "428",
 	"story_title": "아이돌 프로듀스 the 9th Anniversary",
 	"voice_enable": ["1", "1"],
