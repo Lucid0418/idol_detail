@@ -48,3 +48,5 @@
 | 45 | ![](img/card/xs/add90fd23adac3c6aad4894fb840e4c9.jpg) | 2563502 | 송 포 라이프+ | add90fd23adac3c6aad4894fb840e4c9 |
 | 46 | ![](img/card/xs/ed7d5f13c8d9abb4a9f1661baa73ecd2.jpg) | 2463901 | 애니버서리 프린세스 | ed7d5f13c8d9abb4a9f1661baa73ecd2 |
 | 47 | ![](img/card/xs/6f21fc12e42465cbda44034110b58791.jpg) | 2563902 | 애니버서리 프린세스+ | 6f21fc12e42465cbda44034110b58791 |
+| 48 | ![](img/card/xs/43ba3a6aafd5271bf7fc7d9784fb9963.jpg) | 2468101 | 달밤의 몽상 | 43ba3a6aafd5271bf7fc7d9784fb9963 |
+| 49 | ![](img/card/xs/d5e52f5aac8fc6ac79b35aa07302d18c.jpg) | 2568102 | 달밤의 몽상+ | d5e52f5aac8fc6ac79b35aa07302d18c |
