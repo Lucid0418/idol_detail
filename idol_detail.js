@@ -70,7 +70,7 @@
 		"trade_prohibition": {
 			"is_trade_limit": false
 		},
-		"idol_search_param": "keyword=ほうじょうかれん",
+		"idol_search_param": "keyword=호죠 카렌",
 		"archive": {
 			"normal": "1",
 			"premium": "0"
@@ -147,7 +147,7 @@
 		"trade_prohibition": {
 			"is_trade_limit": false
 		},
-		"idol_search_param": "keyword=ほうじょうかれん",
+		"idol_search_param": "keyword=호죠 카렌",
 		"archive": {
 			"normal": "1",
 			"premium": "0"
@@ -224,7 +224,7 @@
 		"trade_prohibition": {
 			"is_trade_limit": false
 		},
-		"idol_search_param": "keyword=ほうじょうかれん",
+		"idol_search_param": "keyword=호죠 카렌",
 		"archive": {
 			"normal": "1",
 			"premium": "0"
@@ -301,7 +301,7 @@
 		"trade_prohibition": {
 			"is_trade_limit": false
 		},
-		"idol_search_param": "keyword=ほうじょうかれん",
+		"idol_search_param": "keyword=호죠 카렌",
 		"archive": {
 			"normal": "1",
 			"premium": "0"
@@ -378,7 +378,7 @@
 		"trade_prohibition": {
 			"is_trade_limit": false
 		},
-		"idol_search_param": "keyword=ほうじょうかれん",
+		"idol_search_param": "keyword=호죠 카렌",
 		"archive": {
 			"normal": "1",
 			"premium": "0"
@@ -455,7 +455,7 @@
 		"trade_prohibition": {
 			"is_trade_limit": false
 		},
-		"idol_search_param": "keyword=ほうじょうかれん",
+		"idol_search_param": "keyword=호죠 카렌",
 		"archive": {
 			"normal": "1",
 			"premium": "0"
@@ -532,7 +532,7 @@
 		"trade_prohibition": {
 			"is_trade_limit": false
 		},
-		"idol_search_param": "keyword=ほうじょうかれん",
+		"idol_search_param": "keyword=호죠 카렌",
 		"premium_sign_idol_base_id": "101",
 		"js_premium_sign": "js/cjs/premium/sign_effect_101.js",
 		"archive": {
@@ -611,7 +611,7 @@
 		"trade_prohibition": {
 			"is_trade_limit": false
 		},
-		"idol_search_param": "keyword=ほうじょうかれん",
+		"idol_search_param": "keyword=호죠 카렌",
 		"premium_sign_idol_base_id": "101",
 		"js_premium_sign": "js/cjs/premium/sign_effect_101.js",
 		"archive": {
@@ -696,7 +696,7 @@
 		"trade_prohibition": {
 			"is_trade_limit": false
 		},
-		"idol_search_param": "keyword=ほうじょうかれん",
+		"idol_search_param": "keyword=호죠 카렌",
 		"premium_sign_idol_base_id": "2404201",
 		"js_premium_sign": "js/cjs/premium/sign_effect_2404201.js",
 		"archive": {
@@ -775,7 +775,7 @@
 		"trade_prohibition": {
 			"is_trade_limit": false
 		},
-		"idol_search_param": "keyword=ほうじょうかれん",
+		"idol_search_param": "keyword=호죠 카렌",
 		"premium_sign_idol_base_id": "2504202",
 		"js_premium_sign": "js/cjs/premium/sign_effect_2504202.js",
 		"archive": {
@@ -854,7 +854,7 @@
 		"trade_prohibition": {
 			"is_trade_limit": false
 		},
-		"idol_search_param": "keyword=ほうじょうかれん",
+		"idol_search_param": "keyword=호죠 카렌",
 		"premium_sign_idol_base_id": "101",
 		"js_premium_sign": "js/cjs/premium/sign_effect_101.js",
 		"archive": {
@@ -933,7 +933,7 @@
 		"trade_prohibition": {
 			"is_trade_limit": false
 		},
-		"idol_search_param": "keyword=ほうじょうかれん",
+		"idol_search_param": "keyword=호죠 카렌",
 		"premium_sign_idol_base_id": "101",
 		"js_premium_sign": "js/cjs/premium/sign_effect_101.js",
 		"archive": {
@@ -1017,7 +1017,7 @@
 			"limitless_flag": "0",
 			"is_trade_limit": false
 		},
-		"idol_search_param": "keyword=ほうじょうかれん",
+		"idol_search_param": "keyword=호죠 카렌",
 		"premium_sign_idol_base_id": "2411101",
 		"js_premium_sign": "js/cjs/premium/sign_effect_2411101.js",
 		"archive": {
@@ -1101,7 +1101,7 @@
 			"limitless_flag": "0",
 			"is_trade_limit": false
 		},
-		"idol_search_param": "keyword=ほうじょうかれん",
+		"idol_search_param": "keyword=호죠 카렌",
 		"premium_sign_idol_base_id": "2511102",
 		"js_premium_sign": "js/cjs/premium/sign_effect_2511102.js",
 		"archive": {
@@ -1180,7 +1180,7 @@
 		"trade_prohibition": {
 			"is_trade_limit": false
 		},
-		"idol_search_param": "keyword=ほうじょうかれん",
+		"idol_search_param": "keyword=호죠 카렌",
 		"premium_sign_idol_base_id": "101",
 		"js_premium_sign": "js/cjs/premium/sign_effect_101.js",
 		"archive": {
@@ -1259,7 +1259,7 @@
 		"trade_prohibition": {
 			"is_trade_limit": false
 		},
-		"idol_search_param": "keyword=ほうじょうかれん",
+		"idol_search_param": "keyword=호죠 카렌",
 		"premium_sign_idol_base_id": "101",
 		"js_premium_sign": "js/cjs/premium/sign_effect_101.js",
 		"archive": {
@@ -1338,7 +1338,7 @@
 		"trade_prohibition": {
 			"is_trade_limit": false
 		},
-		"idol_search_param": "keyword=ほうじょうかれん",
+		"idol_search_param": "keyword=호죠 카렌",
 		"premium_sign_idol_base_id": "101",
 		"js_premium_sign": "js/cjs/premium/sign_effect_101.js",
 		"archive": {
@@ -1417,7 +1417,7 @@
 		"trade_prohibition": {
 			"is_trade_limit": false
 		},
-		"idol_search_param": "keyword=ほうじょうかれん",
+		"idol_search_param": "keyword=호죠 카렌",
 		"premium_sign_idol_base_id": "101",
 		"js_premium_sign": "js/cjs/premium/sign_effect_101.js",
 		"archive": {
@@ -1496,7 +1496,7 @@
 		"trade_prohibition": {
 			"is_trade_limit": false
 		},
-		"idol_search_param": "keyword=ほうじょうかれん",
+		"idol_search_param": "keyword=호죠 카렌",
 		"premium_sign_idol_base_id": "101",
 		"js_premium_sign": "js/cjs/premium/sign_effect_2419701.js",
 		"archive": {
@@ -1575,7 +1575,7 @@
 		"trade_prohibition": {
 			"is_trade_limit": false
 		},
-		"idol_search_param": "keyword=ほうじょうかれん",
+		"idol_search_param": "keyword=호죠 카렌",
 		"premium_sign_idol_base_id": "101",
 		"js_premium_sign": "js/cjs/premium/sign_effect_101.js",
 		"archive": {
@@ -1654,7 +1654,7 @@
 		"trade_prohibition": {
 			"is_trade_limit": false
 		},
-		"idol_search_param": "keyword=ほうじょうかれん",
+		"idol_search_param": "keyword=호죠 카렌",
 		"premium_sign_idol_base_id": "101",
 		"js_premium_sign": "js/cjs/premium/sign_effect_101.js",
 		"archive": {
@@ -1739,7 +1739,7 @@
 		"trade_prohibition": {
 			"is_trade_limit": false
 		},
-		"idol_search_param": "keyword=ほうじょうかれん",
+		"idol_search_param": "keyword=호죠 카렌",
 		"premium_sign_idol_base_id": "101",
 		"js_premium_sign": "js/cjs/premium/sign_effect_101.js",
 		"archive": {
@@ -1823,7 +1823,7 @@
 			"limitless_flag": "0",
 			"is_trade_limit": false
 		},
-		"idol_search_param": "keyword=ほうじょうかれん",
+		"idol_search_param": "keyword=호죠 카렌",
 		"premium_sign_idol_base_id": "101",
 		"js_premium_sign": "js/cjs/premium/sign_effect_101.js",
 		"archive": {
@@ -1907,7 +1907,7 @@
 			"limitless_flag": "0",
 			"is_trade_limit": false
 		},
-		"idol_search_param": "keyword=ほうじょうかれん",
+		"idol_search_param": "keyword=호죠 카렌",
 		"premium_sign_idol_base_id": "101",
 		"js_premium_sign": "js/cjs/premium/sign_effect_101.js",
 		"archive": {
@@ -1986,7 +1986,7 @@
 		"trade_prohibition": {
 			"is_trade_limit": false
 		},
-		"idol_search_param": "keyword=ほうじょうかれん",
+		"idol_search_param": "keyword=호죠 카렌",
 		"premium_sign_idol_base_id": "2434201",
 		"js_premium_sign": "js/cjs/premium/sign_effect_2434201.js",
 		"archive": {
@@ -2065,7 +2065,7 @@
 		"trade_prohibition": {
 			"is_trade_limit": false
 		},
-		"idol_search_param": "keyword=ほうじょうかれん",
+		"idol_search_param": "keyword=호죠 카렌",
 		"premium_sign_idol_base_id": "2534202",
 		"js_premium_sign": "js/cjs/premium/sign_effect_2534202.js",
 		"archive": {
@@ -2144,7 +2144,7 @@
 		"trade_prohibition": {
 			"is_trade_limit": false
 		},
-		"idol_search_param": "keyword=ほうじょうかれん",
+		"idol_search_param": "keyword=호죠 카렌",
 		"premium_sign_idol_base_id": "101",
 		"js_premium_sign": "js/cjs/premium/sign_effect_101.js",
 		"archive": {
@@ -2223,7 +2223,7 @@
 		"trade_prohibition": {
 			"is_trade_limit": false
 		},
-		"idol_search_param": "keyword=ほうじょうかれん",
+		"idol_search_param": "keyword=호죠 카렌",
 		"premium_sign_idol_base_id": "2536802",
 		"js_premium_sign": "js/cjs/premium/sign_effect_2536802.js",
 		"archive": {
@@ -2302,7 +2302,7 @@
 		"trade_prohibition": {
 			"is_trade_limit": false
 		},
-		"idol_search_param": "keyword=ほうじょうかれん",
+		"idol_search_param": "keyword=호죠 카렌",
 		"premium_sign_idol_base_id": "101",
 		"js_premium_sign": "js/cjs/premium/sign_effect_101.js",
 		"archive": {
@@ -2381,7 +2381,7 @@
 		"trade_prohibition": {
 			"is_trade_limit": false
 		},
-		"idol_search_param": "keyword=ほうじょうかれん",
+		"idol_search_param": "keyword=호죠 카렌",
 		"premium_sign_idol_base_id": "2540802",
 		"js_premium_sign": "js/cjs/premium/sign_effect_2540802.js",
 		"archive": {
@@ -2460,7 +2460,7 @@
 		"trade_prohibition": {
 			"is_trade_limit": false
 		},
-		"idol_search_param": "keyword=ほうじょうかれん",
+		"idol_search_param": "keyword=호죠 카렌",
 		"premium_sign_idol_base_id": "101",
 		"js_premium_sign": "js/cjs/premium/sign_effect_101.js",
 		"archive": {
@@ -2539,7 +2539,7 @@
 		"trade_prohibition": {
 			"is_trade_limit": false
 		},
-		"idol_search_param": "keyword=ほうじょうかれん",
+		"idol_search_param": "keyword=호죠 카렌",
 		"premium_sign_idol_base_id": "101",
 		"js_premium_sign": "js/cjs/premium/sign_effect_101.js",
 		"archive": {
@@ -2618,7 +2618,7 @@
 		"trade_prohibition": {
 			"is_trade_limit": false
 		},
-		"idol_search_param": "keyword=ほうじょうかれん",
+		"idol_search_param": "keyword=호죠 카렌",
 		"premium_sign_idol_base_id": "101",
 		"js_premium_sign": "js/cjs/premium/sign_effect_101.js",
 		"archive": {
@@ -2703,7 +2703,7 @@
 		"trade_prohibition": {
 			"is_trade_limit": false
 		},
-		"idol_search_param": "keyword=ほうじょうかれん",
+		"idol_search_param": "keyword=호죠 카렌",
 		"premium_sign_idol_base_id": "101",
 		"js_premium_sign": "js/cjs/premium/sign_effect_2552202.js",
 		"archive": {
@@ -2782,7 +2782,7 @@
 		"trade_prohibition": {
 			"is_trade_limit": false
 		},
-		"idol_search_param": "keyword=ほうじょうかれん",
+		"idol_search_param": "keyword=호죠 카렌",
 		"premium_sign_idol_base_id": "101",
 		"js_premium_sign": "js/cjs/premium/sign_effect_101.js",
 		"archive": {
@@ -2861,7 +2861,7 @@
 		"trade_prohibition": {
 			"is_trade_limit": false
 		},
-		"idol_search_param": "keyword=ほうじょうかれん",
+		"idol_search_param": "keyword=호죠 카렌",
 		"premium_sign_idol_base_id": "101",
 		"js_premium_sign": "js/cjs/premium/sign_effect_101.js",
 		"archive": {
@@ -2940,7 +2940,7 @@
 		"trade_prohibition": {
 			"is_trade_limit": false
 		},
-		"idol_search_param": "keyword=ほうじょうかれん",
+		"idol_search_param": "keyword=호죠 카렌",
 		"premium_sign_idol_base_id": "101",
 		"js_premium_sign": "js/cjs/premium/sign_effect_101.js",
 		"archive": {
@@ -3020,7 +3020,7 @@
 		"trade_prohibition": {
 			"is_trade_limit": false
 		},
-		"idol_search_param": "keyword=ほうじょうかれん",
+		"idol_search_param": "keyword=호죠 카렌",
 		"premium_sign_idol_base_id": "101",
 		"js_premium_sign": "js/cjs/premium/sign_effect_101.js",
 		"archive": {
@@ -3099,7 +3099,7 @@
 	    "trade_prohibition": {
 	      "is_trade_limit": false
 	    },
-	    "idol_search_param": "keyword=ほうじょうかれん",
+	    "idol_search_param": "keyword=호죠 카렌",
 	    "premium_sign_idol_base_id": "101",
 	    "js_premium_sign": "js/cjs/premium/sign_effect_101.js",
 	    "archive": {
@@ -3179,7 +3179,7 @@
 	    "trade_prohibition": {
 	      "is_trade_limit": false
 	    },
-	    "idol_search_param": "keyword=ほうじょうかれん",
+	    "idol_search_param": "keyword=호죠 카렌",
 	    "premium_sign_idol_base_id": "101",
 	    "js_premium_sign": "js/cjs/premium/sign_effect_101.js",
 	    "archive": {
@@ -3258,7 +3258,7 @@
 	    "trade_prohibition": {
 	      "is_trade_limit": false
 	    },
-	    "idol_search_param": "keyword=ほうじょうかれん",
+	    "idol_search_param": "keyword=호죠 카렌",
 	    "premium_sign_idol_base_id": "2462001",
 	    "js_premium_sign": "js/cjs/premium/sign_effect_2462001.js",
 	    "archive": {
@@ -3338,7 +3338,7 @@
 	    "trade_prohibition": {
 	      "is_trade_limit": false
 	    },
-	    "idol_search_param": "keyword=ほうじょうかれん",
+	    "idol_search_param": "keyword=호죠 카렌",
 	    "premium_sign_idol_base_id": "2562002",
 	    "js_premium_sign": "js/cjs/premium/sign_effect_2562002.js",
 	    "archive": {
@@ -3417,7 +3417,7 @@
 	    "trade_prohibition": {
 	      "is_trade_limit": false
 	    },
-	    "idol_search_param": "keyword=ほうじょうかれん",
+	    "idol_search_param": "keyword=호죠 카렌",
 	    "premium_sign_idol_base_id": "2463301",
 	    "js_premium_sign": "js/cjs/premium/sign_effect_2463301.js",
 	    "archive": {
@@ -3497,7 +3497,7 @@
 	    "trade_prohibition": {
 	      "is_trade_limit": false
 	    },
-	    "idol_search_param": "keyword=ほうじょうかれん",
+	    "idol_search_param": "keyword=호죠 카렌",
 	    "premium_sign_idol_base_id": "2563302",
 	    "js_premium_sign": "js/cjs/premium/sign_effect_2563302.js",
 	    "archive": {
@@ -3576,7 +3576,7 @@
         "trade_prohibition": {
             "is_trade_limit": false
         },
-        "idol_search_param": "keyword=ほうじょうかれん",
+        "idol_search_param": "keyword=호죠 카렌",
         "premium_sign_idol_base_id": "101",
 	    "js_premium_sign": "js/cjs/premium/sign_effect_101.js",
         "archive": {
@@ -3656,7 +3656,7 @@
         "trade_prohibition": {
             "is_trade_limit": false
         },
-        "idol_search_param": "keyword=ほうじょうかれん",
+        "idol_search_param": "keyword=호죠 카렌",
         "premium_sign_idol_base_id": "2563502",
 	    "js_premium_sign": "js/cjs/premium/sign_effect_2563502.js",
         "archive": {
@@ -3735,7 +3735,7 @@
 		"trade_prohibition": {
 			"is_trade_limit": false
 		},
-		"idol_search_param": "keyword=ほうじょうかれん",
+		"idol_search_param": "keyword=호죠 카렌",
 		"premium_sign_idol_base_id": "101",
 		"js_premium_sign": "js/cjs/premium/sign_effect_101.js",
 		"archive": {
@@ -3815,7 +3815,7 @@
 		"trade_prohibition": {
 			"is_trade_limit": false
 		},
-		"idol_search_param": "keyword=ほうじょうかれん",
+		"idol_search_param": "keyword=호죠 카렌",
 		"premium_sign_idol_base_id": "101",
 		"js_premium_sign": "js/cjs/premium/sign_effect_101.js",
 		"archive": {
@@ -3824,7 +3824,166 @@
 		},
 		"is_exist_archive": true,
 		"is_max_love": true
-	}];
+		}, {
+	    "data": {
+	        "card_name": "[달밤의 몽상]호죠 카렌",
+	        "rarity": "5",
+	        "cost": "26",
+	        "attribute": "cool",
+	        "skill_name": "미지로의 동경",
+	        "skill_effect": "모든 타입의 프론트멤버 및 백멤버 상위 5명의 공격력 궁극업",
+	        "grow_idol_flag": "",
+	        "default_attack": "8720",
+	        "default_defense": "6720",
+	        "hash_card_id": "43ba3a6aafd5271bf7fc7d9784fb9963",
+	        "alias_name": "달밤의 몽상",
+	        "real_name": "호죠 카렌"
+	    },
+	    "profile": {
+	        "card_id": "2468101",
+	        "card_name": "[달밤의 몽상]호죠 카렌",
+	        "card_kana": "호죠 카렌",
+	        "card_age": "16",
+	        "card_from": "도쿄",
+	        "card_height": "155",
+	        "card_weight": "42",
+	        "card_bust": "83",
+	        "card_waist": "55",
+	        "card_hip": "81",
+	        "card_birthday": "9월 5일",
+	        "card_constellation": "처녀자리",
+	        "card_blood": "B",
+	        "card_arm": "오른손",
+	        "card_hobby": "네일",
+	        "card_cv": "후치가미 마이"
+	    },
+	    "comments": {
+	        "comment": "はい､ﾙｼﾄﾞさん｡ﾊﾛｳｨﾝｲﾍﾞﾝﾄは､やっぱ混むよね｡でも､すぐ見つけたよ｡私がﾃﾞｰﾄ相手を見失うわけないでしょ? …なんてね､今日は小悪魔ﾓｰﾄﾞだもん｡たくさん振り回されてよね♪",
+	        "comments_my_1": "好きな方を選びたいでしょ?",
+	        "comments_my_2": "待つだけの私じゃないんだから",
+	        "comments_my_3": "しっぽ…触ってみてもいいよ♪",
+	        "comments_my_4": "見て見て､ﾈｲﾙも気合入れてやってきたんだよ｡上出来でしょ♪",
+	        "comments_my_max": "結構悩んだよ｡だって､ﾙｼﾄﾞさんに喜んでほしいじゃん",
+	        "comments_work_1": "もう､我慢はしないから",
+	        "comments_work_2": "世界はね､いつだって眩しいの",
+	        "comments_work_3": "どんなｲﾀｽﾞﾗ､しちゃおっかな♪",
+	        "comments_work_4": "どっちが好き? 小悪魔の私と､普段の私｡ふふ､どっちもだよね",
+	        "comments_work_max": "甘～いﾄﾞﾘﾝｸだよ｡私に甘いﾙｼﾄﾞさんにぴったりでしょ",
+	        "comments_work_love_up": "ﾙｼﾄﾞさん､目立つよね｡そう思うの､私だけなのかな",
+	        "comments_live": "ねぇ､私にﾄﾞｷﾄﾞｷしてよ",
+	        "comments_love_max": "どんな味か気になるよね｡ﾙｼﾄﾞさんも一口どうぞ｡あｰん……なんてね｡ここじゃﾀﾞﾒって分かってるよ｡ﾄﾞｷｯとした?"
+	    },
+	    "voice": {
+	        "comment": "http://idolmaster.edgesuite.net/idolmaster/sound/2468101/dfaffb378bbb0c7f1ad886597859be54.mp4",
+	        "comments_my_1": "http://idolmaster.edgesuite.net/idolmaster/sound/2468101/f4e0490dae64f307979aafcf8c77c312.mp4",
+	        "comments_my_2": "http://idolmaster.edgesuite.net/idolmaster/sound/2468101/a4331b3a2e651c2e0ae5160a40ce0ffb.mp4",
+	        "comments_my_3": "http://idolmaster.edgesuite.net/idolmaster/sound/2468101/994727e631aa3667533dc96348f670c7.mp4",
+	        "comments_my_4": "http://idolmaster.edgesuite.net/idolmaster/sound/2468101/4e4bdc319f3dee8fd5412abda1feebe2.mp4",
+	        "comments_my_max": "http://idolmaster.edgesuite.net/idolmaster/sound/2468101/4b65d065ab70e4724106499b55b89944.mp4",
+	        "comments_work_1": "http://idolmaster.edgesuite.net/idolmaster/sound/2468101/f55034028d59cad15cd7a185840e119d.mp4",
+	        "comments_work_2": "http://idolmaster.edgesuite.net/idolmaster/sound/2468101/7cd41812a38aa61644147dd8d3b94a13.mp4",
+	        "comments_work_3": "http://idolmaster.edgesuite.net/idolmaster/sound/2468101/7a3367842baaceefb6e183b8d086cbf6.mp4",
+	        "comments_work_4": "http://idolmaster.edgesuite.net/idolmaster/sound/2468101/ce4b98d9acd70f1c4d7b707a2bd9e6ee.mp4",
+	        "comments_work_max": "http://idolmaster.edgesuite.net/idolmaster/sound/2468101/a2ac80d6862896c7bc367b2b82a1ae95.mp4",
+	        "comments_work_love_up": "http://idolmaster.edgesuite.net/idolmaster/sound/2468101/d47d5ee9835e27b2da5afe8000166d21.mp4",
+	        "comments_live": "http://idolmaster.edgesuite.net/idolmaster/sound/2468101/b1b6ed233331d473e0a66d58893dc120.mp4",
+	        "comments_love_max": "http://idolmaster.edgesuite.net/idolmaster/sound/2468101/5e924e237edf297d6b4377f2a3996c75.mp4"
+	    },
+	    "event": null,
+	    "release": "",
+	    "trade_prohibition": {
+	        "is_trade_limit": false
+	    },
+	    "idol_search_param": "keyword=호죠 카렌",
+	    "premium_sign_idol_base_id": "101",
+	    "js_premium_sign": "http://sp.pf-img-a.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/js/cjs/101_sign_effect",
+	    "archive": {
+	        "normal": "1",
+	        "premium": "1"
+	    },
+	    "is_exist_archive": true,
+	    "is_max_love": true
+	}, {
+	    "data": {
+	        "card_name": "[달밤의 몽상]호죠 카렌+",
+	        "rarity": "6",
+	        "cost": "26",
+	        "attribute": "cool",
+	        "skill_name": "미지로의 동경",
+	        "skill_effect": "모든 타입의 프론트멤버 및 백멤버 상위 5명의 공격력 궁극업",
+	        "grow_idol_flag": "",
+	        "default_attack": "10464",
+	        "default_defense": "8064",
+	        "skill_effect_2": "쿨·패션 타입의 프론트멤버 및 백멤버 상위 5명의 공격력 조금 업",
+	        "hash_card_id": "d5e52f5aac8fc6ac79b35aa07302d18c",
+	        "alias_name": "달밤의 몽상",
+	        "real_name": "호죠 카렌+"
+	    },
+	    "profile": {
+	        "card_id": "2568102",
+	        "card_name": "[달밤의 몽상]호죠 카렌+",
+	        "card_kana": "호죠 카렌",
+	        "card_age": "16",
+	        "card_from": "東京",
+	        "card_height": "155",
+	        "card_weight": "42",
+	        "card_bust": "83",
+	        "card_waist": "55",
+	        "card_hip": "81",
+	        "card_birthday": "9月5日",
+	        "card_constellation": "乙女座",
+	        "card_blood": "B",
+	        "card_arm": "右",
+	        "card_hobby": "ネイル",
+	        "card_cv": "渕上舞"
+	    },
+	    "comments": {
+	        "comment": "『村の外には､何があるのかな…』私もｶﾚﾝも､ただの箱入り娘じゃないよ｡踏み出す勇気は､ちゃんと持ってる…あなたにもらった｡慣れない場所でも…どんな空の下でも｡胸を張って歩くよ",
+	        "comments_my_1": "好きな方を選びたいでしょ?",
+	        "comments_my_2": "待つだけの私じゃないんだから",
+	        "comments_my_3": "あっ､毬が…転がっちゃった",
+	        "comments_my_4": "んｰ…不思議な香り｡花と､木の匂いかな｡可愛い部屋だよね",
+	        "comments_my_max": "『自由に羽ばたきたい』…ﾙｼﾄﾞさんに会う前みたい",
+	        "comments_work_1": "もう､我慢はしないから",
+	        "comments_work_2": "世界はね､いつだって眩しいの",
+	        "comments_work_3": "『私が､みんなを変えるんだ』",
+	        "comments_work_4": "おしとやかに見える? こう見えても､じゃじゃ馬なんだよね",
+	        "comments_work_max": "今､月を見て考えるのは…隣にいてくれる､誰かさんのことだよ",
+	        "comments_work_love_up": "ﾙｼﾄﾞさん､見て｡月が綺麗｡どういう意味かは…秘密♪",
+	        "comments_live": "『退屈は好きじゃないの』",
+	        "comments_love_max": "ね､もう一度､出会った日みたいにさ…私を狭い部屋から連れ出してよ｡迎えに来てくれるのは､ﾙｼﾄﾞさんじゃないと"
+	    },
+	    "voice": {
+	        "comment": "http://idolmaster.edgesuite.net/idolmaster/sound/2568102/5af3b68f7396f0314246bb50e6920055.mp4",
+	        "comments_my_1": "http://idolmaster.edgesuite.net/idolmaster/sound/2568102/7298efa2b2e897bb2456761e277ccd47.mp4",
+	        "comments_my_2": "http://idolmaster.edgesuite.net/idolmaster/sound/2568102/1d73769bd93cef3346dbf7706d77bb29.mp4",
+	        "comments_my_3": "http://idolmaster.edgesuite.net/idolmaster/sound/2568102/bdff99d117edbb23486282aa078e5179.mp4",
+	        "comments_my_4": "http://idolmaster.edgesuite.net/idolmaster/sound/2568102/9b162c0a1829d1e0bdfaf8a7821d7d06.mp4",
+	        "comments_my_max": "http://idolmaster.edgesuite.net/idolmaster/sound/2568102/394c6d0abd952206120c71b598c4c348.mp4",
+	        "comments_work_1": "http://idolmaster.edgesuite.net/idolmaster/sound/2568102/e17de0af225ef760aadc1216017535ae.mp4",
+	        "comments_work_2": "http://idolmaster.edgesuite.net/idolmaster/sound/2568102/8225d183f954d6fd84c16a3b99530598.mp4",
+	        "comments_work_3": "http://idolmaster.edgesuite.net/idolmaster/sound/2568102/43a79ef7b82efeef4942c3f71543e527.mp4",
+	        "comments_work_4": "http://idolmaster.edgesuite.net/idolmaster/sound/2568102/dbd057c46ba2b237907b49c8453f4aa9.mp4",
+	        "comments_work_max": "http://idolmaster.edgesuite.net/idolmaster/sound/2568102/b39f6717784ff0afca4b129270a7d13a.mp4",
+	        "comments_work_love_up": "http://idolmaster.edgesuite.net/idolmaster/sound/2568102/7cd36187d29d05890bcb2db53101f42e.mp4",
+	        "comments_live": "http://idolmaster.edgesuite.net/idolmaster/sound/2568102/8be449ee179b6343994dfc7a01097eec.mp4",
+	        "comments_love_max": "http://idolmaster.edgesuite.net/idolmaster/sound/2568102/7a04538a6a6573252ae1946f7c510ef1.mp4"
+	    },
+	    "event": null,
+	    "release": "",
+	    "trade_prohibition": {
+	        "is_trade_limit": false
+	    },
+	    "idol_search_param": "keyword=호죠 카렌",
+	    "premium_sign_idol_base_id": "101",
+	    "js_premium_sign": "http://sp.pf-img-a.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/js/cjs/101_sign_effect",
+	    "archive": {
+	        "normal": "1",
+	        "premium": "1"
+	    },
+	    "is_exist_archive": true,
+	    "is_max_love": true
+		}];
 
 	idol.images = {
 		"bg": {
