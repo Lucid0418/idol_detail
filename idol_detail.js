@@ -3874,20 +3874,20 @@
 	        "comments_love_max": "どんな味か気になるよね｡ﾙｼﾄﾞさんも一口どうぞ｡あｰん……なんてね｡ここじゃﾀﾞﾒって分かってるよ｡ﾄﾞｷｯとした?"
 	    },
 	    "voice": {
-	        "comment": "http://idolmaster.edgesuite.net/idolmaster/sound/2468101/dfaffb378bbb0c7f1ad886597859be54.mp4",
-	        "comments_my_1": "http://idolmaster.edgesuite.net/idolmaster/sound/2468101/f4e0490dae64f307979aafcf8c77c312.mp4",
-	        "comments_my_2": "http://idolmaster.edgesuite.net/idolmaster/sound/2468101/a4331b3a2e651c2e0ae5160a40ce0ffb.mp4",
-	        "comments_my_3": "http://idolmaster.edgesuite.net/idolmaster/sound/2468101/994727e631aa3667533dc96348f670c7.mp4",
-	        "comments_my_4": "http://idolmaster.edgesuite.net/idolmaster/sound/2468101/4e4bdc319f3dee8fd5412abda1feebe2.mp4",
-	        "comments_my_max": "http://idolmaster.edgesuite.net/idolmaster/sound/2468101/4b65d065ab70e4724106499b55b89944.mp4",
-	        "comments_work_1": "http://idolmaster.edgesuite.net/idolmaster/sound/2468101/f55034028d59cad15cd7a185840e119d.mp4",
-	        "comments_work_2": "http://idolmaster.edgesuite.net/idolmaster/sound/2468101/7cd41812a38aa61644147dd8d3b94a13.mp4",
-	        "comments_work_3": "http://idolmaster.edgesuite.net/idolmaster/sound/2468101/7a3367842baaceefb6e183b8d086cbf6.mp4",
-	        "comments_work_4": "http://idolmaster.edgesuite.net/idolmaster/sound/2468101/ce4b98d9acd70f1c4d7b707a2bd9e6ee.mp4",
-	        "comments_work_max": "http://idolmaster.edgesuite.net/idolmaster/sound/2468101/a2ac80d6862896c7bc367b2b82a1ae95.mp4",
-	        "comments_work_love_up": "http://idolmaster.edgesuite.net/idolmaster/sound/2468101/d47d5ee9835e27b2da5afe8000166d21.mp4",
-	        "comments_live": "http://idolmaster.edgesuite.net/idolmaster/sound/2468101/b1b6ed233331d473e0a66d58893dc120.mp4",
-	        "comments_love_max": "http://idolmaster.edgesuite.net/idolmaster/sound/2468101/5e924e237edf297d6b4377f2a3996c75.mp4"
+	        "comment": "voice/2468101/dfaffb378bbb0c7f1ad886597859be54.mp4",
+	        "comments_my_1": "voice/2468101/f4e0490dae64f307979aafcf8c77c312.mp4",
+	        "comments_my_2": "voice/2468101/a4331b3a2e651c2e0ae5160a40ce0ffb.mp4",
+	        "comments_my_3": "voice/2468101/994727e631aa3667533dc96348f670c7.mp4",
+	        "comments_my_4": "voice/2468101/4e4bdc319f3dee8fd5412abda1feebe2.mp4",
+	        "comments_my_max": "voice/2468101/4b65d065ab70e4724106499b55b89944.mp4",
+	        "comments_work_1": "voice/2468101/f55034028d59cad15cd7a185840e119d.mp4",
+	        "comments_work_2": "voice/2468101/7cd41812a38aa61644147dd8d3b94a13.mp4",
+	        "comments_work_3": "voice/2468101/7a3367842baaceefb6e183b8d086cbf6.mp4",
+	        "comments_work_4": "voice/2468101/ce4b98d9acd70f1c4d7b707a2bd9e6ee.mp4",
+	        "comments_work_max": "voice/2468101/a2ac80d6862896c7bc367b2b82a1ae95.mp4",
+	        "comments_work_love_up": "voice/2468101/d47d5ee9835e27b2da5afe8000166d21.mp4",
+	        "comments_live": "voice/2468101/b1b6ed233331d473e0a66d58893dc120.mp4",
+	        "comments_love_max": "voice/2468101/5e924e237edf297d6b4377f2a3996c75.mp4"
 	    },
 	    "event": null,
 	    "release": "",
@@ -3924,18 +3924,18 @@
 	        "card_name": "[달밤의 몽상]호죠 카렌+",
 	        "card_kana": "호죠 카렌",
 	        "card_age": "16",
-	        "card_from": "東京",
+	        "card_from": "도쿄",
 	        "card_height": "155",
 	        "card_weight": "42",
 	        "card_bust": "83",
 	        "card_waist": "55",
 	        "card_hip": "81",
-	        "card_birthday": "9月5日",
-	        "card_constellation": "乙女座",
+	        "card_birthday": "9월 5일",
+	        "card_constellation": "처녀자리",
 	        "card_blood": "B",
-	        "card_arm": "右",
-	        "card_hobby": "ネイル",
-	        "card_cv": "渕上舞"
+	        "card_arm": "오른손",
+	        "card_hobby": "네일",
+	        "card_cv": "후치가미 마이"
 	    },
 	    "comments": {
 	        "comment": "『村の外には､何があるのかな…』私もｶﾚﾝも､ただの箱入り娘じゃないよ｡踏み出す勇気は､ちゃんと持ってる…あなたにもらった｡慣れない場所でも…どんな空の下でも｡胸を張って歩くよ",
@@ -3954,20 +3954,20 @@
 	        "comments_love_max": "ね､もう一度､出会った日みたいにさ…私を狭い部屋から連れ出してよ｡迎えに来てくれるのは､ﾙｼﾄﾞさんじゃないと"
 	    },
 	    "voice": {
-	        "comment": "http://idolmaster.edgesuite.net/idolmaster/sound/2568102/5af3b68f7396f0314246bb50e6920055.mp4",
-	        "comments_my_1": "http://idolmaster.edgesuite.net/idolmaster/sound/2568102/7298efa2b2e897bb2456761e277ccd47.mp4",
-	        "comments_my_2": "http://idolmaster.edgesuite.net/idolmaster/sound/2568102/1d73769bd93cef3346dbf7706d77bb29.mp4",
-	        "comments_my_3": "http://idolmaster.edgesuite.net/idolmaster/sound/2568102/bdff99d117edbb23486282aa078e5179.mp4",
-	        "comments_my_4": "http://idolmaster.edgesuite.net/idolmaster/sound/2568102/9b162c0a1829d1e0bdfaf8a7821d7d06.mp4",
-	        "comments_my_max": "http://idolmaster.edgesuite.net/idolmaster/sound/2568102/394c6d0abd952206120c71b598c4c348.mp4",
-	        "comments_work_1": "http://idolmaster.edgesuite.net/idolmaster/sound/2568102/e17de0af225ef760aadc1216017535ae.mp4",
-	        "comments_work_2": "http://idolmaster.edgesuite.net/idolmaster/sound/2568102/8225d183f954d6fd84c16a3b99530598.mp4",
-	        "comments_work_3": "http://idolmaster.edgesuite.net/idolmaster/sound/2568102/43a79ef7b82efeef4942c3f71543e527.mp4",
-	        "comments_work_4": "http://idolmaster.edgesuite.net/idolmaster/sound/2568102/dbd057c46ba2b237907b49c8453f4aa9.mp4",
-	        "comments_work_max": "http://idolmaster.edgesuite.net/idolmaster/sound/2568102/b39f6717784ff0afca4b129270a7d13a.mp4",
-	        "comments_work_love_up": "http://idolmaster.edgesuite.net/idolmaster/sound/2568102/7cd36187d29d05890bcb2db53101f42e.mp4",
-	        "comments_live": "http://idolmaster.edgesuite.net/idolmaster/sound/2568102/8be449ee179b6343994dfc7a01097eec.mp4",
-	        "comments_love_max": "http://idolmaster.edgesuite.net/idolmaster/sound/2568102/7a04538a6a6573252ae1946f7c510ef1.mp4"
+	        "comment": "voice/2568102/5af3b68f7396f0314246bb50e6920055.mp4",
+	        "comments_my_1": "voice/2568102/7298efa2b2e897bb2456761e277ccd47.mp4",
+	        "comments_my_2": "voice/2568102/1d73769bd93cef3346dbf7706d77bb29.mp4",
+	        "comments_my_3": "voice/2568102/bdff99d117edbb23486282aa078e5179.mp4",
+	        "comments_my_4": "voice/2568102/9b162c0a1829d1e0bdfaf8a7821d7d06.mp4",
+	        "comments_my_max": "voice/2568102/394c6d0abd952206120c71b598c4c348.mp4",
+	        "comments_work_1": "voice/2568102/e17de0af225ef760aadc1216017535ae.mp4",
+	        "comments_work_2": "voice/2568102/8225d183f954d6fd84c16a3b99530598.mp4",
+	        "comments_work_3": "voice/2568102/43a79ef7b82efeef4942c3f71543e527.mp4",
+	        "comments_work_4": "voice/2568102/dbd057c46ba2b237907b49c8453f4aa9.mp4",
+	        "comments_work_max": "voice/2568102/b39f6717784ff0afca4b129270a7d13a.mp4",
+	        "comments_work_love_up": "voice/2568102/7cd36187d29d05890bcb2db53101f42e.mp4",
+	        "comments_live": "voice/2568102/8be449ee179b6343994dfc7a01097eec.mp4",
+	        "comments_love_max": "voice/2568102/7a04538a6a6573252ae1946f7c510ef1.mp4"
 	    },
 	    "event": null,
 	    "release": "",
@@ -4006,7 +4006,7 @@
 				"co": "img/ui/bg_sr_cool.jpg"
 			}
 		},
-		"l": [
+		"l": [ //http://125.6.169.35/idolmaster/image_sp/card_sign_b/HASH.jpg
 			"img/card/sign_b/d3e95e1ca3c7b346535ad23e8619ec7e.jpg",
 			"img/card/sign_b/341cefa6c1f43b09054cabc7f0b0c93b.jpg",
 			"img/card/sign_b/cdcd2f0aba695f13e4fd8c1fe7eeacfd.jpg",
@@ -4054,9 +4054,11 @@
 			"img/card/sign_b/69394649d722e78e0490ef79f731fad1.jpg",
 			"img/card/sign_b/add90fd23adac3c6aad4894fb840e4c9.jpg",
 			"img/card/sign_b/ed7d5f13c8d9abb4a9f1661baa73ecd2.jpg",
-			"img/card/sign_b/6f21fc12e42465cbda44034110b58791.jpg"
+			"img/card/sign_b/6f21fc12e42465cbda44034110b58791.jpg",
+			"img/card/sign_b/43ba3a6aafd5271bf7fc7d9784fb9963.jpg",
+			"img/card/sign_b/d5e52f5aac8fc6ac79b35aa07302d18c.jpg"
 			],
-		"l_premium": {
+		"l_premium": { //http://125.6.169.35/idolmaster/image_sp/card_sign_p/l/HASH.jpg
 			"6": "img/card/sign_p/855d33d77752c725474da494a0e9e239.jpg",
 			"7": "img/card/sign_p/7d8203e3cc992b16c5308358601375ea.jpg",
 			"8": "img/card/sign_p/475dcbd4ce790875aa25b1580d0ba63a.jpg",
@@ -4098,9 +4100,11 @@
 			"44": "img/card/sign_p/69394649d722e78e0490ef79f731fad1.jpg",
 			"45": "img/card/sign_p/add90fd23adac3c6aad4894fb840e4c9.jpg",
 			"46": "img/card/sign_p/ed7d5f13c8d9abb4a9f1661baa73ecd2.jpg",
-			"47": "img/card/sign_p/6f21fc12e42465cbda44034110b58791.jpg"
+			"47": "img/card/sign_p/6f21fc12e42465cbda44034110b58791.jpg",
+			"48": "img/card/sign_p/43ba3a6aafd5271bf7fc7d9784fb9963.jpg",
+			"49": "img/card/sign_p/d5e52f5aac8fc6ac79b35aa07302d18c.jpg"
 		},
-		"l_nosign": [
+		"l_nosign": [ //http://125.6.169.35/idolmaster/image_sp/card/l/HASH.jpg
 			"",
 			"",
 			"",
@@ -4148,9 +4152,11 @@
 			"img/card/nosign/69394649d722e78e0490ef79f731fad1.jpg",
 			"img/card/nosign/add90fd23adac3c6aad4894fb840e4c9.jpg",
 			"img/card/nosign/ed7d5f13c8d9abb4a9f1661baa73ecd2.jpg",
-			"img/card/nosign/6f21fc12e42465cbda44034110b58791.jpg"
+			"img/card/nosign/6f21fc12e42465cbda44034110b58791.jpg",
+			"img/card/nosign/43ba3a6aafd5271bf7fc7d9784fb9963.jpg",
+			"img/card/nosign/d5e52f5aac8fc6ac79b35aa07302d18c.jpg"
 			],
-		"l_nosign_p": {
+		"l_nosign_p": { //http://125.6.169.35/idolmaster/image_sp/card_sign_no_p/l/HASH.jpg
 			"6": "img/card/nosign_p/855d33d77752c725474da494a0e9e239.jpg",
 			"7": "img/card/nosign_p/7d8203e3cc992b16c5308358601375ea.jpg",
 			"8": "img/card/nosign_p/475dcbd4ce790875aa25b1580d0ba63a.jpg",
@@ -4192,9 +4198,11 @@
 			"44": "img/card/nosign_p/69394649d722e78e0490ef79f731fad1.jpg",
 			"45": "img/card/nosign_p/add90fd23adac3c6aad4894fb840e4c9.jpg",
 			"46": "img/card/nosign_p/ed7d5f13c8d9abb4a9f1661baa73ecd2.jpg",
-			"47": "img/card/nosign_p/6f21fc12e42465cbda44034110b58791.jpg"
+			"47": "img/card/nosign_p/6f21fc12e42465cbda44034110b58791.jpg",
+			"48": "img/card/nosign_p/43ba3a6aafd5271bf7fc7d9784fb9963.jpg",
+			"49": "img/card/nosign_p/d5e52f5aac8fc6ac79b35aa07302d18c.jpg"
 		},
-		"l_noframe": [
+		"l_noframe": [ //http://125.6.169.35/idolmaster/image_sp/card/l_noframe/HASH.jpg
 			null,
 			null,
 			null,
@@ -4242,7 +4250,9 @@
 			"img/card/noframe/69394649d722e78e0490ef79f731fad1.jpg",
 			"img/card/noframe/add90fd23adac3c6aad4894fb840e4c9.jpg",
 			"img/card/noframe/ed7d5f13c8d9abb4a9f1661baa73ecd2.jpg",
-			"img/card/noframe/6f21fc12e42465cbda44034110b58791.jpg"
+			"img/card/noframe/6f21fc12e42465cbda44034110b58791.jpg",
+			"img/card/noframe/43ba3a6aafd5271bf7fc7d9784fb9963.jpg",
+			"img/card/noframe/d5e52f5aac8fc6ac79b35aa07302d18c.jpg"
 			],
 		"mask_l": {
 		  "0": "",
@@ -4291,7 +4301,9 @@
 		  "44": "",
 		  "45": "",
 		  "46": "",
-		  "47": ""
+		  "47": "",
+		  "48": "",
+		  "49": ""
 		},
 		"mask_l2": {
 		  "0": "",
@@ -4340,7 +4352,9 @@
 		  "44": "",
 		  "45": "",
 		  "46": "",
-		  "47": ""
+		  "47": "",
+		  "48": "",
+		  "49": ""
 		},
 		"mask_l_p": {
 		  "40": "img/card/mask_l_p/d56f88bc11b49b2bda99c446a28b701f.png",
@@ -4350,7 +4364,7 @@
 		  "40": "img/card/mask_l2_p/d56f88bc11b49b2bda99c446a28b701f.png",
 		  "41": "img/card/mask_l2_p/3cea4fa7b1da7808909460fb620f97c6.png"
 		},
-		"xs": [
+		"xs": [ //http://125.6.169.35/idolmaster/image_sp/card/xs/HASH.jpg
 			"img/card/xs/d3e95e1ca3c7b346535ad23e8619ec7e.jpg",
 			"img/card/xs/341cefa6c1f43b09054cabc7f0b0c93b.jpg",
 			"img/card/xs/cdcd2f0aba695f13e4fd8c1fe7eeacfd.jpg",
@@ -4398,9 +4412,11 @@
 			"img/card/xs/69394649d722e78e0490ef79f731fad1.jpg",
 			"img/card/xs/add90fd23adac3c6aad4894fb840e4c9.jpg",
 			"img/card/xs/ed7d5f13c8d9abb4a9f1661baa73ecd2.jpg",
-			"img/card/xs/6f21fc12e42465cbda44034110b58791.jpg"
+			"img/card/xs/6f21fc12e42465cbda44034110b58791.jpg",
+			"img/card/xs/43ba3a6aafd5271bf7fc7d9784fb9963.jpg",
+			"img/card/xs/d5e52f5aac8fc6ac79b35aa07302d18c.jpg"
 			],
-		"m2": [
+		"m2": [ //http://125.6.169.35/idolmaster/image_sp/card/m2/HASH.jpg
 			"img/card/m2/d3e95e1ca3c7b346535ad23e8619ec7e.jpg",
 			"img/card/m2/341cefa6c1f43b09054cabc7f0b0c93b.jpg",
 			"img/card/m2/cdcd2f0aba695f13e4fd8c1fe7eeacfd.jpg",
@@ -4444,9 +4460,11 @@
 			"img/card/m2/d56f88bc11b49b2bda99c446a28b701f.jpg",
 			"img/card/m2/3cea4fa7b1da7808909460fb620f97c6.jpg",
 			"img/card/m2/29f6687479f7e7ead423d615fb9dfbed.jpg",
-			"img/card/m2/6a76dd71e7a32e904a56c1495c3c8701.jpg"
+			"img/card/m2/6a76dd71e7a32e904a56c1495c3c8701.jpg",
+			"img/card/m2/43ba3a6aafd5271bf7fc7d9784fb9963.jpg",
+			"img/card/m2/d5e52f5aac8fc6ac79b35aa07302d18c.jpg"
 			],
-		"quest": [
+		"quest": [ //http://125.6.169.35/idolmaster/image_sp/card/quest/HASH.jpg
 			"img/card/quest/d3e95e1ca3c7b346535ad23e8619ec7e.png",
 			"img/card/quest/341cefa6c1f43b09054cabc7f0b0c93b.png",
 			"img/card/quest/cdcd2f0aba695f13e4fd8c1fe7eeacfd.png",
@@ -4490,7 +4508,9 @@
 			"img/card/quest/d56f88bc11b49b2bda99c446a28b701f.jpg",
 			"img/card/quest/3cea4fa7b1da7808909460fb620f97c6.jpg",
 			"img/card/quest/29f6687479f7e7ead423d615fb9dfbed.jpg",
-			"img/card/quest/6a76dd71e7a32e904a56c1495c3c8701.jpg"
+			"img/card/quest/6a76dd71e7a32e904a56c1495c3c8701.jpg",
+			"img/card/quest/43ba3a6aafd5271bf7fc7d9784fb9963.jpg",
+			"img/card/quest/d5e52f5aac8fc6ac79b35aa07302d18c.jpg"
 			]
 	};
 	idol.ios_app_flg = false;
