@@ -4524,8 +4524,8 @@ var birthday_flag = false;
 if(month==9 && date==4) {
 	var birthday_flag = true;
 }
-var select_card_index = "47";
-var selected_num = null;
+var select_card_index = "48"; //시작페이지 카드 선택
+var selected_num = "48";
 var url_trade = 'http://125.6.169.35/idolmaster/auction/search_top/0/__hash_card_id__?l_frm=Idol_gallery_idol_detail_1&rnd=762495699';
 var url_album = 'http://125.6.169.35/idolmaster/archive/view/__hash_card_id__/0/0/0?l_frm=Idol_gallery_idol_detail_1&rnd=291645501';
 var url_event_memory = 'http://125.6.169.35/idolmaster/memory/detail/__event_id__/__category_id__?l_frm=Idol_gallery_idol_detail_1&rnd=47861125';
