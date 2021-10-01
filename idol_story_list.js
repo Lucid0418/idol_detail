@@ -1,6 +1,6 @@
 idol.idol_story_list = [{
     "story_id": "457",
-    "story_title": "魅せられちゃった? 人と妖の幻想奇譚",
+    "story_title": "홀려버렸다? 인간과 요물의 환상기담", //"魅せられちゃった? 人と妖の幻想奇譚",
     "voice_enable": {
         "1": "1",
         "3": "1"
