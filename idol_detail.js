@@ -3896,7 +3896,7 @@
 	    },
 	    "idol_search_param": "keyword=호죠 카렌",
 	    "premium_sign_idol_base_id": "101",
-	    "js_premium_sign": "http://sp.pf-img-a.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/js/cjs/101_sign_effect",
+	    "js_premium_sign": "js/cjs/premium/sign_effect_101.js",
 	    "archive": {
 	        "normal": "1",
 	        "premium": "1"
@@ -3976,7 +3976,7 @@
 	    },
 	    "idol_search_param": "keyword=호죠 카렌",
 	    "premium_sign_idol_base_id": "101",
-	    "js_premium_sign": "http://sp.pf-img-a.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/js/cjs/101_sign_effect",
+	    "js_premium_sign": "js/cjs/premium/sign_effect_101.js",
 	    "archive": {
 	        "normal": "1",
 	        "premium": "1"
