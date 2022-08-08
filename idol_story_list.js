@@ -18,12 +18,12 @@ idol.idol_story_list = [{
         "3": "1"
     },
     "icon": {
-        "1": "http://sp.pf-img-a.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/image_sp/ui/episode/base/101.jpg?v=20101001000000",
-        "3": "http://sp.pf-img-a.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_movie_457_4.jpg?v=20210930144649"
+        "1": "img/ui/episode/101.jpg",
+        "3": "img/ui/episode/epi_button_movie_457_4.jpg"
     },
     "movie_name_voice": {
-        "1": "http://sp.pf-img-a.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_moviename_cool_early.png?v=20101001000000",
-        "3": "http://sp.pf-img-a.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/image_sp/ui/episode/epi_button_moviename_cool_late.png?v=20101001000000"
+        "1": "img/ui/episode/epi_button_moviename_cool_early.png",
+        "3": "img/ui/episode/epi_button_moviename_cool_late.png"
     }
 }, {
 	"story_id": "428",
