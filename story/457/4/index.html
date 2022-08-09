@@ -12,44 +12,12 @@
 	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 	<link rel="stylesheet" href='../../../css/pex.css' media="all">
 	<script src='../../../js/jquery-1.9.1.min.js'></script>
-	<!--<script>
-		$(document).ready(function() {
-			if (typeof newrelic === 'object' && typeof newrelic.setPageViewName === 'function') {
-				newrelic.setPageViewName('/idolmaster/index.php/idol_story/cjs/457/4/idol_gallery--idol_detail--d3e95e1ca3c7b346535ad23e8619ec7e--2/0');
-			}
-		});
-	</script>-->
 	<meta name="authoring-tool" content="Adobe_Animate_CC">
-	<!--<style>
-		body {
-			overflow: hidden;
-		}
-
-		#mbga-pf-footer {
-			display: none;
-		}
-
-		#codeigniter_profiler {
-			height: 1500px;
-			position: absolute;
-			display: none;
-		}
-
-		#animation_container canvas {
-			-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-		}
-
-		#animation_container a {
-			-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-		}
-	</style>-->
 	<script type='text/javascript' src='../../../js/createjs.min.js'></script>
 	<script type='text/javascript' src='../../../js/app_sound.js'></script>
 	<script type='text/javascript' src='talk.js'></script>
 	<script type='text/javascript' src='457_4.js'></script>
 	<script>
-		//var image_server = "http://sp.pf-img-a.mbga.jp/12008305/";
-		//var base_url = "http://mobamas.net/idolmaster/";
 		// 音声ファイルのmanifestを定義
 		window.voice_manifest = {
 			'scene1': 'voice/scene1.mp4',
@@ -81,7 +49,7 @@
 				for (var i = 0, len = lib.properties.manifest.length; i < len; i++) {
 					new_manifest[i] = {
 						'type': 'image',
-						'src': encodeURIComponent(window.dir_name + lib.properties.manifest[i].src),
+						'src': window.dir_name + lib.properties.manifest[i].src,
 						'id': lib.properties.manifest[i].id
 					}
 				}
@@ -226,62 +194,8 @@
 		<div id="dom_overlay_container" style="pointer-events:none; overflow:hidden; width:240px; height:310px; position: absolute; left: 0px; top: 0px; display: block;">
 		</div>
 	</div>
-	<!--<div id="mbga-pf-footer">
-		<div class="mbga-pf-footer-container odd-lines mbga-pf-footer-white">
-			<ul>
-				<li class="mbga-pf-footer-list">
-					<div class="mbga-pf-fotter-content">
-						<a class="mbga-pf-footer-arrow" href="http://sp.mbga.jp/_grp_view?g=32095227">
-							<span class="mbga-pf-footer-caption">公式サークル</span>
-						</a>
-					</div>
-				</li>
-			</ul>
-		</div>
-		<div id="mbga-pf-footer-navbar">
-			<ul class="mbga-pf-box-h">
-				<li id="mbga-pf-footer-navbar-icon-grid" class="mbga-pf-footer-li">
-					<a class="mbga-pf-footer-a mbga-pf-footer-home-w" href="http://sp.mbga.jp/?_from=globalfooter">
-						<span class="mbga-pf-footer-txt">ホーム</span>
-					</a>
-				</li>
-				<li id="mbga-pf-footer-navbar-icon-mypage" class="mbga-pf-footer-li">
-					<a class="mbga-pf-footer-a mbga-pf-footer-mypage-w" href="http://sp.mbga.jp/_my0?_from=globalfooter">
-						<span class="mbga-pf-footer-txt">マイページ</span>
-					</a>
-				</li>
-				<li id="mbga-pf-footer-navbar-icon-mygame" class="mbga-pf-footer-li">
-					<a class="mbga-pf-footer-a mbga-pf-footer-mygame-w" href="http://sp.mbga.jp/_game_my_top?_from=globalfooter">
-						<span class="mbga-pf-footer-txt">マイゲーム</span>
-					</a>
-				</li>
-				<li id="mbga-pf-footer-navbar-icon-notification" class="mbga-pf-footer-li">
-					<a class="mbga-pf-footer-a mbga-pf-footer-game-w" href="http://sp.mbga.jp/_game_top?_from=globalfooter">
-						<span class="mbga-pf-footer-txt">ゲーム</span>
-					</a>
-				</li>
-			</ul>
-		</div>
-		<script type="text/javascript" charset="UTF-8">
-			(function() {
-				document.addEventListener('DOMContentLoaded', function() {
-					var list = document.getElementsByClassName('mbga-pf-footer-li');
-					var i = 0,
-						l = list.length;
-					for (; i < l; i++) {
-						var elem = list[i];
-						elem.addEventListener('touchstart', function(e) {
-							e.currentTarget.className = e.currentTarget.className.replace(/$/, ' mbga-pf-tapped');
-						});
-						elem.addEventListener('touchend', function(e) {
-							e.currentTarget.className = e.currentTarget.className.replace(/ mbga-pf-tapped/, '');
-						});
-						elem.addEventListener('touchmove', function(e) {});
-					}
-				});
-			})();
-		</script>
-	</div>-->
+	<script type='text/javascript' src='../../../js/boombox.min.js'></script>
+    <script type='text/javascript' src='../../../js/voice_cjs.js'></script>
 </body>
 
 </html>
