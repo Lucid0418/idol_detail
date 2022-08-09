@@ -7,7 +7,7 @@ idol.idol_story_list = [{
     },
     "flash_path": {
         "1": "http://sp.pf.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/idol_story/movie_play/457/2/idol_gallery--idol_detail--__hash_card_id__--2?l_frm=Idol_gallery_idol_detail_1&rnd=145451481",
-        "3": "http://sp.pf.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/idol_story/movie_play/457/4/idol_gallery--idol_detail--__hash_card_id__--2?l_frm=Idol_gallery_idol_detail_1&rnd=955376052"
+        "3": "https://lucid0418.github.io/idol_detail/story/457/4"
     },
     "voice_url": {
         "1": "http://sp.pf.mbga.jp/12008305/?guid=ON&amp;url=http://125.6.169.35/idolmaster/idol_story/sound_play/457/2/idol_gallery/__hash_card_id__?l_frm=Idol_gallery_idol_detail_1&rnd=108017933",
